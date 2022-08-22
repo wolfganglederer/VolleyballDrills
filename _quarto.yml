@@ -29,6 +29,7 @@ website:
       - 06-komplex.qmd
       - 07-positionen.qmd
       - links.qmd
+      - about.qmd
       
 format:
   html:

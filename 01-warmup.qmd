@@ -1,5 +1,6 @@
-# Warm Up
-
+---
+title: Warm Up
+---
 
 ```{r}
 #| include: false
@@ -12,9 +13,7 @@ library(tweenr)
 recalculate <- FALSE
 ```
 
-
 ## Spielformen
-
 
 ### Ausbaggern
 

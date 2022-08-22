@@ -1,3 +1,5 @@
-# Links
+---
+title: Links
+---
 
 [vobamooc](http://www.vobamooc.de/de)

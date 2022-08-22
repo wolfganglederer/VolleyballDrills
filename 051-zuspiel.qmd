@@ -1,4 +1,6 @@
-# Zuspiel
+---
+title: Zuspiel
+---
 
 ```{r}
 #| include: false

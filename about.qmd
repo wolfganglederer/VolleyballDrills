@@ -1,9 +1,13 @@
 ---
-title: "About"
+title: "Wolfgang Lederer"
+about:
+  template: jolla
+  image: wl.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/wolfganglederer
 ---
 
-About this site
+Wolfgang spielt Volleyball, fährt Rennrad und besteigt gerne hohe Berge. Wenn dann noch Zeit bleibt, versucht er sich an D&D.
 
-```{r}
-1 + 1
-```

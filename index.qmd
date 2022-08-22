@@ -1,4 +1,6 @@
-# Volleyballübungen {.unnumbered .unlisted}
+---
+title: Volleyballübungen
+---
 
 ```{r echo=FALSE}
 knitr::include_graphics("cover.png")
