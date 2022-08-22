@@ -1,5 +1,6 @@
 ---
 title: Links
+lang: de
 ---
 
 [vobamooc](http://www.vobamooc.de/de)

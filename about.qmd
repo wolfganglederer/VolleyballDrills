@@ -1,5 +1,6 @@
 ---
 title: "Wolfgang Lederer"
+lang: de
 about:
   template: jolla
   image: wl.png
