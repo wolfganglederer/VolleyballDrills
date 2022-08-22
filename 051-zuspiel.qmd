@@ -1,0 +1,75 @@
+# Zuspiel
+
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+```
+
+## Technick
+
+
+
+
+
+## Viereck zu Dritt
+
+Drei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.
+
+
+```{r}
+#| include: false
+if(recalculate){
+par_square_by3 <- 
+  tribble(~time,~ball_x, ~ball_y, ~p1_x, ~p1_y,
+          1, 0.02, 0.02, 0.5, 0.5,
+          2, 0.02 , 0.98, 0,1,
+          3, 0.98, 0.98, 0.5, 0.5,
+          4, 0.98, 0.02 , 1, 0,
+          5, 0.02, 0.02 , 0.5, 0.5,
+          )
+
+par_square_by3_plot <- 
+  par_square_by3 %>%  ggplot() +
+    geom_point(aes(x = ball_x, y = ball_y),color = "goldenrod1", size = 7) +
+    geom_point(aes(x = 0, y = 0), color = "blue", size = 9) +
+    geom_point(aes(x = 1, y = 1), color = "blue", size = 9) +
+    geom_point(aes(x = p1_x, y = p1_y), color = "blue", size = 9) +
+    theme_void()+
+    transition_time(time)
+
+
+anim_save("img/square_by3.gif", par_square_by3_plot, bg = "transparent")
+}
+```
+
+
+```{r}
+#| echo: false
+knitr::include_graphics("img/square_by3.gif")
+```
+
+
+## Zielspiel auf ein Ziel
+
+Speziell für kurze Bälle. Trainer steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/J4JzO0cUw6E")
+```
+
+
+## Links
+
+[Zuspiel mit Patrick Steuerwald](http://volleyball.de/uploads/media/vm_05_01_18_21_warm.pdf)
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/1oUK_qBFzzI")
+```

@@ -1,0 +1,55 @@
+# Angriff
+
+
+```{r}
+#| echo: false
+library(knitr)
+```
+
+## Technik
+
+### Anlauf
+
+  * **Links** kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben)
+  * **Rechts** großer Schritt mit viel Geschwindigkeit. Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt. Beide Arme werden zum Schwung holen weit nach hinten geführt.
+  * **Links** Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.
+
+
+
+### Ausholen
+
+  * Beide Arme gehen nach oben. 
+  * Linker Arm an die Position an der der Ball geschlagen werden soll. 
+  * Rechter Arm geht nach oben hinten, Ellenbogen auf Höhe des Ohres (eher tief) Handfläche nach aussen. (Zeus, Daumen an den Hinterkopf). 
+  * Handgelenk abknicken um den Peitscheneffekt zu verstärken.
+
+### Armzug
+
+ * Rechter Arm wird nach vorne geführt. Oberarm nahe am Kopf, rechte Schulter geht nach oben und vorne. Unterarm schnellt nach vorne (Peitsche). Hand geöffnet und locker, das Handgelenk locker. Nach dem Ballkontakt schwingt der Arm diagonal durch zur linken Hüfte.
+  * Linker Arm wird angewinkelt und zur Körpermitte geführt um nicht zu überdrehen.
+
+Insgesamt runde Bewegung ohne Pausen.
+
+
+## Video
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/rBDr1S7fPhU?rel=0")
+```
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/Xn7h8zuJvjg")
+```
+
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/Ea1_02seb9E")
+```
+
+```{r}
+#| echo: false
+# include_url("http://www.volleyball-trainieren.de/download/Volleyball-Technik-Angriff.pdf")
+```

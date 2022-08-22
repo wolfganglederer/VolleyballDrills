@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Volleyball"
+  author: "Wolfgang Lederer"
+  number-sections: true
+  repo-url: https://github.com/wolfganglederer/VolleyballDrills
+  repo-actions: [edit, issue]
+  sidebar:
+    tools:
+    - icon: github
+      menu:
+        - text: Source Code
+          url:  https://github.com/wolfganglederer/VolleyballDrills
+        - text: Report a Bug
+          url:  https://github.com/wolfganglederer/VolleyballDrills/issues
+    style: "floating"
+    search: true
+    contents: 
+      - index.qmd
+      - 01-warmup.qmd
+      - 02-einspielen.qmd
+      - 03-angriff.qmd
+      - 04-block.qmd
+      - 05-annahme.qmd
+      - 051-zuspiel.qmd
+      - 06-komplex.qmd
+      - 07-positionen.qmd
+      - links.qmd
+      
+format:
+  html:
+    theme: litera
+    toc: true
+
+
+
