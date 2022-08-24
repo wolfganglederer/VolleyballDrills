@@ -22,7 +22,7 @@ library(knitr)
 
   * Beide Arme gehen nach oben. 
   * Linker Arm an die Position an der der Ball geschlagen werden soll. 
-  * Rechter Arm geht nach oben hinten, Ellenbogen auf Höhe des Ohres (eher tief) Handfläche nach aussen. (Zeus, Daumen an den Hinterkopf). 
+  * Rechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tief) Handfläche nach aussen. (Zeus, Daumen an den Hinterkopf). 
   * Handgelenk abknicken um den Peitscheneffekt zu verstärken.
 
 ### Armzug
