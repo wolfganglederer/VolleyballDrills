@@ -42,14 +42,11 @@ library(knitr)
 
 * [Grundposition](#Grundposition)
 * rechter Fuß macht einen großen Schritt nach rechts und leicht weg vom Netz. Fuß parallel zum Netz. Körper öffnet sich in Laufrichtung
-* linker Fuß wird nachgezogen, am rechten Fußc weit vorbeigeführt und stemmt ein um die Bewegung zu stoppen und den Schwung für den Sprung zu nutzen. Fuß steht möglichst im rechten Winkel zum Netz Körper dreht sich wieder zum Netz
+* linker Fuß wird nachgezogen, am rechten Fuß weit vorbeigeführt und stemmt ein um die Bewegung zu stoppen und den Schwung für den Sprung zu nutzen. Fuß steht möglichst im rechten Winkel zum Netz Körper dreht sich wieder zum Netz
 * rechter Fuß wir parallel zum linken Fuß in Schulterbreite nachgeführt und stemmt ebenfalls ein.
 * Sprung ohne Seitwärtsbewegung gerade nach oben
 * Hände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden
 * (Variante: Swingblock: die Arme zum Schwungholen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netztberührung zu vermeiden)
-
-
-
 
 ### Blickreihenfolge
 
@@ -57,7 +54,6 @@ library(knitr)
 2. Zuspieler (erkennen der Richtung des Zuspiels)
 3. Ball (Korrektes Abschätzen der Weite)
 4. Angreifer (Erkennen der Hauptschlagrichtung)
-
 
 ## Ball am Netz übergeben
 

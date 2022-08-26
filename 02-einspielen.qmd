@@ -26,6 +26,7 @@ Um eine hohe Kadenz an Abwehr/Annahmebewegungen zu erreichen, hält der Angriffs
 ## Varianten
 * Der Dankeball wird zu kurz, nach links oder nach rechts geworfen um eine Bewegung des Abwehrspielers zu erzwingen.
 * Die Angriffe werden härter oder gelobt.
+* Angriff vom Netz und Abwehr zum Netz
 :::
 
 ### Ball ins Gesicht
@@ -68,17 +69,16 @@ Paarweise, ein Angriffsspieler mit Rücken zum Netz und ein Abwehrspieler:
 
 ### Lang, kurz
 
-Angriffsspieler mit rücken zum Netz greift lang an auf Abwehrspieler. Hohe Abwehr. Angriffsspieler legt den Ball kurz. Nach Zwischenspiel wieder langer Angriff usw.
+Angriffsspieler mit dem Rücken zum Netz greift lang an auf Abwehrspieler. Hohe Abwehr. Angriffsspieler legt den Ball kurz. Nach Zwischenspiel wieder langer Angriff usw.
 
 :::{.callout-tip} 
 ## Varianten
 * kurzer Ball muss im oberen  Zuspiel gespielt werden
-* ...
 :::
 
 ### Zuspiel im Sprung
 
-Die Spieler stehen sich im etwas geringerm Abstand gegenüber und spielen sich den Ball immer mit oberen Zuspiel im Sprung zu. Dabei daurauf achten, dass man immer einen kleinen Stemmschritt macht und sich nach jedem gespieltem Ball wieder zwei Schritte zurück zieht. Der Ball sollte gespielt werden wenn man gerade den höchsten Punkt überschritten hat, dadurch entsteht der Eindruck, man würde kurz in der Luft stehen.
+Die Spieler stehen sich im etwas geringem Abstand gegenüber und spielen sich den Ball immer mit oberen Zuspiel im Sprung zu. Dabei daurauf achten, dass man immer einen kleinen Stemmschritt macht und sich nach jedem gespieltem Ball wieder zwei Schritte zurück zieht. Der Ball sollte gespielt werden wenn man gerade den höchsten Punkt überschritten hat, dadurch entsteht der Eindruck, man würde kurz in der Luft stehen.
 
 ### Zwischenspiel
 
@@ -87,7 +87,7 @@ Jeder Spieler spielt sich den Ball einmal selbst zu. Dabei gibt es verschiedene 
 * Einmal kurzes oberes Zuspiel und lang zurück
 * unteres Zuspiel und und oberes zurück
 * kurzes oberes Zuspiel und um 180° drehen und über Kopf zurück
-* unteres Zuspiel um 180° drehenh und über Kopf im oberen Zuspiel zurück
+* unteres Zuspiel um 180° drehen und über Kopf im oberen Zuspiel zurück
 * Viele weitere Varianten denkbar
 
 
@@ -98,14 +98,14 @@ Jeder Spieler wehrt den Ball zu sich selbst ab, spielt sich den Ball selbst zu u
 :::{.callout-tip} 
 ## Varianten
 * Angriff im Sprung.
-* der abwehrende Spieler wechselt die Position zwischen Abwehr und Zuspiel um den Angreifer zu zwingen zwischen denb Aktionenen zu schauen. Angriff erfolgt gezielt auf den Abwehrspieler
+* der abwehrende Spieler wechselt die Position zwischen Abwehr und Zuspiel um den Angreifer zu zwingen zwischen den Aktionen zu schauen. Angriff erfolgt gezielt auf den Abwehrspieler
 :::
 
 ## Zu Dritt
 
 ### Russiche Abwehrübung
 
-Drei Spieler, zwei Bälle. Die Spieler stehenh auf einer Linie und die äusseren Spieler werfen abwechselnd den Ball so, dass der Spieler in der Mitte immer ein paar Schritte machen muss, bis er den Ball spielen kann. Die Bälle sollen so geworfen werden, dass es für den Spieler in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist. Es ist auf eine volle Drehung zu achten.
+Drei Spieler, zwei Bälle. Die Spieler stehen auf einer Linie und die äusseren Spieler werfen abwechselnd den Ball so, dass der Spieler in der Mitte immer ein paar Schritte machen muss, bis er den Ball spielen kann. Die Bälle sollen so geworfen werden, dass es für den Spieler in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist. Es ist auf eine volle Drehung zu achten.
 
 
 ```{r}
@@ -141,6 +141,8 @@ knitr::include_graphics("img/russisch.gif")
 :::{.callout-tip} 
 ## Varianten
 * jeder zweite Ball wird angegriffen.
+* manche Bälle werden gelegt
+* es werden Bälle gespielt, die eine Abwehr im oberen Zuspiel erfordern
 :::
 
 ### Zuspiel aus der Mitte

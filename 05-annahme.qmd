@@ -17,7 +17,7 @@ library(knitr)
   * Tief stehen
   * Gewicht auf dem Vorderfuß (Knie vor den Zehen)
   * nach vorne gebeugt (Schultern vor den Knien)
-  * Arme seitlich Handflächen nach oben (paralell zum Oberschenkel)
+  * Arme seitlich Handflächen nach oben (parallel zum Oberschenkel)
   * Hände tiefer als der Ellenbogen
 
 ### Bewegung (Vase Auf dem Kopf)
@@ -126,7 +126,7 @@ Drei Abwehrspieler auf Position 1, 5 und 6. Ein Zuspieler/Angreifer am Netz. Der
 
 ## Abwehr-Kette
 
-An der langen Seite des Feldes stellet sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegnüberliegenden Hälfte ein Hütchen/Medizinball gelegt.  Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zumm nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
+An der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegnüberliegenden Hälfte ein Hütchen/Medizinball gelegt.  Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
 
 :::{.callout-tip}
 ## Varianten

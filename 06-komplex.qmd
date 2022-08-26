@@ -24,7 +24,7 @@ Auf beiden Feldhälften wird eine Mannschaft mit mindesten 3 Spielern aufgestell
 * Spieler auf Position 4 beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.
 * Die Richtung wird gewechselt
 * Alle Spieler gehen zur Angriffssicherung
-* Der Zuspieler versucht zu blocken um die Anggriffssicherung zu testen
+* Der Zuspieler versucht zu blocken um die Angriffssicherung zu testen
 :::
 
 ## Kreisel
@@ -68,7 +68,7 @@ Diese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit Aufschla
 
 Ziel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn der Spieler in der Mitte annimmt/abwehrt und von der **2** zugespielt wird, muss von der **4** angegriffen werden. Die Abwehrspieler können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen **4** bewegen und dort auf die Abwehr vorbereiten.
 
-Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise durchrotiert.
+Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise durch rotiert.
 
 :::{.callout-important}
 ## Übungsschwerpunkte

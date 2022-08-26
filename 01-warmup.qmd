@@ -18,7 +18,7 @@ recalculate <- FALSE
 
 ### Ausbaggern
 
-Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Speiler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm
+Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm
 
 :::{.callout-tip}
 ## Varianten
@@ -40,7 +40,7 @@ Drei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hi
 * Jedesmal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung
 * Einmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück
 * Jeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurückspielt und fängt danach seinen Ball.
-* Es wird abwechselnd Angriff, Abwehr und Zuspiel gerspiel
+* Es wird abwechselnd Angriff, Abwehr und Zuspiel gespielt
 :::
 
 ### Spielen mit Nachlaufen Diagonal
@@ -56,7 +56,7 @@ Je zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. N
 * oberes und unters Zuspiel abwechseln
 * den Ball über Kreuz spielen
 * den Ball im Sprung zuspielen
-* jeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbs vor und spielt dann den Spielball
+* jeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball
 :::
 
 ```{r}
