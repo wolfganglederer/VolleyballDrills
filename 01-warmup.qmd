@@ -102,6 +102,12 @@ Die Spieler stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt
 * Oberes und unteres Zuspiel abwechseln
 :::
 
+:::{.callout-important}
+## Übungsziele
+* Position zum Ball
+* Ausrichtung zum Ziel
+:::
+
 ```{r}
 #| include: false
 if(recalculate){

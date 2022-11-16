@@ -101,6 +101,22 @@ Jeder Spieler wehrt den Ball zu sich selbst ab, spielt sich den Ball selbst zu u
 * der abwehrende Spieler wechselt die Position zwischen Abwehr und Zuspiel um den Angreifer zu zwingen zwischen den Aktionen zu schauen. Angriff erfolgt gezielt auf den Abwehrspieler
 :::
 
+### Ball aus der Mitte werfen
+
+Werfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts geworfen um die richtige Bewegung vom Ball weg zu lernen. Annahmespieler zieht sich 2-3 Schritte zurück und baggert den Ball nach vorne. Jeweils ca. 10 Würfe auf jede Seite.
+
+:::{.callout-important}
+## Übungsschwerpunkte
+* auf die richtige Grundstellung achten
+* auf die richtige Bewegung zum und weg vom Ball achten
+:::
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/qb_4NcksLq8")
+```
+
+
 ## Zu Dritt
 
 ### Russiche Abwehrübung

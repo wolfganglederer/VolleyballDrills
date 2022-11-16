@@ -16,10 +16,6 @@ recalculate <- FALSE
 
 ## Technick
 
-
-
-
-
 ## Viereck zu Dritt
 
 Drei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.
@@ -50,6 +46,17 @@ par_square_by3_plot <-
 anim_save("img/square_by3.gif", par_square_by3_plot, bg = "transparent")
 }
 ```
+
+:::{.callout-tip} 
+## Varianten
+* Einfachere Variante ist mit Zwischenspiel
+:::
+
+:::{.callout-important}
+## Übungsziele
+* auf die Position zum Ball achten
+* Ausrichtung des Spielers zum Ziel
+:::
 
 
 ```{r}
