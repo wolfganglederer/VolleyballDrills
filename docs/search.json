@@ -63,6 +63,13 @@
     "text": "Reaction Ball"
   },
   {
+    "objectID": "03-angriff.html",
+    "href": "03-angriff.html",
+    "title": "Angriff",
+    "section": "",
+    "text": "Warning: Paket 'knitr' wurde unter R Version 4.2.2 erstellt"
+  },
+  {
     "objectID": "03-angriff.html#technik",
     "href": "03-angriff.html#technik",
     "title": "Angriff",
@@ -145,6 +152,13 @@
     "title": "Annahme/Abwehr",
     "section": "Abwehr Ausdauerdrill",
     "text": "Abwehr Ausdauerdrill\nAuf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der anderen Seite des Netzes ein Spieler auf Position 3. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position 1 und wehrt einen geschlagenen Ball von Position 4 ab. Danach wir ein Ball von Postion 3 gelegt ein Ball von Position 2 angegriffen wieder ein Ball von Position 3 gelegt, danach ein Angriff von Position 4 abgewehrt und ein gelegter Ball von Position 2 abgewehrt. Es können beide Feldhälften genutzt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nAlle geschlagenen Bälle können auch gelegt werden"
+  },
+  {
+    "objectID": "05-annahme.html#abwehr-hoch-feldmitte",
+    "href": "05-annahme.html#abwehr-hoch-feldmitte",
+    "title": "Annahme/Abwehr",
+    "section": "Abwehr hoch Feldmitte",
+    "text": "Abwehr hoch Feldmitte\nJe ein Angreifer auf 2 und 4. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein…"
   },
   {
     "objectID": "05-annahme.html#langer-ball",
@@ -263,7 +277,7 @@
     "href": "07-positionen.html",
     "title": "Positionen",
     "section": "",
-    "text": "Als Mannschaft zur Annahme aufstellen. Dann Aufschlag ausspielen und danach einen Dankeball hinterher werfen.\nWeiter rotieren nach\n\n2 großen Punkten (Beide Bälle verwandelt)\nNach 5 Versuchen\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nDen Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.\nEine 2. Mannschaft in das andere Feld stellen und einen dritten Ball zu dieser Mannschaft werfen und ausspielen"
+    "text": "Als Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte versammeln. Der Rest schlägt auf und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:\n\neinen Dankeball hinterherwerfen\neinen Ball einschlagen\neinen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)\neinen Ball zum Rest werfen der abgewehrt und angegriffen wird\ndirekt einen Ball für einen Rückraumangriff des Rests anwerfen.\n\nWeiter rotieren nach\n\n2 großen Punkten (Beide Bälle verwandelt)\nNach 5 Versuchen\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nDen Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.\nZwei Aufschläger. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der Erste ins Netz geht."
   },
   {
     "objectID": "about.html",
