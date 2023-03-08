@@ -27,6 +27,16 @@ Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwe
 * Es wird nur auf den 3-Meter-Raum gespielt
 :::
 
+### 3 vs. 3 mit 2 Bällen
+
+Jeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/ManHBLf6X3A")
+```
+
+
 ## Übungen
 
 ### Spielen mit Nachlaufen
@@ -137,6 +147,7 @@ anim_save("img/3eck.gif", tri_play_plot, bg = "transparent")
 #| echo: false
 knitr::include_graphics("img/3eck.gif")
 ```
+
 
 ## Ohne Ball
 

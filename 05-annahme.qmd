@@ -128,6 +128,13 @@ Drei Abwehrspieler auf Position 1, 5 und 6. Ein Zuspieler/Angreifer am Netz. Der
 * Nach jedem kurzen (gelegtem) Ball geht der Spieler der den Ball abgewehrt hat auf die lange 6 und der Spieler auf der 6 rückt auf die Position des Ballspielenden.
 :::
 
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/NEzf3sKM2ZQ")
+```
+
+
 ## Abwehr-Kette
 
 An der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegnüberliegenden Hälfte ein Hütchen/Medizinball gelegt.  Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
