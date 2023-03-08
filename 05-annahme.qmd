@@ -85,6 +85,10 @@ Auf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der
 include_url("https://www.youtube.com//embed/oMHZulZ7zg0?rel=0")
 ```
 
+## Abwehr hoch Feldmitte
+
+Je ein Angreifer auf **2** und **4**. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein...
+
 ## Langer Ball
 
 Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldehälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.

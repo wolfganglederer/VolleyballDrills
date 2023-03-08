@@ -1,12 +1,9 @@
 project:
   type: website
   output-dir: docs
-  lang: de
 
 website:
   title: "Volleyball"
-  author: "Wolfgang Lederer"
-  number-sections: true
   repo-url: https://github.com/wolfganglederer/VolleyballDrills
   repo-actions: [edit, issue]
   sidebar:
@@ -34,7 +31,9 @@ website:
       
 format:
   html:
-    theme: litera
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
 
 

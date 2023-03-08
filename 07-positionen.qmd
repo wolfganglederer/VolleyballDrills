@@ -5,7 +5,13 @@ lang: de
 
 ## Aufstellung
 
-Als Mannschaft zur Annahme aufstellen. Dann Aufschlag ausspielen und danach einen Dankeball hinterher werfen.
+Als Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte versammeln. Der Rest schlägt auf und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:
+
+* einen Dankeball hinterherwerfen
+* einen Ball einschlagen
+* einen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)
+* einen Ball zum Rest werfen der abgewehrt und angegriffen wird
+* direkt einen Ball für einen Rückraumangriff des Rests anwerfen.
 
 Weiter rotieren nach 
 
@@ -15,6 +21,6 @@ Weiter rotieren nach
 :::{.callout-tip}
 ## Varianten
 * Den Aufschlag von einem niedrigen Kasten ausführen, um härtere  Aufschläge zu simulieren.
-* Eine 2. Mannschaft in das andere Feld stellen und einen dritten Ball zu dieser Mannschaft werfen und ausspielen
+* Zwei Aufschläger. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der Erste ins Netz geht.
 :::
 
