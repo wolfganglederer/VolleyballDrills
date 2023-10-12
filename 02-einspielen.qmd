@@ -211,6 +211,11 @@ knitr::include_graphics("img/mitte.gif")
 * Nach dem Angriff tauschen Zuspieler und Angreifer den Platz.
 :::
 
+### Abwehr hoch
+
+Zwei Spieler:innen bilden einen Abwehrriegel ein dritte Person steht gegenüber und greift an. Eine:r der beiden Abwehrspieler:innen wehrt ab, achtet dabei aber darauf, dass der Ball nur ca. ein drittel des Weges zur anderen Seite zurücklegt. Der/die nicht Abwehrende spielt den Ball wieder auf die Person die angreift zu und zieht sich dann möglichst schnell wieder in die Abwehr zurück. Der zugespielte Ball wird wieder angegeriffen, verteidigt und zugespielt.
+
+
 ### Abwehr Zuspiel Angriff
 
 2 Dreiergruppen. Eine Gruppe am Netz 1 Spieler auf Position **2** und 2 Spieler auf **4**. Ein Abwehrspieler auf Position **1**. Es beginnt mit einem Angriff von Position **4** auf Position **1**. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position **2,5** auf Position **2** zu und stellt sich dann hinter **2** an. Der Abwehrspieler stellt sich hinter **6** an und ein neuer Abwehrspieler läuft auf **5** und erwartet den Angriff von **2**. Der zugespielte Ball wird von **2** angegriffen und von **5** abgewehrt. Der Spieler von **2** wird der neue Zuspieler und spielt von **2,5** auf **4** zu. Abwehrspieler von  **5** stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos **1** und verteidigt. Ab hier wie von Anfang an.

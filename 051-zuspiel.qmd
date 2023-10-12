@@ -67,12 +67,40 @@ knitr::include_graphics("img/square_by3.gif")
 
 ## Zielspiel auf ein Ziel
 
-Speziell für kurze Bälle. Trainer steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.
+Speziell für kurze Bälle. Trainer*in steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.
 
 ```{r}
 #| echo: false
 include_url("https://www.youtube.com/embed/J4JzO0cUw6E")
 ```
+
+## Pritschen im sitzen
+
+Um das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste sitzend zu Pritschen um die Bewegung des Körpers rauszunehmen.
+
+## Dreiecksspiel (Peripheres Sehen)
+
+- Spieler*innen bilden ein Dreieck und spielen den Ball.
+- einzelne Spieler*innen nehmen sich selbst aus dem Spiel in dem sie in die Knie gehen
+- die anderen Beiden müssen entsprechend reagieren und auf die freie Person spielen oder zu sich selbst
+
+
+## Zuspieler reagiert auf Block
+
+**Vorbereiteung**
+
+- Zwei Fänger*innen am Netz und dazwischen ein Zuspieler.
+- Eine Person zum Blocken auf der anderen Seite des Netzes.
+- Ein bis zwei Anspieler*innen.
+
+**Ablauf:**
+
+1. Anspieler spielt zum Zuspieler
+2. Blockspieler bewegt sich
+3. Zuspieler spielt zum freien Fänger
+4. Fänger spielt zum Anspieler
+5. Anspieler wieder zum Zuspieler.
+6. usw.
 
 
 ## Links
