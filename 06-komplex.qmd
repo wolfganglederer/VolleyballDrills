@@ -59,7 +59,7 @@ include_url("https://www.youtube.com//embed/32BplDj0tT0?rel=0")
 Wie [Sechser Kreisel], mit der Ausnahme, dass es einen oder zwei dedizierte Zuspieler gibt, der von außerhalb des Feldes einläuft.
 
 
-## Angriff-Abwehr mit schauen
+## Angriff-Abwehr mit Schauen
 
 Diese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:
 
@@ -81,6 +81,40 @@ Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise durch rotie
 * 1-3 zusätzliche Blockspieler können ebenfalls üben sich frühzeitig zu bewegen
 * anstatt diagonal, zeigt der angreifende Spieler die Richtung an
 :::
+
+## Angriff-Abwehr Situativ entscheiden.
+
+Die Übung wird in 3er Gruppen und nach dem Modus "King of the court" durchgeführt.
+
+Auf jeder Seite ist ein fixer Zuspieler, die von der Rotation ausgenommen sind.
+
+Das Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:
+
+- Es darf nur aus dem Rückraum angegriffen werden.
+- Auf der Aufschalgsseite darf von den Aussen (**1** & **5**) nur longline angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
+- Auf der Verteidigenden Seite darf von Aussen (**1** & **5**) nur diagonal angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
+- Longline und Diagonal beschreibt  jeweils die ganze Feldhälfte.
+
+
+:::{.callout-important}
+## Übungsschwerpunkte
+
+- Es ist eine Abwehrübung! d.h. sicherer Angriff und Aufschlag.
+- Die Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.
+:::
+
+:::{.callout-tip}
+## Varianten
+- Angriff von vorne.
+- Die Mitte darf beliebig angreifen.
+- Nach jedem Punkt muss die Siegermannschaft die Positionen wechseln
+- Zuspieler blockt
+:::
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/d21LyYG4cCc?si=fcc-WiHCDWrB7HXe")
+```
 
 ## Aufschlag-Annahme-Angriff-Abwehr
 
