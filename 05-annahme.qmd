@@ -76,6 +76,13 @@ Ein Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion
 include_url("https://www.youtube.com/embed/U2fTX-e-B6c?si=B8LkeYCoGldu2LGC")
 ```
 
+## Sichern
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/dLQIOUDR4NM?si=i8CVIKox9qnGNK_H")
+```
+
 ## Abwehr Ausdauerdrill
 
 Auf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der anderen Seite des Netzes ein Spieler auf Position 3. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position 1 und wehrt einen geschlagenen Ball von Position 4 ab. Danach wir ein Ball von Postion 3 gelegt ein Ball von Position 2 angegriffen wieder ein Ball von Position 3 gelegt, danach ein Angriff von Position 4 abgewehrt und ein gelegter Ball von Position 2 abgewehrt. Es können beide Feldhälften genutzt werden.
