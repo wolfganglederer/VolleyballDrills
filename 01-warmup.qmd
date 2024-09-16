@@ -148,6 +148,11 @@ anim_save("img/3eck.gif", tri_play_plot, bg = "transparent")
 knitr::include_graphics("img/3eck.gif")
 ```
 
+## Spielen im 4-Eck
+
+Drei Spielende bilden ein Viereck bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem man den Ball gespielt hat, läuft man auf die freie Ecke.
+
+
 
 ## Ohne Ball
 
