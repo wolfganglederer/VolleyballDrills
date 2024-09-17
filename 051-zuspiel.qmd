@@ -102,6 +102,21 @@ Um das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste
 5. Anspieler wieder zum Zuspieler.
 6. usw.
 
+## Zuspiel im Dreieck
+
+1 Zuspieler*in steht auf Position **3**. Die Positionen **1**,**2**,**4** und **5** werden von von Spielenden besetzt. Es wird mit 2 Bällen in 2 Dreiecken gespielt.
+
+- 1 -> 2 -> 3 ->1
+- 4 -> 5 -> 3 -> 4
+
+Die Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspielerin möglich ist, in beiden Dreiecken am Spiel teilzunehmen.
+
+::: {.callout-important}
+## Übungsziele
+- Der Zuspieler achtet darauf dass er sich immer korrekt zum Pfosten ausrichtet und auch unter Zeitdruck sauber spielt.
+:::
+
+
 
 ## Links
 

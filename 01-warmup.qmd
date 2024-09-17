@@ -57,7 +57,17 @@ Drei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hi
 
 Drei bis vier Spieler spielen sich den Ball mit Nachlaufen zu. Dabei stehen sie diagonal im Feld und kreuzen den Weg mit einer zweiten Gruppe. Zusätzlich zu den Varianten in [Spielen mit Nachlaufen], kann noch über Eck gelaufen werden.
 
-### Paralell Spielen und Position wechseln
+### Spielen mit Nachlaufen und Zuspiel
+
+Mindestens vier Spielende sind auf einer Feldseite. Positionen **2**,**4**,**6** sind besetzt. Es gibt eine Warteposition hinter Position **2**. Position **2** spielt den Ball auf **4** zu der ihn auf **6** spielt. Von da wird auf Position **2** angenommen. Alle Spielenden laufen dem Ball hinterher.
+
+:::{.callout-tip}
+## Varianten
+- Der Ball wird von Position **4** leicht (!) angegriffen
+- Position **4** zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position **6** bewegt sich entsprechend.
+:::
+
+### Parallel Spielen und Position wechseln
 
 Je zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.
 
@@ -151,8 +161,6 @@ knitr::include_graphics("img/3eck.gif")
 ## Spielen im 4-Eck
 
 Drei Spielende bilden ein Viereck bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem man den Ball gespielt hat, läuft man auf die freie Ecke.
-
-
 
 ## Ohne Ball
 
