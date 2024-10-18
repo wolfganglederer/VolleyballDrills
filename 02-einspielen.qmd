@@ -116,10 +116,18 @@ Werfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts gewo
 include_url("https://www.youtube.com/embed/qb_4NcksLq8")
 ```
 
+### Netz sichern
+
+Person **A** wirft/schlägt den Ball ins Netz. Die Person **B** sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert **A**, spielt sich den Ball selbst zu und greift wieder in Netz an. usw...
+
+:::{.callout-tip}
+## Varianten
+* vereinfachen dadurch dass die sichernde Person den Ball nach dem Sichern fängt und ihn dann ins Netz wirft.
+:::
 
 ## Zu Dritt
 
-### Russiche Abwehrübung
+### Russische Abwehrübung
 
 Drei Spieler, zwei Bälle. Die Spieler stehen auf einer Linie und die äusseren Spieler werfen abwechselnd den Ball so, dass der Spieler in der Mitte immer ein paar Schritte machen muss, bis er den Ball spielen kann. Die Bälle sollen so geworfen werden, dass es für den Spieler in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist. Es ist auf eine volle Drehung zu achten.
 
@@ -213,7 +221,7 @@ knitr::include_graphics("img/mitte.gif")
 
 ### Abwehr hoch
 
-Zwei Spieler:innen bilden einen Abwehrriegel ein dritte Person steht gegenüber und greift an. Eine:r der beiden Abwehrspieler:innen wehrt ab, achtet dabei aber darauf, dass der Ball nur ca. ein drittel des Weges zur anderen Seite zurücklegt. Der/die nicht Abwehrende spielt den Ball wieder auf die Person die angreift zu und zieht sich dann möglichst schnell wieder in die Abwehr zurück. Der zugespielte Ball wird wieder angegeriffen, verteidigt und zugespielt.
+Zwei Spieler:innen bilden einen Abwehrriegel ein dritte Person steht gegenüber und greift an. Eine:r der beiden Abwehrspieler:innen wehrt ab, achtet dabei aber darauf, dass der Ball nur ca. ein drittel des Weges zur anderen Seite zurücklegt. Der/die nicht Abwehrende spielt den Ball wieder auf die Person die angreift zu und zieht sich dann möglichst schnell wieder in die Abwehr zurück. Der zugespielte Ball wird wieder angegriffen, verteidigt und zugespielt.
 
 
 ### Abwehr Zuspiel Angriff
@@ -221,7 +229,7 @@ Zwei Spieler:innen bilden einen Abwehrriegel ein dritte Person steht gegenüber 
 2 Dreiergruppen. Eine Gruppe am Netz 1 Spieler auf Position **2** und 2 Spieler auf **4**. Ein Abwehrspieler auf Position **1**. Es beginnt mit einem Angriff von Position **4** auf Position **1**. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position **2,5** auf Position **2** zu und stellt sich dann hinter **2** an. Der Abwehrspieler stellt sich hinter **6** an und ein neuer Abwehrspieler läuft auf **5** und erwartet den Angriff von **2**. Der zugespielte Ball wird von **2** angegriffen und von **5** abgewehrt. Der Spieler von **2** wird der neue Zuspieler und spielt von **2,5** auf **4** zu. Abwehrspieler von  **5** stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos **1** und verteidigt. Ab hier wie von Anfang an.
 
 
-3 Spieler wechseln sich auf der Netzpositioin ab und greifen diagonal an.
+3 Spieler wechseln sich auf der Netzposition ab und greifen diagonal an.
 3 Spieler wechseln sich in der Abwehr ab.
 
 ```{r}
@@ -233,7 +241,7 @@ include_url("https://www.youtube.com/embed/S3h2N2F7bqI")
 ## Übungsziele
 * Ballkontrolle
 * Richtige Position zum Ball in der Abwehr
-* Richtige [Abwerhposition](05-annahme.qmd#Grundstellung (Lucky Luke))
+* Richtige [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke))
 :::
 
 :::{.callout-tip}
@@ -272,7 +280,7 @@ Wie [Spielen mit Nachlaufen], allerdings hat jeder Spieler einen Ball in der Han
 
 ### Zwei gegen Zwei mit 3 Bällen
 
-Gespielt wird auf den (halben) 3-Meter-Raum jedes 2er Team hat einen (Team-) Ball und ein dritter (Spiel-) Ball wird mit 3 Berührungen normal ausgespielt. Die Schwierigkeit ist, dass keiner der beiden Bälle den Boden berühren darf. Der Teamball darf also nicht abgelegt werden. Der Teamball kann entweder sich selbst zugenworfen werden oder zum Teamkollegen, er darf aber nicht den Boden berühren. Für den Spielball zählen normale Volleyball regeln. Wenn einer der beiden Bälle den Boden berührt oder ein andere Fehler begangen wird, zählt der Punkt als verloren. Das Team das einen Fehler begangen hat wird durch das nächste wartende Team ersetzt.
+Gespielt wird auf den (halben) 3-Meter-Raum jedes 2er Team hat einen (Team-) Ball und ein dritter (Spiel-) Ball wird mit 3 Berührungen normal ausgespielt. Die Schwierigkeit ist, dass keiner der beiden Bälle den Boden berühren darf. Der Teamball darf also nicht abgelegt werden. Der Teamball kann entweder sich selbst zugeworfen werden oder zum Teamkollegen, er darf aber nicht den Boden berühren. Für den Spielball zählen normale Volleyball regeln. Wenn einer der beiden Bälle den Boden berührt oder ein andere Fehler begangen wird, zählt der Punkt als verloren. Das Team das einen Fehler begangen hat wird durch das nächste wartende Team ersetzt.
 
 :::{.callout-tip}
 ## Varianten
@@ -296,11 +304,11 @@ include_url("https://www.youtube.com/embed/DS6-P6TSpxw")
 
 ### Ball gegen die Wand
 
-Der Ball wird abwechselnd mt links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Daurauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.
+Der Ball wird abwechselnd mt links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.
 
 ### Ball gegen die Wand II
 
-Zwei Spieler. Spieler eins steht in Abwehrhaltung mit Blick auf die Wand. Spieler zwei wirft den Ball von hinten gegen die Wand und Spieler 1 fängt. Mit beiden Händen und danach mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit varieren.
+Zwei Spieler. Spieler eins steht in Abwehrhaltung mit Blick auf die Wand. Spieler zwei wirft den Ball von hinten gegen die Wand und Spieler 1 fängt. Mit beiden Händen und danach mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit variieren.
 
 :::{.callout-tip} 
 ## Varianten

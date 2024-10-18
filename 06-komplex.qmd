@@ -73,7 +73,7 @@ Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise durch rotie
 :::{.callout-important}
 ## Übungsschwerpunkte
 * Darauf achten, dass die Spieler das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.
-* Spieler stehen in richtiger [Abwerhposition](05-annahme.qmd#Grundstellung (Lucky Luke)) und bewegen sich nicht mehr wenn geschlagen wird.
+* Spieler stehen in richtiger [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke)) und bewegen sich nicht mehr wenn geschlagen wird.
 :::
 
 :::{.callout-tip}
@@ -91,7 +91,7 @@ Auf jeder Seite ist ein fixer Zuspieler, die von der Rotation ausgenommen sind.
 Das Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:
 
 - Es darf nur aus dem Rückraum angegriffen werden.
-- Auf der Aufschalgsseite darf von den Aussen (**1** & **5**) nur longline angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
+- Auf der Aufschlagseite darf von den Aussen (**1** & **5**) nur longline angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
 - Auf der Verteidigenden Seite darf von Aussen (**1** & **5**) nur diagonal angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
 - Longline und Diagonal beschreibt  jeweils die ganze Feldhälfte.
 
@@ -150,7 +150,7 @@ Es können bei dieser Übung diverse Sachen geübt werden:
 * Zuspiel (mit laufen)
 * Technik Angriff
 * Annahme und Abstimmung zu zweit
-* Abwehr (frühtzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)
+* Abwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)
 * Abwehrtechnik
 :::
 
@@ -176,7 +176,7 @@ Es können bei dieser Übung diverse Sachen geübt werden:
 
 :::{.callout-important}
 ## Übungsschwerpunkte
-* Abwehrspieler bewegen sich frühzeitig und stehen in [Abwerhposition](05-annahme.qmd#Grundstellung (Lucky Luke)) wenn geschlagen wird
+* Abwehrspieler bewegen sich frühzeitig und stehen in [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke)) wenn geschlagen wird
 * Zuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin
 * Zuspieler steht richtig zum Ball und spielt entlang der Körperachse
 :::

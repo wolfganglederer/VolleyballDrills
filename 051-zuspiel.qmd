@@ -87,7 +87,7 @@ Um das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste
 
 ## Zuspieler reagiert auf Block
 
-**Vorbereiteung**
+**Vorbereitung**
 
 - Zwei Fänger*innen am Netz und dazwischen ein Zuspieler.
 - Eine Person zum Blocken auf der anderen Seite des Netzes.
@@ -109,7 +109,7 @@ Um das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste
 - 1 -> 2 -> 3 ->1
 - 4 -> 5 -> 3 -> 4
 
-Die Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspielerin möglich ist, in beiden Dreiecken am Spiel teilzunehmen.
+Die Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.
 
 ::: {.callout-important}
 ## Übungsziele

@@ -47,9 +47,9 @@ Drei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hi
 ## Varianten
 * Oberes und unteres Zuspiel abwechseln
 * Oberes Zuspiel im Sprung
-* Jedesmal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung
+* Jedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung
 * Einmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück
-* Jeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurückspielt und fängt danach seinen Ball.
+* Jeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.
 * Es wird abwechselnd Angriff, Abwehr und Zuspiel gespielt
 :::
 
@@ -175,7 +175,7 @@ Zwei Spieler stehen sich gegenüber und versuche beide eines der Knie des Partne
 
 ### Ball übers Netz
 
-Spieler steht mit Rücken zum Netz und wirft den Ball durch die Beine übers Netz und fängt ihn bevor er das zweite mal auf dem Boden aufkomment.
+Spieler steht mit Rücken zum Netz und wirft den Ball durch die Beine übers Netz und fängt ihn bevor er das zweite mal auf dem Boden aufkommt.
 
 :::{.callout-tip}
 ## Varianten

@@ -119,7 +119,7 @@ Es werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf 
 
 ## Langer Ball
 
-Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldehälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.
+Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.
 
 :::{.callout-tip} 
 ## Varianten
@@ -165,7 +165,7 @@ include_url("https://www.youtube.com/embed/NEzf3sKM2ZQ")
 
 ## Abwehr-Kette
 
-An der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt.  Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
+An der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
 
 :::{.callout-tip}
 ## Varianten
