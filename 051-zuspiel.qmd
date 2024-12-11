@@ -20,7 +20,6 @@ recalculate <- FALSE
 
 Drei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.
 
-
 ```{r}
 #| include: false
 if(recalculate){
@@ -104,10 +103,10 @@ Um das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste
 
 ## Zuspiel im Dreieck
 
-1 Zuspieler*in steht auf Position **3**. Die Positionen **1**,**2**,**4** und **5** werden von von Spielenden besetzt. Es wird mit 2 Bällen in 2 Dreiecken gespielt.
+1 Zuspieler*in steht auf Position **3**. Die Positionen **1**,**2**,**4** und **5** werden von von Spielenden besetzt. Es wird mit zwei Bällen in zwei Dreiecken gespielt.
 
-- 1 -> 2 -> 3 ->1
-- 4 -> 5 -> 3 -> 4
+- **1** -> **2** -> **3** -> **1**
+- **4** -> **5** -> **3** -> **4**
 
 Die Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.
 

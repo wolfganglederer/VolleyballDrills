@@ -9,18 +9,18 @@ Als Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte 
 
 * einen Dankeball hinterherwerfen
 * einen Ball einschlagen
-* einen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)
+* einen Ball auf die Lücken werfen (z.B. auf die **6** oder lang in die Ecken)
 * einen Ball zum Rest werfen der abgewehrt und angegriffen wird
 * direkt einen Ball für einen Rückraumangriff des Rests anwerfen.
 
 Weiter rotieren nach 
 
-* 2 großen Punkten (Beide Bälle verwandelt)
+* 2 großen Punkten (beide Bälle verwandelt)
 * Nach 5 Versuchen
 
 :::{.callout-tip}
 ## Varianten
 * Den Aufschlag von einem niedrigen Kasten ausführen, um härtere  Aufschläge zu simulieren.
-* Zwei Aufschläger. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der Erste ins Netz geht.
+* Zwei Aufschlagende. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der erste Aufschlag ins Netz geht.
 :::
 

@@ -19,6 +19,7 @@ library(knitr)
   * nach vorne gebeugt (Schultern vor den Knien)
   * Arme seitlich Handflächen nach oben (parallel zum Oberschenkel)
   * Hände tiefer als der Ellenbogen
+  * (fortgeschritten) Split-Step oder Drop-Step
 
 ### Bewegung (Vase Auf dem Kopf)
 
@@ -32,10 +33,16 @@ Kopf ruhig lassen um die Orientierung im Raum zu behalten.
 ### Spielbrett
 
   * Arme gestreckt zusammen führen
-  * Arme a der Stelle schließen an der der Kontakt mit dem Ball erfolgt
-  * Verschluß der Hände (linke Hand in die rechte legen Daumen parallel)
-  * Überstrecken der Gelenke
+  * Arme an der Stelle des Kontakts mit dem Ball schließen
+  * Verschluss der Hände (linke Hand in die rechte legen Daumen parallel)
+  * Überstrecken der Gelenke und anspannen
   * Ball ca. auf Höhe des Bauchnabels spielen
+
+```{r}
+#| echo: false
+include_url("https://www.youtube.com/embed/hTZQ1DaJs3Y?si=xxvHC1cik18Mdbvy")
+```
+
 
 ## Schöne Annahmen
 
@@ -45,7 +52,7 @@ Mindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schläg
 ## Varianten
 * Es wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).
 * Die ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.
-* Falls mehrere Aufschläger pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).
+* Falls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).
 * Bei 2 Gruppen können Aufschläge auch diagonal erfolgen.
 * Man kann auch diagonal dem Ball nachlaufen.
 * Aufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.

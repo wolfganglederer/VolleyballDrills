@@ -17,11 +17,11 @@ recalculate <- FALSE
 
 ## Diagonalspiel
 
-Auf beiden Feldhälften wird eine Mannschaft mit mindesten 3 Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position 2 ein Angreifer auf Position 4 und ein Abwehrspieler auf Position 5. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position 6.
+Auf beiden Feldhälften wird eine Mannschaft mit mindesten drei Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position **2** ein Angreifer auf Position **4** und ein Abwehrspieler auf Position **5**. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position **6**.
 
 :::{.callout-tip}
 ## Varianten
-* Spieler auf Position 4 beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.
+* Spieler auf Position **4** beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.
 * Die Richtung wird gewechselt
 * Alle Spieler gehen zur Angriffssicherung
 * Der Zuspieler versucht zu blocken um die Angriffssicherung zu testen
@@ -31,20 +31,20 @@ Auf beiden Feldhälften wird eine Mannschaft mit mindesten 3 Spielern aufgestell
 
 ### Vierer Kreisel
 
-Vier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position 3, jeweils ein Angriff/Abwehrspieler auf Position 2 und 4 und ein Abwehrspieler auf Position 6. Der Zuspieler Spielt immer abwechselnd auf Position 2 oder 4. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position 6 schließt an, so dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw...
+Vier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position **3**, jeweils ein Angriff/Abwehrspieler auf Position **2** und **4** und ein Abwehrspieler auf Position **6**. Der Zuspieler Spielt immer abwechselnd auf Position **2** oder **4**. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position **6** schließt  so an, dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw...
 
-Wichtig ist darauf zu achten, dass die Spieler immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt
+Wichtig ist darauf zu achten, dass die Spielenden immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt
 
 :::{.callout-tip}
 ## Varianten
-+ Der Zuspieler spielt nicht abwechselnd, sondern zufällig auf Position 2 oder 4.
-+ Angriff im Sprung
-+ Zuspiel im Sprung
+- Das Zuspiel erfolgt nicht abwechselnd, sondern zufällig auf Position **2** oder **4**.
+- Angriff im Sprung
+- Zuspiel im Sprung
 :::
 
 ### Fünfer Kreisel
 
-Wie [Vierer Kreisel] nur stehen auf Position 6 zwei Spieler, die verschieben. Auf die Abstimmung zwischen den Spielern achten
+Wie [Vierer Kreisel] nur stehen auf Position **6** zwei Spielende, die verschieben. Auf die Abstimmung zwischen den Spielern achten
 
 
 ### Sechser Kreisel
@@ -56,29 +56,30 @@ include_url("https://www.youtube.com//embed/32BplDj0tT0?rel=0")
 
 ### Achter Kreisel
 
-Wie [Sechser Kreisel], mit der Ausnahme, dass es einen oder zwei dedizierte Zuspieler gibt, der von außerhalb des Feldes einläuft.
+Wie [Sechser Kreisel], mit der Ausnahme, dass es eine oder zwei dedizierte Zuspielende gibt. Es wird von außerhalb des Feldes eingelaufen.
 
 
 ## Angriff-Abwehr mit Schauen
 
-Diese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:
+Diese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit einem Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:
 
 * es darf nur diagonal angegriffen werden
 * es darf nur über Position **2** und **4** angegriffen werden. Die Mitte greift also nie an!
 
-Ziel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn der Spieler in der Mitte annimmt/abwehrt und von der **2** zugespielt wird, muss von der **4** angegriffen werden. Die Abwehrspieler können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen **4** bewegen und dort auf die Abwehr vorbereiten.
+Ziel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn von der Mitte angenommen/abgewehrt wird und von der **2** zugespielt wird, muss von der **4** angegriffen werden. Die Abwehrspielenden können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen **4** bewegen und dort auf die Abwehr vorbereiten.
 
-Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise durch rotiert.
+Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise rotiert.
 
 :::{.callout-important}
 ## Übungsschwerpunkte
-* Darauf achten, dass die Spieler das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.
-* Spieler stehen in richtiger [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke)) und bewegen sich nicht mehr wenn geschlagen wird.
+- Darauf achten, dass die Spielenden das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.
+- Spieler stehen in richtiger [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke)) und bewegen sich nicht mehr wenn geschlagen wird.
+- Auf den Split-/Drop-Step achten.
 :::
 
 :::{.callout-tip}
 ## Varianten
-* 1-3 zusätzliche Blockspieler können ebenfalls üben sich frühzeitig zu bewegen
+* 1-3 zusätzliche Blockspielende können ebenfalls üben sich frühzeitig zu bewegen
 * anstatt diagonal, zeigt der angreifende Spieler die Richtung an
 :::
 
@@ -86,20 +87,19 @@ Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise durch rotie
 
 Die Übung wird in 3er Gruppen und nach dem Modus "King of the court" durchgeführt.
 
-Auf jeder Seite ist ein fixer Zuspieler, die von der Rotation ausgenommen sind.
+Auf jeder Seite ist ein fixer Zuspieler, der von der Rotation ausgenommen ist.
 
 Das Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:
 
 - Es darf nur aus dem Rückraum angegriffen werden.
 - Auf der Aufschlagseite darf von den Aussen (**1** & **5**) nur longline angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
 - Auf der Verteidigenden Seite darf von Aussen (**1** & **5**) nur diagonal angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
-- Longline und Diagonal beschreibt  jeweils die ganze Feldhälfte.
+- Longline und Diagonal beschreibt jeweils die ganze Feldhälfte.
 
 
 :::{.callout-important}
 ## Übungsschwerpunkte
-
-- Es ist eine Abwehrübung! d.h. sicherer Angriff und Aufschlag.
+- Es ist eine Abwehrübung! (d.h. sicherer Angriff und Aufschlag.)
 - Die Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.
 :::
 
@@ -118,25 +118,25 @@ include_url("https://www.youtube.com/embed/d21LyYG4cCc?si=fcc-WiHCDWrB7HXe")
 
 ## Aufschlag-Annahme-Angriff-Abwehr
 
-Feldhälfte **A**:
+In Feldhälfte **A** werden folgende Positionen besetzt:
 
-* ein Zuspieler
-* 2 Annahmespieler
-* ein Angreifer
-* eine Warteposition
+- Zuspiel
+- Annahme (2X)
+- Angriff
+- Warteposition
 
-Feldhälfte **B**:
+In Feldhälfte **B** werden folgende Positionen besetzt:
 
-* ein Abwehrspieler
-* 1 Aufschläger
-* 1 Warteposition
+- Abwehr (diagonal)
+- Aufschlag
+- Warteposition
 
 Bis auf den Zuspieler in Feldhälfte **A** rotieren alle Spieler nach jedem Ball eine Position weiter. (Grob folgt man immer dem Ball)
 
 Der Ablauf ist wie folgt:
 
-1. Aufschlag über das Netz in Feldhälfte **A** (Annahmespieler)
-2. Annahme zum Zuspieler
+1. Aufschlag über das Netz in Feldhälfte **A** (auf die Annahmepositionen)
+2. Annahme zum Zuspiel
 3. Zuspiel auf den Angreifer (Position und Art des Zuspiels vorher festlegen)
 4. Angriff auf den Abwehrspieler
 5. Abwehr zu sich selbst und den Ball fangen
@@ -144,47 +144,42 @@ Der Ablauf ist wie folgt:
 
 Es können bei dieser Übung diverse Sachen geübt werden:
 
-
 :::{.callout-important}
 ## Übungsschwerpunkte
-* Zuspiel (mit laufen)
-* Technik Angriff
-* Annahme und Abstimmung zu zweit
-* Abwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)
-* Abwehrtechnik
+- Zuspiel (mit laufen)
+- Technik Angriff
+- Annahme und Abstimmung zu zweit
+- Abwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)
+- Abwehrtechnik
 :::
 
 :::{.callout-tip}
 ## Varianten
-* Verschiedene Angriffsoptionen (Aussen Mitte über Kopf)
-* Der Zuspieler läuft von Position 1, oder 4/5
-* Annahme Spieler gehen zur Angriffssicherung
-* Zusätzliche Spieler können noch z.B. 
-  * einen Block stellen (1-2 Spieler)
-  * zusätzliche Abwehrspieler
-  * zusätzlicher Annahme Spieler
-  * etc..
+- Verschiedene Angriffsoptionen (Aussen Mitte über Kopf)
+- Der Zuspieler läuft von Position 1, oder 4/5
+- Annahme Spieler gehen zur Angriffssicherung
+- Zusätzliche Spieler können noch z.B. 
+  - einen Block stellen (1-2 Spieler)
+  - zusätzliche Abwehrspieler
+  - zusätzlicher Annahme Spieler
+  - etc..
 :::
-
-
-
 
 ## Vier Ecken
 
-1 Zuspieler, 1 Angreifer, 3 Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.
-
+Ein Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.
 
 :::{.callout-important}
 ## Übungsschwerpunkte
-* Abwehrspieler bewegen sich frühzeitig und stehen in [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke)) wenn geschlagen wird
-* Zuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin
-* Zuspieler steht richtig zum Ball und spielt entlang der Körperachse
+- Abwehrspieler bewegen sich frühzeitig und stehen in [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke)) wenn geschlagen wird
+- Zuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin
+- Zuspieler steht richtig zum Ball und spielt entlang der Körperachse
 :::
 
 :::{.callout-tip}
 ## Varianten
-* Angriff im Sprung
-* Zuspiel im Sprung
+- Angriff im Sprung
+- Zuspiel im Sprung
 :::
 
 ```{r}
@@ -192,14 +187,13 @@ Es können bei dieser Übung diverse Sachen geübt werden:
 include_url("https://www.youtube.com/embed/ThiVmB55fHI?start=85")
 ```
 
-
 ## Diagonal Angriff mit Nachlaufen
 
-Jeweils ein Spieler auf Position 1-5 die restlichen Spieler stellen sich hinter Position 6 an. Der Ball wird durch Einwurf von Position 6 auf Position 3 ins Spiel gebracht und der Spieler von Position 6 läuft auf Position 3. Position 3 spielt den Ball auf Position 2 oder 4 (z. B. abwechselnd) und folgt seinem Ball. Position 2 oder 4 schlagen den Ball (leicht) auf Position 1 oder 5 und folgen ihrem Ball. Position 1 und 5 wehren auf Position 3 ab und stellen sich hinter Position 6 an. Position 6 läuft auf Position 3 ein, sobald 3 den Ball nach vorne oder über Kopf gespielt hat.
+Jeweils ein Spieler auf Position **1**-**5** die restlichen Spieler stellen sich hinter Position **6** an. Der Ball wird durch Einwurf von Position **6** auf Position **3** ins Spiel gebracht und der Spieler von Position **6** läuft auf Position **3**. Position **3** spielt den Ball auf Position **2** oder **4** (z. B. abwechselnd) und folgt seinem Ball. Position **2** oder **4** schlagen den Ball (leicht) auf Position **1** oder **5** und folgen ihrem Ball. Position **1** und **5** wehren auf Position **3** ab und stellen sich hinter Position **6** an. Position **6** läuft auf Position **3** ein, sobald **3** den Ball nach vorne oder über Kopf gespielt hat.
 
 ## Longline Pritschen, diagonal Baggern mit Nachlaufen
 
-Alle vier Ecken eines Feldes werden besetzt in den Ecken am Netz stehen jeweils 2 Spieler hintereinander. Die vorderen Spieler am Netz haben jeweils einen Ball und beginnen damit den Ball longline zu spielen und dem eigenen Ball nach zu laufen. Die Spieler auf Position 1 und 5 baggern den Ball diagonal zum jeweils verbliebenen Spieler am Netz und folgen ihrem Ball. Der Spieler am Netz spielt nun wieder longline und folgt seinem Ball. Dies wird solange wiederholt bis ein Fehler passiert
+Alle vier Ecken eines Feldes werden besetzt. In den Ecken am Netz stehen jeweils 2 Spieler hintereinander. Die vorderen Spieler am Netz haben jeweils einen Ball und beginnen damit den Ball longline zu spielen und dem eigenen Ball nachzulaufen. Die Spieler auf Position **1** und **5** baggern den Ball diagonal zum jeweils verbliebenen Spieler am Netz und folgen ihrem Ball. Der Spieler am Netz spielt nun wieder longline und folgt seinem Ball. Dies wird solange wiederholt bis ein Fehler passiert
 
 :::{.callout-tip}
 ## Varianten

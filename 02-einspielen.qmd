@@ -40,12 +40,12 @@ Als Paar aufstellen, der Angriffsspieler hat 3 Bälle und wirft diese nacheinand
 :::{.callout-tip} 
 ## Varianten
 * Die Übung kann beliebig erschwert werden, indem die Bälle kürzer, länger oder seitlich versetzt geworfen werden. Es ist dann auf die Linie großer Zeh, Knie, Schulter zu achten
-* Es können aufeinander gestellte Bänke zwischen den Spielern aufgestellt werden um das Netzt zu simulieren
+* Es können aufeinander gestellte Bänke zwischen den Spielern aufgestellt werden um das Netz zu simulieren
 :::
 
 ### Abwehr mit drei Bällen
 
-Als Paar aufstellen. Ein Spieler hat drei Bälle. Erst ein harter Angriff dann ein kurzer Ball und zum Abschluß ein hoher Ball, der erlaufen werden muss.
+Als Paar aufstellen. Ein Spieler hat drei Bälle. Erst ein harter Angriff dann ein kurzer Ball und zum Abschluss ein hoher Ball, der erlaufen werden muss.
 
 
 ### Kurz, lang, kurz
@@ -78,7 +78,7 @@ Angriffsspieler mit dem Rücken zum Netz greift lang an auf Abwehrspieler. Hohe 
 
 ### Zuspiel im Sprung
 
-Die Spieler stehen sich im etwas geringem Abstand gegenüber und spielen sich den Ball immer mit oberen Zuspiel im Sprung zu. Dabei daurauf achten, dass man immer einen kleinen Stemmschritt macht und sich nach jedem gespieltem Ball wieder zwei Schritte zurück zieht. Der Ball sollte gespielt werden wenn man gerade den höchsten Punkt überschritten hat, dadurch entsteht der Eindruck, man würde kurz in der Luft stehen.
+Die Spieler stehen sich im etwas geringem Abstand gegenüber und spielen sich den Ball immer mit oberen Zuspiel im Sprung zu. Dabei darauf achten, dass man immer einen kleinen Stemmschritt macht und sich nach jedem gespieltem Ball wieder zwei Schritte zurück zieht. Der Ball sollte gespielt werden wenn man gerade den höchsten Punkt überschritten hat, dadurch entsteht der Eindruck, man würde kurz in der Luft stehen.
 
 ### Zwischenspiel
 
@@ -118,7 +118,7 @@ include_url("https://www.youtube.com/embed/qb_4NcksLq8")
 
 ### Netz sichern
 
-Person **A** wirft/schlägt den Ball ins Netz. Die Person **B** sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert **A**, spielt sich den Ball selbst zu und greift wieder in Netz an. usw...
+Person **A** wirft/schlägt den Ball ins Netz. Die Person **B** sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert **A**, spielt sich den Ball selbst zu und greift wieder ins Netz an. Wiederholen, bis ein Fehler passiert.
 
 :::{.callout-tip}
 ## Varianten
@@ -226,11 +226,11 @@ Zwei Spieler:innen bilden einen Abwehrriegel ein dritte Person steht gegenüber 
 
 ### Abwehr Zuspiel Angriff
 
-2 Dreiergruppen. Eine Gruppe am Netz 1 Spieler auf Position **2** und 2 Spieler auf **4**. Ein Abwehrspieler auf Position **1**. Es beginnt mit einem Angriff von Position **4** auf Position **1**. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position **2,5** auf Position **2** zu und stellt sich dann hinter **2** an. Der Abwehrspieler stellt sich hinter **6** an und ein neuer Abwehrspieler läuft auf **5** und erwartet den Angriff von **2**. Der zugespielte Ball wird von **2** angegriffen und von **5** abgewehrt. Der Spieler von **2** wird der neue Zuspieler und spielt von **2,5** auf **4** zu. Abwehrspieler von  **5** stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos **1** und verteidigt. Ab hier wie von Anfang an.
+Zwei Dreiergruppen. Eine Gruppe am Netz ein Spieler auf Position **2** und zwei Spieler auf **4**. Ein Abwehrspieler auf Position **1**. Es beginnt mit einem Angriff von Position **4** auf Position **1**. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position **2,5** auf Position **2** zu und stellt sich dann hinter **2** an. Der Abwehrspieler stellt sich hinter **6** an und ein neuer Abwehrspieler läuft auf **5** und erwartet den Angriff von **2**. Der zugespielte Ball wird von **2** angegriffen und von **5** abgewehrt. Der Spieler von **2** wird der neue Zuspieler und spielt von **2,5** auf **4** zu. Abwehrspieler von  **5** stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos **1** und verteidigt. Ab hier wie von Anfang an.
 
 
-3 Spieler wechseln sich auf der Netzposition ab und greifen diagonal an.
-3 Spieler wechseln sich in der Abwehr ab.
+Drei Spieler wechseln sich auf der Netzposition ab und greifen diagonal an.
+Drei Spieler wechseln sich in der Abwehr ab.
 
 ```{r}
 #| echo: false
@@ -304,11 +304,11 @@ include_url("https://www.youtube.com/embed/DS6-P6TSpxw")
 
 ### Ball gegen die Wand
 
-Der Ball wird abwechselnd mt links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.
+Der Ball wird abwechselnd mit links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.
 
 ### Ball gegen die Wand II
 
-Zwei Spieler. Spieler eins steht in Abwehrhaltung mit Blick auf die Wand. Spieler zwei wirft den Ball von hinten gegen die Wand und Spieler 1 fängt. Mit beiden Händen und danach mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit variieren.
+Zwei Spieler. Spieler **A** steht in Abwehrhaltung mit Blick auf die Wand. Spieler **B** wirft den Ball von hinten gegen die Wand und Spieler **A** fängt den Ball mit beiden Händen oder mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit variieren.
 
 :::{.callout-tip} 
 ## Varianten

@@ -166,7 +166,7 @@ Drei Spielende bilden ein Viereck bei dem eine Ecke frei bleibt. Der Ball wird d
 
 ### Knie Berühren
 
-Zwei Spieler stehen sich gegenüber und versuche beide eines der Knie des Partners zu berühren und gleichzeitig Ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner wechseln.
+Zwei Spieler stehen sich gegenüber und versuche beide eines der Knie des Partners zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner wechseln.
 
 :::{.callout-tip}
 ## Varianten
