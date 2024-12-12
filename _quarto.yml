@@ -28,6 +28,8 @@ website:
       - 07-positionen.qmd
       - links.qmd
       - about.qmd
+
+license: CC BY-NC-SA
       
 format:
   html:
