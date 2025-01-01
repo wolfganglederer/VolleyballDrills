@@ -10,17 +10,19 @@ library(knitr)
 
 ## Technik
 
+Die Technik wird für einen Angriff mit dem rechten Arm erklärt.
+
 ### Anlauf
 
-* **Links** kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben)
-* **Rechts** großer Schritt mit viel Geschwindigkeit. Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt. Beide Arme werden zum Schwung holen weit nach hinten geführt.
+* **Links** kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben) Oberkörper fällt nach vorne.
+* **Rechts** großer Schritt mit viel Geschwindigkeit. Der Körper bleibt tief, beide Arme schwingen nach hinten und oben durch. Der Schritt wird mit der Ferse beendet (Einstemmen). Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt.
 * **Links** Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.
 
 ### Ausholen
 
 * Beide Arme gehen nach oben. 
 * Linker Arm an die Position an der der Ball geschlagen werden soll. 
-* Rechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tief) Handfläche nach Aussen. (Zeus, Daumen an den Hinterkopf). 
+* Rechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tiefer) Handfläche nach Aussen. (Zeus, Daumen an den Hinterkopf). 
 * Handgelenk abknicken um den Peitscheneffekt zu verstärken.
 
 ### Armzug
@@ -53,3 +55,8 @@ include_url("https://www.youtube.com/embed/Ea1_02seb9E")
 #| echo: false
 # include_url("http://www.volleyball-trainieren.de/download/Volleyball-Technik-Angriff.pdf")
 ```
+## Übungen
+
+### Armzug mit Tennisball
+
+Der Armzug kann durch das Werfen eines Tennisballs mit der oben beshriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.

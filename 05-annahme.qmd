@@ -32,17 +32,21 @@ Kopf ruhig lassen um die Orientierung im Raum zu behalten.
 
 ### Spielbrett
 
-  * Arme gestreckt zusammen führen
+  * Arme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme Strecken.)
   * Arme an der Stelle des Kontakts mit dem Ball schließen
   * Verschluss der Hände (linke Hand in die rechte legen Daumen parallel)
   * Überstrecken der Gelenke und anspannen
-  * Ball ca. auf Höhe des Bauchnabels spielen
+  * Ball etwa auf Höhe des Bauchnabels spielen
 
 ```{r}
 #| echo: false
 include_url("https://www.youtube.com/embed/hTZQ1DaJs3Y?si=xxvHC1cik18Mdbvy")
 ```
+### Drop-Step
 
+Beim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags "springt" man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).
+
+Alternativ kann auch ein kleiner Schritt nach vorne gemacht werden und dann in die tiefe Hocke gesprungen werden. (Split-Step)
 
 ## Schöne Annahmen
 
