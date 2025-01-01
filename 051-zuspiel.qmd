@@ -14,7 +14,20 @@ library(tweenr)
 recalculate <- FALSE
 ```
 
-## Technick
+## Technik
+
+* Daumen und Zeigefinger etwa im rechten Winkel 
+* Beide Hände bilden einen Korb
+* Finger leicht gepreizt
+* Daumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)
+* Ellenbogen sind leicht nach vorne gebeugt (ca. 45°)  
+* Das Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen
+* Den Ball immer aus der gleichen neutralen Position spielen
+
+## Strategie
+
+* Das Spiel "breit" machen
+* Sauberes, gutes Zuspiel ist wichtiger als der Versuch den Block zu täuschen
 
 ## Viereck zu Dritt
 
