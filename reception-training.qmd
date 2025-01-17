@@ -1,0 +1,178 @@
+---
+title: Training Abwehr
+lang: de
+---
+
+
+## Theorie
+
+### Technik
+
+Beschreibung der [Technik](05-annahme.qmd#technik)
+
+
+## Aufstellung
+
+### Annahme
+
+Miteinander sprechen!
+
+  * Mitte und Linie absprechen 
+  * Entsprechend des Aufschlags aufstellen (diagonal mehr vom Feld, longline weniger)
+  * Auf die Art des Aufschlags reagieren:
+    * kurz oder lang
+    * flattert (oben) oder hart (unten)
+  * Wer nimmt kurze Bälle?
+
+### Abwehr
+
+Welchen Ball muss man zuerst verteidigen?
+
+  1. Overpass für den Block
+  2. Overpass für die Abwehr
+  3. gelegter Ball der Zuspielers
+  4. Schnellangriff
+  5. Ball von Aussen
+  6. Dankeball
+
+Die Aufstellung an den "Angriff" anpassen.
+
+#### 1. Overpass für den Block
+
+Je nach Absprache ist der netznahe Overpass für den Mittelblocker. Zuspieler:In geht aus dem Weg. Spieler auf **1** und **5** sichern, falls der Mittelblocker zurückzieht oder in den Block schlägt.
+
+#### 2. Overpass für die Abwehr
+
+Sehr kurze Bälle nehmen die Netzspieler (Einen Schritt vom Netz wegbewegen). Zuspieler evtl. aus der Abwehr nehmen (Absprechen). **1** und **5** stehen etwa auf 4 Meter. **6** nimmt alles was lange ist.
+
+#### 3. gelegter Ball
+
+  * Mittelblocker geht evtl. zum Block.
+  * Die restlichen Spielenden decken das Feld ab. (Evtl. Zuspieler:in aus der Sicherung nehmen)
+
+#### 4. Schnellangriff
+
+  * Blockspielende Blocken **(!!immer!!)**.
+  * **5** und **1** decken die harten Bälle ab. Die **6** alles was lange ist. **2** und **4** sichern den Block oder blocken.
+
+  Immer an den Angreifer und den Block anpassen. (Absprechen!) Am Besten schon nach dem Einschlagen über Prioritäten bei Block und Abwehr sprechen.
+
+#### 5. Ball von Aussen (oder über Kopf)
+
+  * Blockspielende Blocken **(!!immer!!)**.
+  * Abwehr richtet sich am Block aus. Block steht frühzeitig.
+  * Klare Aufteilung für harte und gelegte Bälle. (Absprechen!)
+  * Man hat im Kopf wie der Angreifer bisher angegriffen hat und reagiert darauf.
+  * Am hat den Angreifer im Blick und reagiert darauf (hart oder gelegt, kurz oder lang)
+
+#### 6. Danke Ball
+
+In der Mannschaft absprechen!
+
+  * Blocker ziehen sich vom Netz zurück
+  * Zuspieler:in von der Abwehr ausnehmen (Absprechen!)
+  * konzentriert bleiben und nicht an den Angriff denken!
+
+#### Keys
+
+  * Man bleibt immer in Bewegung und reaktionsbereit. (Nie aufrecht)
+  * Der Bereich den man verteidigen muss verändert sich ständig. Entsprechend positionieren.
+  * Man achtet auf die gegenerische Mannschaft und reagiert darauf.
+  * Es gibt nicht die eine Position auf der man stehen muss, sondern es gibt keinen Grund zu Stehen!
+
+## Praxis
+
+### Warmup
+
+[Spielen mit Nachlaufen](01-warmup.qmd#spielen-mit-nachlaufen-und-zuspiel)
+
+### Leiter und Kraftübungen
+
+2 Gruppen
+
+#### Kraft
+
+  * individuell erwärmen der Gelenke
+  * Kräftigen von Schulter, Knie und Sprunggelenken.
+
+#### Leiter
+
+  * jedes Feld ein Kontakt (auch rückwärts)
+  * ab der Mitte 2 Kontakte (auch rückwärts)
+  * seitlicher Lauf (auch rückwärts)
+  * Crazy Bunny Run
+  
+  
+### Einspielen
+
+#### Paarweise einspielen
+
+  * Ball werfen und richtig zurückspielen (Hübner Keys)
+    * gestreckte Arme etc
+    * Position
+    * Schritt
+  * Neben den Körper Werfen und zuerst mit einem Arm zurückspielen und danach mit beiden Armen. 
+    * Darauf achten, dass die Arme an der Stelle geschlossen werden, an der gespielt wird.
+    * Nach vorne gebeugt sein!
+  * [Ball werfen](02-einspielen.qmd#ball-aus-der-mitte-werfen)
+  * weiter Einspielen
+  
+#### Dreiergruppen
+
+  * Spielen im Dreieck
+    * Auf den Winkel achten!
+  * [Abwehrvariation](05-annahme.qmd#abwehrvariation)
+
+### Gruppenübungen
+
+#### 6 Kreisel
+
+[6-Kreisel](06-komplex.qmd#sechser-kreisel)
+
+:::{.callout-important}
+## Übungsschwerpunkte
+  * Grundstellung
+  * Ausrichtung und Absprache mit unserem Mitspieler
+  * Notzuspiel
+:::
+
+#### Vier Ecken
+
+[Vier Ecken](06-komplex.qmd#vier-ecken)
+
+:::{.callout-important}
+## Übungsschwerpunkte
+- Abwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird
+- Zuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin
+- Zuspieler steht richtig zum Ball und spielt entlang der Körperachse
+:::
+
+#### Langer Ball
+
+[Langer Ball](05-annahme.qmd#langer-ball)
+
+#### Angriff-Abwehr mit Schauen
+
+[Angriff-Abwehr mit Schauen](06-komplex.qmd#angriff-abwehr-mit-schauen)
+
+
+## Fazit
+
+  * Saubere Technik
+    * kann jeder für sich alleine üben
+    * einfach immer vor dem Einspielen etwas vornehmen was man üben will.
+  * grundsätzliche Absprache im Team (System, Trainer)
+  * Alles was man individuell schon vorher machen kann auch schon vorher machen! (Das Spiel ist dann schnell genug)
+    * Angriffsszenarien durchgehen (z.B. Zuspieler legt oder MB und Zuspieler diskutieren lange, Rückraum etc.)
+    * den Gegner beobachten
+    * individuelle Absprachen treffen (z.B. "Du kurz!")
+    * Allgemeine Anweisungen ("Achtung kurzer Aufschlag!", "Vorsicht legt!")
+  * immer konzentriert und in Bewegung bleiben.
+    * es gibt nichts frustrierenderes als Spieler die erschrecken, wenn der Ball zu ihnen kommt und sie dann zu spät reagieren.
+    * Fehler von Kolleg:innen ausgleichen (Wir sind ein Team)
+    * mal auch was für die Galerie machen (jeder muss sehen, dass man sich anstrengt)
+    * nie aufgeben
+  * Verteidigung ist eine mentale Angelegenheit
+    * man muss den Ball wollen
+    * immer wach bleiben
+    * beweglich bleiben

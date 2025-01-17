@@ -16,18 +16,25 @@ website:
           url:  https://github.com/wolfganglederer/VolleyballDrills/issues
     style: "floating"
     search: true
-    contents: 
+    contents:
       - index.qmd
-      - 01-warmup.qmd
-      - 02-einspielen.qmd
-      - 03-angriff.qmd
-      - 04-block.qmd
-      - 05-annahme.qmd
-      - 051-zuspiel.qmd
-      - 06-komplex.qmd
-      - 07-positionen.qmd
-      - links.qmd
-      - about.qmd
+      - section: "Übungen"
+        contents:
+        - 01-warmup.qmd
+        - 02-einspielen.qmd
+        - 03-angriff.qmd
+        - 04-block.qmd
+        - 05-annahme.qmd
+        - 051-zuspiel.qmd
+        - 06-komplex.qmd
+        - 07-positionen.qmd
+      - section: "Trainings"
+        contents:
+        - reception-training.qmd
+      - section: "Sonstiges"
+        contents:
+        - links.qmd
+        - about.qmd
 
 license: CC BY-NC-SA
       

@@ -10,7 +10,6 @@ library(knitr)
 ```
 
 ## Technik
-
 ### Grundstellung (Lucky Luke)
 
   * Füße schulterbreit (nicht zu breit!)
@@ -27,16 +26,23 @@ Kopf ruhig lassen um die Orientierung im Raum zu behalten.
 
   * keine überflüssigen Bewegungen
   * Hüfte und Kopf bleiben auf einer Höhe
+  * gleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)
   * direkte Bewegung zum Annahmeort
   * Kopf bleibt gerade
 
 ### Spielbrett
 
-  * Arme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme Strecken.)
+  * Arme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme strecken.)
   * Arme an der Stelle des Kontakts mit dem Ball schließen
   * Verschluss der Hände (linke Hand in die rechte legen Daumen parallel)
   * Überstrecken der Gelenke und anspannen
   * Ball etwa auf Höhe des Bauchnabels spielen
+
+### Spielen des Balles
+
+  * je nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung
+  * Einfallswinkel gleich Ausfallwinkel!
+
 
 ```{r}
 #| echo: false
