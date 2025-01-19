@@ -44,10 +44,7 @@ Kopf ruhig lassen um die Orientierung im Raum zu behalten.
   * Einfallswinkel gleich Ausfallwinkel!
 
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/hTZQ1DaJs3Y?si=xxvHC1cik18Mdbvy")
-```
+{{< video https://www.youtube.com/embed/hTZQ1DaJs3Y?si=xxvHC1cik18Mdbvy >}}
 ### Drop-Step
 
 Beim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags "springt" man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).
@@ -73,10 +70,7 @@ Mindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schläg
 
 Leichter Aufschlag nicht von der Grundlinie, sondern von etwa 6 Metern. Ein Annahmespieler startet in der Mitte und läuft in Position. Der Ball soll zwischen den Beinen auf prellen. Der Spieler sollte ruhig stehen. (ca. 5 Bälle pro Spieler)
 
-```{r}
-#| echo: false
-include_url("https://www.youtube-nocookie.com/embed/qk7SgCSEwJs")
-```
+{{< video https://www.youtube-nocookie.com/embed/qk7SgCSEwJs >}}
 
 ## Annahme mit Aktion
 
@@ -88,17 +82,11 @@ Ein Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion
 
 # Abwehr
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/U2fTX-e-B6c?si=B8LkeYCoGldu2LGC")
-```
+{{< video https://www.youtube.com/embed/U2fTX-e-B6c?si=B8LkeYCoGldu2LGC >}}
 
 ## Sichern
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/dLQIOUDR4NM?si=i8CVIKox9qnGNK_H")
-```
+{{< video https://www.youtube.com/embed/dLQIOUDR4NM?si=i8CVIKox9qnGNK_H >}}
 
 ## Abwehr Ausdauerdrill
 
@@ -109,10 +97,7 @@ Auf einer Feldhälfte steht jeweils ein Spieler auf Position **2** und **4** und
 * Alle geschlagenen Bälle können auch gelegt werden
 :::
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com//embed/oMHZulZ7zg0?rel=0")
-```
+{{< video https://www.youtube.com/embed/oMHZulZ7zg0?si=0tyU89PIfMNXHtIg >}}
 
 ## Abwehr hoch Feldmitte
 
@@ -145,10 +130,7 @@ Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus de
 
 ## Abwehr verschieben
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com//embed/lL4noI7lHrI?rel=0")
-```
+{{< video https://www.youtube.com/embed/lL4noI7lHrI?si=xB5Pl-KmMdYG8Auz >}}
 
 ## Abwehr & Reaktion
 
@@ -157,10 +139,7 @@ Paarweise. Ein Medizinball o. Ä. wird benutzt um den Ball zu prellen und ihm ei
 
 ## Dankeball mit laufen
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/pp1D-uoNM3o")
-```
+{{< video https://www.youtube.com/embed/pp1D-uoNM3o >}}
 
 ## Abwehr zu dritt
 
@@ -174,10 +153,7 @@ Drei Abwehrspieler auf Position **1**, **5** und **6**. Ein Zuspieler/Angreifer 
 :::
 
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/NEzf3sKM2ZQ")
-```
+{{< video https://www.youtube.com/embed/NEzf3sKM2ZQ >}}
 
 
 ## Abwehr-Kette

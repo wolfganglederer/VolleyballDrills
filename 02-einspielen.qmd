@@ -111,10 +111,7 @@ Werfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts gewo
 * auf die richtige Bewegung zum und weg vom Ball achten
 :::
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/qb_4NcksLq8")
-```
+{{< video https://www.youtube.com/embed/qb_4NcksLq8 >}}
 
 ### Netz sichern
 
@@ -232,10 +229,7 @@ Zwei Dreiergruppen. Eine Gruppe am Netz ein Spieler auf Position **2** und zwei 
 Drei Spieler wechseln sich auf der Netzposition ab und greifen diagonal an.
 Drei Spieler wechseln sich in der Abwehr ab.
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/S3h2N2F7bqI")
-```
+{{< video https://www.youtube.com/embed/S3h2N2F7bqI >}}
 
 :::{.callout-important}
 ## Übungsziele
@@ -254,11 +248,7 @@ include_url("https://www.youtube.com/embed/S3h2N2F7bqI")
 
 Koordinative Übungen können sowohl ins Einspielen als auch im Training integriert werden. Die Übungen sollten immer fordernd sein, sonst haben sie keinen Trainingseffekt.
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com//embed//9dzgovUkOsw")
-```
-
+{{< video https://www.youtube.com/embed/9dzgovUkOsw?si=P6wkeEDCE0XlgJE- >}}
 
 ### Parallel spielen mit 2 Bällen
 
@@ -288,18 +278,11 @@ Gespielt wird auf den (halben) 3-Meter-Raum jedes 2er Team hat einen (Team-) Bal
 * 3 gegen 3 mit 5/7 Bällen
 :::
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/5yaXifUSr9s")
-```
-
+{{< video https://www.youtube.com/embed/5yaXifUSr9s >}}
 
 ## Mit Tennisbällen
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/DS6-P6TSpxw")
-```
+{{< video https://www.youtube.com/embed/DS6-P6TSpxw >}}
 
 
 ### Ball gegen die Wand
@@ -317,15 +300,9 @@ Zwei Spieler. Spieler **A** steht in Abwehrhaltung mit Blick auf die Wand. Spiel
 
 ## Agility Ladder
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/67XP-AekUoA")
-```
+{{< video https://www.youtube.com/embed/67XP-AekUoA >}}
 
 ## Reaction Ball
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/vpKXcVFI8f0")
-```
+{{< video https://www.youtube.com/embed/vpKXcVFI8f0 >}}
 

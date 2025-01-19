@@ -49,10 +49,7 @@ Wie [Vierer Kreisel] nur stehen auf Position **6** zwei Spielende, die verschieb
 
 ### Sechser Kreisel
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com//embed/32BplDj0tT0?rel=0")
-```
+{{< video https://www.youtube.com/embed/32BplDj0tT0?si=0c-8VnP-_fJgEvYI >}}
 
 ### Achter Kreisel
 
@@ -111,10 +108,7 @@ Das Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit fol
 - Zuspieler blockt
 :::
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/d21LyYG4cCc?si=fcc-WiHCDWrB7HXe")
-```
+{{< video https://www.youtube.com/embed/d21LyYG4cCc?si=fcc-WiHCDWrB7HXe >}}
 
 ## Aufschlag-Annahme-Angriff-Abwehr
 
@@ -182,10 +176,7 @@ Ein Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht
 - Zuspiel im Sprung
 :::
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/ThiVmB55fHI?start=85")
-```
+{{< video https://www.youtube.com/embed/ThiVmB55fHI?start=85 >}}
 
 ## Diagonal Angriff mit Nachlaufen
 

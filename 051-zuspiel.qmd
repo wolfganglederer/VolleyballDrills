@@ -72,21 +72,13 @@ anim_save("img/square_by3.gif", par_square_by3_plot, bg = "transparent")
 * Ausrichtung des Spielers zum Ziel
 :::
 
-
-```{r}
-#| echo: false
-knitr::include_graphics("img/square_by3.gif")
-```
-
+![square by three](img/square_by3.gif)
 
 ## Zielspiel auf ein Ziel
 
 Speziell für kurze Bälle. Trainer*in steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/J4JzO0cUw6E")
-```
+{{< video https://www.youtube.com/embed/J4JzO0cUw6E >}}
 
 ## Pritschen im sitzen
 
@@ -136,7 +128,4 @@ Die Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*
 
 [Zuspiel mit Patrick Steuerwald](http://volleyball.de/uploads/media/vm_05_01_18_21_warm.pdf)
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/1oUK_qBFzzI")
-```
+{{< video https://www.youtube.com/embed/1oUK_qBFzzI >}}

@@ -16,42 +16,13 @@ recalculate <- FALSE
 
 ## Spielformen
 
-### Ausbaggern
+{{< include drills/ausbaggern.qmd >}}
 
-Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm
-
-:::{.callout-tip}
-## Varianten
-* Der Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen
-* Wenn der Ball auf den Boden fällt verliert der Spieler 2 Leben
-* Es wird nur auf den 3-Meter-Raum gespielt
-:::
-
-### 3 vs. 3 mit 2 Bällen
-
-Jeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.
-
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/ManHBLf6X3A")
-```
-
+{{< include drills/3-vs-3-2balls.qmd >}}
 
 ## Übungen
 
-### Spielen mit Nachlaufen
-
-Drei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hin und her gespielt und man wechselt nach jedem Ballkontakt die Seite (dem eigenen Ball nachlaufen) und stellt sich hinten an.
-
-:::{.callout-tip}
-## Varianten
-* Oberes und unteres Zuspiel abwechseln
-* Oberes Zuspiel im Sprung
-* Jedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung
-* Einmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück
-* Jeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.
-* Es wird abwechselnd Angriff, Abwehr und Zuspiel gespielt
-:::
+{{< include drills/spielen-mit-nachlaufen.qmd >}}
 
 ### Spielen mit Nachlaufen Diagonal
 
@@ -185,16 +156,11 @@ Spieler steht mit Rücken zum Netz und wirft den Ball durch die Beine übers Net
 
 # Athletik
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/WPDmgyEvR-Q")
-```
+
+{{< video https://www.youtube.com/embed/WPDmgyEvR-Q >}}
 
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/zpEUJ7BIMpM")
-```
+{{< video https://www.youtube.com/embed/zpEUJ7BIMpM >}}
 
 
 

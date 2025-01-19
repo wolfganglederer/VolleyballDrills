@@ -35,28 +35,17 @@ Insgesamt runde Bewegung ohne Pausen.
 
 ## Video
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/rBDr1S7fPhU?rel=0")
-```
-
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/Xn7h8zuJvjg")
-```
+{{< video https://www.youtube.com/embed/rBDr1S7fPhU?rel=0 >}}
 
 
-```{r}
-#| echo: false
-include_url("https://www.youtube.com/embed/Ea1_02seb9E")
-```
+{{< video https://www.youtube.com/embed/Xn7h8zuJvjg >}}
 
-```{r}
-#| echo: false
-# include_url("http://www.volleyball-trainieren.de/download/Volleyball-Technik-Angriff.pdf")
-```
+
+
+{{< video https://www.youtube.com/embed/Ea1_02seb9E >}}
+
 ## Übungen
 
 ### Armzug mit Tennisball
 
-Der Armzug kann durch das Werfen eines Tennisballs mit der oben beshriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.
+Der Armzug kann durch das Werfen eines Tennisballs mit der oben beschriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.
