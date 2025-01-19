@@ -29,6 +29,8 @@ recalculate <- FALSE
 * Das Spiel "breit" machen
 * Sauberes, gutes Zuspiel ist wichtiger als der Versuch den Block zu täuschen
 
+{{< include technikcheck-oz.qmd >}}
+
 ## Viereck zu Dritt
 
 Drei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.
