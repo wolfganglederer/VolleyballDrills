@@ -5,12 +5,12 @@
 - [ ] Finger bleiben auch nach Abspiel offen, verharren
 - [ ] Der Ballkontakt ist kurz und federnd
 - [ ] Die Handstellung ist symmetrisch
-- [ ] Trefferfläche über der stirn
+- [ ] Trefferfläche über der Stirn
 - [ ] leichte Außenrotation der Handflächen ist erkennbar
 - [ ] Daumendruck ist erkennbar
-- [ ] Ellenbogen sind nicht zu weit auseinander für optomalen Daumenschub
+- [ ] Ellenbogen sind nicht zu weit auseinander für optimalen Daumenschub
 - [ ] Bewegung zum Ball ist rechtzeitig abgeschlossen
-- [ ] Füßeparallel bzw. in leichter schrittstellung (rechts vorne)
+- [ ] Füße parallel bzw. in leichter schrittstellung (rechts vorne)
 - [ ] Hände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles
-- [ ] Neutrale Haltung, allees ruhig
+- [ ] Neutrale Haltung, alles ruhig
 - [ ] Spieler springt nicht nach Abspiel
