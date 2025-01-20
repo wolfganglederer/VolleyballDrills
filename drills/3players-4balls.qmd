@@ -1,0 +1,3 @@
+### Drei Spieler 4 Bälle
+
+Wie [Spielen mit Nachlaufen], allerdings hat jeder Spieler einen Ball in der Hand und wirft sich den Ball selbst zu, spielt unter dessen den Spielball, fängt seinen eigenen Ball und läuft dem Spielball nach.

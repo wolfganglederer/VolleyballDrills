@@ -1,0 +1,8 @@
+### Lang, kurz
+
+Angriffsspieler mit dem Rücken zum Netz greift lang an auf Abwehrspieler. Hohe Abwehr. Angriffsspieler legt den Ball kurz. Nach Zwischenspiel wieder langer Angriff usw.
+
+:::{.callout-tip} 
+## Varianten
+* kurzer Ball muss im oberen  Zuspiel gespielt werden
+:::

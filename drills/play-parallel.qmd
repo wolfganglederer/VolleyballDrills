@@ -1,0 +1,3 @@
+### Parallel spielen mit 2 Bällen
+
+Zwei Spieler spielen parallel mit 2 Bällen. Die Technik sollte vorgegeben werden. Zuerst oberes Zuspiel, unteres Zuspiel, oder abwechselnd.

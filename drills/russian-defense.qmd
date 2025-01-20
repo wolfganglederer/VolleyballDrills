@@ -1,0 +1,50 @@
+### Russische Abwehrübung
+
+Drei Spielende, zwei Bälle. Die Spielenden stehen auf einer Linie und die äusseren Spielenden werfen abwechselnd den Ball so, dass die Person in der Mitte immer ein paar Schritte machen muss, bis der Ball gespielt werden kann. Die Bälle sollen so geworfen werden, dass es für die Person in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist. 
+
+```{r}
+#| include: false
+
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+
+if(recalculate){
+russian_drill <- tribble(~time, ~x_ball1, ~y_ball1,~x_ball2, ~y_ball2,~x2, ~y2,
+  1, 0.03, 0, 0.38, 0, 0.35, 0,
+  2, 0.62, 0, 0.97, 0, 0.65, 0,
+  3, 0.03, 0, 0.38, 0, 0.35, 0)
+
+russian_plot <- ggplot(russian_drill) +
+  geom_point(aes(x = x_ball1, y = y_ball1), color = "goldenrod1", size = 7) +
+  geom_point(aes(x = x_ball2, y = y_ball2), color = "goldenrod1", size = 7) +
+  geom_point(aes(x = 0, y = 0), color = "blue", size = 9) +
+  geom_point(aes(x = x2, y = y2), color = "blue", size = 9) +
+  geom_point(aes(x = 1, y = 0), color = "blue", size = 9) +
+  theme_void() +
+  transition_time(time) +
+  ease_aes('sine-in-out')
+
+anim_save("img/russisch.gif", russian_plot, height = 120, , bg = "transparent")
+}
+
+```
+
+
+
+![](img/russisch.gif)
+
+:::{.callout-important}
+* auf korrekte Technik achten, insbesondere vollständige Drehung der Person in der Mitte
+:::
+
+:::{.callout-tip} 
+## Varianten
+* jeder zweite Ball wird angegriffen.
+* manche Bälle werden gelegt
+* es werden Bälle gespielt, die eine Abwehr im oberen Zuspiel erfordern
+:::

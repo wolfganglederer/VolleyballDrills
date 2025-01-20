@@ -1,0 +1,22 @@
+### Abwehr Zuspiel Angriff
+
+Zwei Dreiergruppen. Eine Gruppe am Netz ein Spieler auf Position **2** und zwei Spieler auf **4**. Ein Abwehrspieler auf Position **1**. Es beginnt mit einem Angriff von Position **4** auf Position **1**. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position **2,5** auf Position **2** zu und stellt sich dann hinter **2** an. Der Abwehrspieler stellt sich hinter **6** an und ein neuer Abwehrspieler läuft auf **5** und erwartet den Angriff von **2**. Der zugespielte Ball wird von **2** angegriffen und von **5** abgewehrt. Der Spieler von **2** wird der neue Zuspieler und spielt von **2,5** auf **4** zu. Abwehrspieler von  **5** stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos **1** und verteidigt. Ab hier wie von Anfang an.
+
+
+Drei Spieler wechseln sich auf der Netzposition ab und greifen diagonal an.
+Drei Spieler wechseln sich in der Abwehr ab.
+
+:::{.callout-important}
+## Übungsziele
+* Ballkontrolle
+* Richtige Position zum Ball in der Abwehr
+* Richtige [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke))
+:::
+
+:::{.callout-tip}
+* auch mit 2 Spielern in der Abwehr möglich
+* Angriff im Sprung
+* Longline Angriff
+:::
+
+{{< video https://www.youtube.com/embed/S3h2N2F7bqI >}}

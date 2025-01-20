@@ -1,0 +1,9 @@
+### Kurz, lang, kurz
+
+Paarweise. Spieler 1 spielt langen Ball zu Spieler 2 und läuft nach. Spieler 2 spielt kurz vor sich zu Spieler 1, der wieder kurz zurück und kehrt auf seine ursprüngliche Position zurück. Spieler 2 spielt nun lang und läuft nun dem Ball nach und spielt den von Spieler 1 kurz gespielten Ball zurück und kehrt dann wieder zum Ursprung zurück. Und so weiter
+
+:::{.callout-tip}
+## Varianten
+* mit Baggern
+* oberes Zuspiel im Sprung
+:::

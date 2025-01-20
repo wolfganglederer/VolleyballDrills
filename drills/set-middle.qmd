@@ -1,0 +1,50 @@
+### Zuspiel aus der Mitte
+
+3 Spieler stehen in einer Linie. der mittlere Spieler (Zuspieler) spielt den Ball einem der äusseren Spieler zu. Dieser greift auf sein Gegenüber an, der ihn wiederum zum Zuspieler abwehrt. Der Zuspieler stellt nun dem abwehrenden Spieler der wiederum angreift usw.
+
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+if(recalculate){
+set_middle <- tribble(~time,~x_ball1, ~y_ball1,
+                      1,0.47, 0.19,
+                      2,0.03, 0.1, 
+                      3,0.97, 0.1, 
+                      4,0.53, 0.19,
+                      5,0.97, 0.1, 
+                      6,0.03, 0.1, 
+                      7,0.47, 0.19)
+        
+
+set_middle_plot <-
+  ggplot(set_middle) +
+    geom_point(
+    aes(x = x_ball1, y = y_ball1), color = "goldenrod1", size = 7) +
+    geom_point(aes(x = 0, y = 0.1), color = "blue", size = 9) +
+    geom_point(aes(x =0.5, y = 0.2), color = "blue", size = 9) +
+    geom_point(aes(x = 1, y = 0.1), color = "blue", size = 9) +
+    theme_void()+
+    transition_time(time)+
+    ease_aes("sine-in-out")
+
+
+anim_save("img/mitte.gif", set_middle_plot, height = 150, bg = "transparent")
+}
+
+```
+
+:::{.callout-tip} 
+## Varianten
+* Der Zuspieler spielt immer im Sprung zu
+* Der Zuspieler spielt über Kopf zu.
+* Die Angreifer legen den Ball kurz.
+* Nach dem Angriff tauschen Zuspieler und Angreifer den Platz.
+:::
+
+![](img/mitte.gif)
