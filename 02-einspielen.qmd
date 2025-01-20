@@ -115,7 +115,7 @@ Werfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts gewo
 
 ### Netz sichern
 
-Person **A** wirft/schlägt den Ball ins Netz. Die Person **B** sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert **A**, spielt sich den Ball selbst zu und greift wieder ins Netz an. Wiederholen, bis ein Fehler passiert.
+Person **A** wirft/schlägt den Ball ins Netz. Person **B** sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert **A**, spielt sich den Ball selbst zu und greift wieder ins Netz an. Wiederholen, bis ein Fehler passiert.
 
 :::{.callout-tip}
 ## Varianten
@@ -126,8 +126,7 @@ Person **A** wirft/schlägt den Ball ins Netz. Die Person **B** sichert, spielt 
 
 ### Russische Abwehrübung
 
-Drei Spieler, zwei Bälle. Die Spieler stehen auf einer Linie und die äusseren Spieler werfen abwechselnd den Ball so, dass der Spieler in der Mitte immer ein paar Schritte machen muss, bis er den Ball spielen kann. Die Bälle sollen so geworfen werden, dass es für den Spieler in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist. Es ist auf eine volle Drehung zu achten.
-
+Drei Spielende, zwei Bälle. Die Spielenden stehen auf einer Linie und die äusseren Spielenden werfen abwechselnd den Ball so, dass die Person in der Mitte immer ein paar Schritte machen muss, bis der Ball gespielt werden kann. Die Bälle sollen so geworfen werden, dass es für die Person in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist. 
 
 ```{r}
 #| include: false
@@ -154,8 +153,12 @@ anim_save("img/russisch.gif", russian_plot, height = 120, , bg = "transparent")
 ```
 
 
+
 ![](img/russisch.gif)
 
+:::{.callout-important}
+* auf korrekte Technik achten, insbesondere vollständige Drehung der Person in der Mitte
+:::
 
 :::{.callout-tip} 
 ## Varianten

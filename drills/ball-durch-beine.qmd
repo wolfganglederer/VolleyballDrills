@@ -1,6 +1,6 @@
 ### Ball übers Netz
 
-Die Spielenden steht mit Rücken zum Netz und wirft den Ball durch die Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.
+Die Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.
 
 :::{.callout-tip}
 ## Varianten
