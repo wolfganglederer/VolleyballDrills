@@ -1,0 +1,5 @@
+### Dreiecksspiel (Peripheres Sehen)
+
+- Spieler*innen bilden ein Dreieck und spielen den Ball.
+- einzelne Spieler*innen nehmen sich selbst aus dem Spiel in dem sie in die Knie gehen
+- die anderen Beiden müssen entsprechend reagieren und auf die freie Person spielen oder zu sich selbst

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "tech/strategy-setting.html",
+    "href": "tech/strategy-setting.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "Das Spiel “breit” machen\nSauberes, gutes Zuspiel ist wichtiger als der Versuch den Block zu täuschen!\nBereits vor dem Spielzug einen Plan und eine Alternative im Kopf haben.\nAuf die Form der eigenen Angreifer achten.\nAuf den gegnerischen Block achten und Schwächen nutzen.\nKommunikation mit den eigenen Angreifern und klar die geplanten Spielzüge kommunizieren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
     "objectID": "tech/defense-drop-step.html",
     "href": "tech/defense-drop-step.html",
     "title": "Volleyball",
@@ -49,390 +56,424 @@
     "text": "Anlauf\n\nLinks kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben) Oberkörper fällt nach vorne.\nRechts großer Schritt mit viel Geschwindigkeit. Der Körper bleibt tief, beide Arme schwingen nach hinten und oben durch. Der Schritt wird mit der Ferse beendet (Einstemmen). Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt.\nLinks Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/diagonal-attack-follow.html",
-    "href": "drills/diagonal-attack-follow.html",
+    "objectID": "drills/setting-triangel.html",
+    "href": "drills/setting-triangel.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Diagonal Angriff mit Nachlaufen\nJeweils ein Spieler auf Position 1-5 die restlichen Spieler stellen sich hinter Position 6 an. Der Ball wird durch Einwurf von Position 6 auf Position 3 ins Spiel gebracht und der Spieler von Position 6 läuft auf Position 3. Position 3 spielt den Ball auf Position 2 oder 4 (z. B. abwechselnd) und folgt seinem Ball. Position 2 oder 4 schlagen den Ball (leicht) auf Position 1 oder 5 und folgen ihrem Ball. Position 1 und 5 wehren auf Position 3 ab und stellen sich hinter Position 6 an. Position 6 läuft auf Position 3 ein, sobald 3 den Ball nach vorne oder über Kopf gespielt hat.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "1 Zuspieler*in steht auf Position 3. Die Positionen 1,2,4 und 5 werden von von Spielenden besetzt. Es wird mit zwei Bällen in zwei Dreiecken gespielt.\n\n1 -&gt; 2 -&gt; 3 -&gt; 1\n4 -&gt; 5 -&gt; 3 -&gt; 4\n\nDie Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nDer Zuspieler achtet darauf dass er sich immer korrekt zum Pfosten ausrichtet und auch unter Zeitdruck sauber spielt."
   },
   {
-    "objectID": "drills/defense-4corners.html",
-    "href": "drills/defense-4corners.html",
+    "objectID": "drills/setting-triangel.html#zuspiel-im-dreieck",
+    "href": "drills/setting-triangel.html#zuspiel-im-dreieck",
     "title": "Volleyball",
     "section": "",
-    "text": "Vier Ecken\nEin Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nAbwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird\nZuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin\nZuspieler steht richtig zum Ball und spielt entlang der Körperachse\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "1 Zuspieler*in steht auf Position 3. Die Positionen 1,2,4 und 5 werden von von Spielenden besetzt. Es wird mit zwei Bällen in zwei Dreiecken gespielt.\n\n1 -&gt; 2 -&gt; 3 -&gt; 1\n4 -&gt; 5 -&gt; 3 -&gt; 4\n\nDie Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nDer Zuspieler achtet darauf dass er sich immer korrekt zum Pfosten ausrichtet und auch unter Zeitdruck sauber spielt."
   },
   {
-    "objectID": "drills/defense-perception.html",
-    "href": "drills/defense-perception.html",
+    "objectID": "drills/setting-peripheral.html",
+    "href": "drills/setting-peripheral.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Angriff-Abwehr mit Schauen\nDiese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit einem Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:\n\nes darf nur diagonal angegriffen werden\nes darf nur über Position 2 und 4 angegriffen werden. Die Mitte greift also nie an!\n\nZiel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn von der Mitte angenommen/abgewehrt wird und von der 2 zugespielt wird, muss von der 4 angegriffen werden. Die Abwehrspielenden können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen 4 bewegen und dort auf die Abwehr vorbereiten.\nFalls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise rotiert.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nDarauf achten, dass die Spielenden das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.\nSpieler stehen in richtiger Abwehrposition und bewegen sich nicht mehr wenn geschlagen wird.\nAuf den Split-/Drop-Step achten.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\n1-3 zusätzliche Blockspielende können ebenfalls üben sich frühzeitig zu bewegen\nanstatt diagonal, zeigt der angreifende Spieler die Richtung an\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Dreiecksspiel (Peripheres Sehen)\n\nSpieler*innen bilden ein Dreieck und spielen den Ball.\neinzelne Spieler*innen nehmen sich selbst aus dem Spiel in dem sie in die Knie gehen\ndie anderen Beiden müssen entsprechend reagieren und auf die freie Person spielen oder zu sich selbst\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/kreisel-8.html",
-    "href": "drills/kreisel-8.html",
+    "objectID": "drills/setting-target.html",
+    "href": "drills/setting-target.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Achter Kreisel\nWie [Sechser Kreisel], mit der Ausnahme, dass es eine oder zwei dedizierte Zuspielende gibt. Es wird von außerhalb des Feldes eingelaufen.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Zielspiel auf ein Ziel\nSpeziell für kurze Bälle. Trainer*in steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/kreisel-4.html",
-    "href": "drills/kreisel-4.html",
+    "objectID": "drills/longline-diagonal.html",
+    "href": "drills/longline-diagonal.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Vierer Kreisel\nVier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position 3, jeweils ein Angriff/Abwehrspieler auf Position 2 und 4 und ein Abwehrspieler auf Position 6. Der Zuspieler Spielt immer abwechselnd auf Position 2 oder 4. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position 6 schließt so an, dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw…\nWichtig ist darauf zu achten, dass die Spielenden immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt\n\n\n\n\n\n\nVarianten\n\n\n\n\nDas Zuspiel erfolgt nicht abwechselnd, sondern zufällig auf Position 2 oder 4.\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Longline Pritschen, diagonal Baggern mit Nachlaufen\nAlle vier Ecken eines Feldes werden besetzt. In den Ecken am Netz stehen jeweils 2 Spieler hintereinander. Die vorderen Spieler am Netz haben jeweils einen Ball und beginnen damit den Ball longline zu spielen und dem eigenen Ball nachzulaufen. Die Spieler auf Position 1 und 5 baggern den Ball diagonal zum jeweils verbliebenen Spieler am Netz und folgen ihrem Ball. Der Spieler am Netz spielt nun wieder longline und folgt seinem Ball. Dies wird solange wiederholt bis ein Fehler passiert\n\n\n\n\n\n\nVarianten\n\n\n\n\nOberes Zuspiel im Sprung\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-chain.html",
-    "href": "drills/defense-chain.html",
+    "objectID": "drills/service-reception-attack-defend.html",
+    "href": "drills/service-reception-attack-defend.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr-Kette\nAn der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDie Angreifer variieren und streuen gelegte Bälle ein\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Aufschlag-Annahme-Angriff-Abwehr\nIn Feldhälfte A werden folgende Positionen besetzt:\n\nZuspiel\nAnnahme (2X)\nAngriff\nWarteposition\n\nIn Feldhälfte B werden folgende Positionen besetzt:\n\nAbwehr (diagonal)\nAufschlag\nWarteposition\n\nBis auf den Zuspieler in Feldhälfte A rotieren alle Spieler nach jedem Ball eine Position weiter. (Grob folgt man immer dem Ball)\nDer Ablauf ist wie folgt:\n\nAufschlag über das Netz in Feldhälfte A (auf die Annahmepositionen)\nAnnahme zum Zuspiel\nZuspiel auf den Angreifer (Position und Art des Zuspiels vorher festlegen)\nAngriff auf den Abwehrspieler\nAbwehr zu sich selbst und den Ball fangen\nAlle rotieren eine Position weiter und wieder Aufschlag\n\nEs können bei dieser Übung diverse Sachen geübt werden:\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nZuspiel (mit laufen)\nTechnik Angriff\nAnnahme und Abstimmung zu zweit\nAbwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)\nAbwehrtechnik\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nVerschiedene Angriffsoptionen (Aussen Mitte über Kopf)\nDer Zuspieler läuft von Position 1, oder 4/5\nAnnahme Spieler gehen zur Angriffssicherung\nZusätzliche Spieler können noch z.B.\n\neinen Block stellen (1-2 Spieler)\nzusätzliche Abwehrspieler\nzusätzlicher Annahme Spieler\netc..\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-reaction.html",
-    "href": "drills/defense-reaction.html",
+    "objectID": "drills/defense-situational.html",
+    "href": "drills/defense-situational.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr & Reaktion\nPaarweise. Ein Medizinball/Peziball wird benutzt um den Ball zu prellen und ihm eine zufällige Richtung zu geben. Der Abwehrspieler muss versuchen den Ball zu erlaufen und (am Besten mit zwei Armen) abzuwehren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Angriff-Abwehr Situativ entscheiden.\nDie Übung wird in 3er Gruppen und nach dem Modus “King of the court” durchgeführt.\nAuf jeder Seite ist ein fixer Zuspieler, der von der Rotation ausgenommen ist.\nDas Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:\n\nEs darf nur aus dem Rückraum angegriffen werden.\nAuf der Aufschlagseite darf von den Aussen (1 & 5) nur longline angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nAuf der Verteidigenden Seite darf von Aussen (1 & 5) nur diagonal angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nlongline und diagonal beschreibt jeweils die ganze Feldhälfte.\n\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nEs ist eine Abwehrübung! (d.h. sicherer Angriff und Aufschlag.)\nDie Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff von vorne.\nDie Mitte darf beliebig angreifen.\nNach jedem Punkt muss die Siegermannschaft die Positionen wechseln\nZuspieler blockt\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-variation.html",
-    "href": "drills/defense-variation.html",
+    "objectID": "drills/kreisel-6.html",
+    "href": "drills/kreisel-6.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehrvariation\nEs werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf der seitlichen Aus-Linie, eine angreifende Person auf gegenüberliegenden Linie, die zweite angreifende Person ca. in der Mitte. Es erfolgen 2 Angriffe auf den Abwehrspieler. Einmal hart und fest aus der Mitte und einmal eher als Float-/Driveschlag von der weiter entfernten Person. Beide Bälle werden zur Person in der Mitte angenommen.\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nDarauf achten, dass beim harten Angriff die Kraft eher aus dem Ball genommen wird und beim Float-/Driveangriff eine aktive Bewegung mit den Armen erfolgt.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Sechser Kreisel\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/reception-action.html",
-    "href": "drills/reception-action.html",
+    "objectID": "drills/kreisel-5.html",
+    "href": "drills/kreisel-5.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Annahme mit Aktion\nEin Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.\n\nDer angenommene Ball wird zugespielt und vom Annahmespieler angegriffen\nDer angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.\nEs folgt unmittelbar ein Angriff auf den Annahmespieler\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Fünfer Kreisel\nWie [Vierer Kreisel] nur stehen auf Position 6 zwei Spielende, die verschieben. Auf die Abstimmung zwischen den Spielern achten\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/nice-reception.html",
-    "href": "drills/nice-reception.html",
+    "objectID": "drills/diagonal-game.html",
+    "href": "drills/diagonal-game.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Schöne Annahmen\nMindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schlägt auf. Es erfolgen Aufschläge auf den Annahmespieler, der zum Fänger annimmt. Dieser zählt die schönen Annahmen mit. Nach einer fixen Anzahl von schönen Annahmen wird gewechselt. Dies kann auf mehreren Feld Hälften/Dritteln parallel ausgeführt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEs wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).\nDie ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.\nFalls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).\nBei 2 Gruppen können Aufschläge auch diagonal erfolgen.\nMan kann auch diagonal dem Ball nachlaufen.\nAufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Diagonalspiel\nAuf beiden Feldhälften wird eine Mannschaft mit mindesten drei Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position 2 ein Angreifer auf Position 4 und ein Abwehrspieler auf Position 5. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position 6.\n\n\n\n\n\n\nVarianten\n\n\n\n\nSpieler auf Position 4 beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.\nDie Richtung wird gewechselt\nAlle Spieler gehen zur Angriffssicherung\nDer Zuspieler versucht zu blocken um die Angriffssicherung zu testen\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/ball-wall2.html",
-    "href": "drills/ball-wall2.html",
+    "objectID": "drills/defense-trio.html",
+    "href": "drills/defense-trio.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ball gegen die Wand II\nZwei Spieler. Spieler A steht in Abwehrhaltung mit Blick auf die Wand. Spieler B wirft den Ball von hinten gegen die Wand und Spieler A fängt den Ball mit beiden Händen oder mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit variieren.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEin Auge geschlossen\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr zu dritt\nDrei Abwehrspieler auf Position 1, 5 und 6. Ein Zuspieler/Angreifer am Netz. Der Zuspieler spielt die Bälle lange, kurz oder als Angriff auf die 3 Abwehrspieler, die diesen wiederum hoch zum Zuspieler abwehren, sodass sofort weiter gespielt werden kann.\n\n\n\n\n\n\nVarianten\n\n\n\n\nNach jedem Ballkontakt eines Spielers auf Position 1 oder 5 wechselt dieser Position mit dem Spieler auf Position 6.\nNach jedem kurzen (gelegtem) Ball geht der Spieler der den Ball abgewehrt hat auf die lange 6 und der Spieler auf der 6 rückt auf die Position des Ballspielenden.\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/2v2-3balls.html",
-    "href": "drills/2v2-3balls.html",
+    "objectID": "drills/defense-long-ball.html",
+    "href": "drills/defense-long-ball.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Zwei gegen Zwei mit 3 Bällen\nGespielt wird auf den (halben) 3-Meter-Raum jedes 2er Team hat einen (Team-) Ball und ein dritter (Spiel-) Ball wird mit 3 Berührungen normal ausgespielt. Die Schwierigkeit ist, dass keiner der beiden Bälle den Boden berühren darf. Der Teamball darf also nicht abgelegt werden. Der Teamball kann entweder sich selbst zugeworfen werden oder zum Teamkollegen, er darf aber nicht den Boden berühren. Für den Spielball zählen normale Volleyball regeln. Wenn einer der beiden Bälle den Boden berührt oder ein andere Fehler begangen wird, zählt der Punkt als verloren. Das Team das einen Fehler begangen hat wird durch das nächste wartende Team ersetzt.\n\n\n\n\n\n\nVarianten\n\n\n\n\njeder Spieler hält einen Ball in der Hand\n3 gegen 3 mit 5/7 Bällen\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Langer Ball\nAm Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/player-2balls.html",
-    "href": "drills/player-2balls.html",
+    "objectID": "drills/defense-endurance.html",
+    "href": "drills/defense-endurance.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ein Spieler 2 Bälle\nEin Spieler hält einen Ball in jeder Hand das gegenüber spielt einen Ball zu. Der Spieler mit den beiden Bällen in der Hand wirft diese rechtzeitig hoch um den vom Partner geworfenen Ball zu spielen und fängt anschließend seinen eigenen Bälle wieder.\nDie Übung kann dadurch erschwert werden, dass kleinere Gegenstände benutzt werden, z.B. Tennisbälle.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr Ausdauerdrill\nAuf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der anderen Seite des Netzes ein Spieler auf Position 3. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position 1 und wehrt einen geschlagenen Ball von Position 4 ab. Danach wir ein Ball von Postion 3 gelegt ein Ball von Position 2 angegriffen wieder ein Ball von Position 3 gelegt, danach ein Angriff von Position 4 abgewehrt und ein gelegter Ball von Position 2 abgewehrt. Es können beide Feldhälften genutzt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nAlle geschlagenen Bälle können auch gelegt werden\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/play-parallel.html",
-    "href": "drills/play-parallel.html",
+    "objectID": "drills/fast-legs.html",
+    "href": "drills/fast-legs.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Parallel spielen mit 2 Bällen\nZwei Spieler spielen parallel mit 2 Bällen. Die Technik sollte vorgegeben werden. Zuerst oberes Zuspiel, unteres Zuspiel, oder abwechselnd.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Schnelle Beine\nLeichter Aufschlag nicht von der Grundlinie, sondern von etwa 6 Metern. Ein Annahmespieler startet in der Mitte und läuft in Position. Der Ball soll zwischen den Beinen auf prellen. Der Spieler sollte ruhig stehen. (ca. 5 Bälle pro Spieler)\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/set-middle.html",
-    "href": "drills/set-middle.html",
+    "objectID": "drills/block-tennis.html",
+    "href": "drills/block-tennis.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Zuspiel aus der Mitte\n3 Spieler stehen in einer Linie. der mittlere Spieler (Zuspieler) spielt den Ball einem der äusseren Spieler zu. Dieser greift auf sein Gegenüber an, der ihn wiederum zum Zuspieler abwehrt. Der Zuspieler stellt nun dem abwehrenden Spieler der wiederum angreift usw.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Zuspieler spielt immer im Sprung zu\nDer Zuspieler spielt über Kopf zu.\nDie Angreifer legen den Ball kurz.\nNach dem Angriff tauschen Zuspieler und Angreifer den Platz.\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ball am Netz übergeben\nTennisball um die Antenne von einer Hand zur anderen übergeben um das Übergreifen zu trainieren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-net.html",
-    "href": "drills/defense-net.html",
+    "objectID": "drills/ball-wall.html",
+    "href": "drills/ball-wall.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Netz sichern\nPerson A wirft/schlägt den Ball ins Netz. Person B sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert A, spielt sich den Ball selbst zu und greift wieder ins Netz an. Wiederholen, bis ein Fehler passiert.\n\n\n\n\n\n\nVarianten\n\n\n\n\nvereinfachen dadurch dass die sichernde Person den Ball nach dem Sichern fängt und ihn dann ins Netz wirft.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ball gegen die Wand\nDer Ball wird abwechselnd mit links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-set-attack.html",
-    "href": "drills/defense-set-attack.html",
+    "objectID": "drills/3players-4balls.html",
+    "href": "drills/3players-4balls.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr Zuspiel Angriff\nZwei Dreiergruppen. Eine Gruppe am Netz ein Spieler auf Position 2 und zwei Spieler auf 4. Ein Abwehrspieler auf Position 1. Es beginnt mit einem Angriff von Position 4 auf Position 1. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position 2,5 auf Position 2 zu und stellt sich dann hinter 2 an. Der Abwehrspieler stellt sich hinter 6 an und ein neuer Abwehrspieler läuft auf 5 und erwartet den Angriff von 2. Der zugespielte Ball wird von 2 angegriffen und von 5 abgewehrt. Der Spieler von 2 wird der neue Zuspieler und spielt von 2,5 auf 4 zu. Abwehrspieler von 5 stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos 1 und verteidigt. Ab hier wie von Anfang an.\nDrei Spieler wechseln sich auf der Netzposition ab und greifen diagonal an. Drei Spieler wechseln sich in der Abwehr ab.\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nBallkontrolle\nRichtige Position zum Ball in der Abwehr\nRichtige Abwehrposition\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n\nauch mit 2 Spielern in der Abwehr möglich\nAngriff im Sprung\nLongline Angriff\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Drei Spieler 4 Bälle\nWie [Spielen mit Nachlaufen], allerdings hat jeder Spieler einen Ball in der Hand und wirft sich den Ball selbst zu, spielt unter dessen den Spielball, fängt seinen eigenen Ball und läuft dem Spielball nach.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/jump-set.html",
-    "href": "drills/jump-set.html",
+    "objectID": "drills/play-3balls.html",
+    "href": "drills/play-3balls.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Zuspiel im Sprung\nDie Spieler stehen sich im etwas geringem Abstand gegenüber und spielen sich den Ball immer mit oberen Zuspiel im Sprung zu. Dabei darauf achten, dass man immer einen kleinen Stemmschritt macht und sich nach jedem gespieltem Ball wieder zwei Schritte zurückzieht. Der Ball sollte gespielt werden wenn man gerade den höchsten Punkt überschritten hat, dadurch entsteht der Eindruck, man würde kurz in der Luft stehen.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Spiel mit 3 Bällen\nZu zweit. Jeder Spieler hält einen Ball in der Hand. Mit einem dritten Ball wird hin und her gespielt. Der eigene Ball muss immer passend hochgeworfen und wieder gefangen werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/long-middle-short.html",
-    "href": "drills/long-middle-short.html",
+    "objectID": "drills/defense-high.html",
+    "href": "drills/defense-high.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Lang, Mitte, Kurz\nPaarweise, ein Angriffsspieler mit Rücken zum Netz und ein Abwehrspieler:\n\nLanger Angriff\nMittel gelegt\nkurz gelegt\nEin Zwischenspiel und von vorne\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr hoch Feldmitte\nJe ein Angreifer auf 2 und 4. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein…\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nAbwehr nicht zum Angreifer, sondern hoch in die Feldmitte.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-3balls.html",
-    "href": "drills/defense-3balls.html",
+    "objectID": "drills/russian-defense.html",
+    "href": "drills/russian-defense.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr mit drei Bällen\nAls Paar aufstellen. Ein Spieler hat drei Bälle. Erst ein harter Angriff dann ein kurzer Ball und zum Abschluss ein hoher Ball, der erlaufen werden muss.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Russische Abwehrübung\nDrei Spielende, zwei Bälle. Die Spielenden stehen auf einer Linie und die äusseren Spielenden werfen abwechselnd den Ball so, dass die Person in der Mitte immer ein paar Schritte machen muss, bis der Ball gespielt werden kann. Die Bälle sollen so geworfen werden, dass es für die Person in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist.\n\n\n\n\n\n\n\nImportant\n\n\n\n\nauf korrekte Technik achten, insbesondere vollständige Drehung der Person in der Mitte\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\njeder zweite Ball wird angegriffen.\nmanche Bälle werden gelegt\nes werden Bälle gespielt, die eine Abwehr im oberen Zuspiel erfordern\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/ball-gesicht.html",
-    "href": "drills/ball-gesicht.html",
+    "objectID": "drills/defense-shuffle.html",
+    "href": "drills/defense-shuffle.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ball ins Gesicht\nZwei Personen, ein Ball. Der Ball wird von der angreifenden Person auf die verteidigende Person geworfen. Ziel ist es, den Bereich zwischen oberem und unterem Abwehrbereich zu treffen, um die Entscheidung für eine der beiden Abwehrtechniken und deren Ausführung zu trainieren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ball aus der Mitte werfen\nWerfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts geworfen um die richtige Bewegung vom Ball weg zu lernen. Annahmespieler zieht sich 2-3 Schritte zurück und baggert den Ball nach vorne. Jeweils ca. 10 Würfe auf jede Seite.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nauf die richtige Grundstellung achten\nauf die richtige Bewegung zum und weg vom Ball achten\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/armzug-tennisball.html",
-    "href": "drills/armzug-tennisball.html",
+    "objectID": "drills/zwischenspiel.html",
+    "href": "drills/zwischenspiel.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Armzug mit Tennisball\nDer Armzug kann durch das Werfen eines Tennisballs mit der oben beschriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Zwischenspiel\nJeder Spieler spielt sich den Ball einmal selbst zu. Dabei gibt es verschiedene Varianten:\n\nEinmal kurzes oberes Zuspiel und lang zurück\nunteres Zuspiel und und oberes zurück\nkurzes oberes Zuspiel und um 180° drehen und über Kopf zurück\nunteres Zuspiel um 180° drehen und über Kopf im oberen Zuspiel zurück\nViele weitere Varianten denkbar\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/knie-beruehren.html",
-    "href": "drills/knie-beruehren.html",
+    "objectID": "drills/long-short.html",
+    "href": "drills/long-short.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Knie Berühren\nZwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner*in wechseln.\n\n\n\n\n\n\nVarianten\n\n\n\n\ngeht auch in Liegestützposition und die Ellenbogen berühren\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Lang, kurz\nAngriffsspieler mit dem Rücken zum Netz greift lang an auf Abwehrspieler. Hohe Abwehr. Angriffsspieler legt den Ball kurz. Nach Zwischenspiel wieder langer Angriff usw.\n\n\n\n\n\n\nVarianten\n\n\n\n\nkurzer Ball muss im oberen Zuspiel gespielt werden\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/spielen-dreieck.html",
-    "href": "drills/spielen-dreieck.html",
+    "objectID": "drills/short-long-short.html",
+    "href": "drills/short-long-short.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Spielen im Dreieck mit laufen\nDie Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt und die Person die den Ball gespielt hat läuft in die entgegengesetzte Richtung.\n\n\n\n\n\n\nVarianten\n\n\n\n\nRichtungswechsel (auf Zuruf)\nOberes Zuspiel im Sprung\nOberes und unteres Zuspiel abwechseln\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nPosition zum Ball\nAusrichtung zum Ziel\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Kurz, lang, kurz\nPaarweise. Spieler 1 spielt langen Ball zu Spieler 2 und läuft nach. Spieler 2 spielt kurz vor sich zu Spieler 1, der wieder kurz zurück und kehrt auf seine ursprüngliche Position zurück. Spieler 2 spielt nun lang und läuft nun dem Ball nach und spielt den von Spieler 1 kurz gespielten Ball zurück und kehrt dann wieder zum Ursprung zurück. Und so weiter\n\n\n\n\n\n\nVarianten\n\n\n\n\nmit Baggern\noberes Zuspiel im Sprung\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/nachlaufen-zuspiel.html",
-    "href": "drills/nachlaufen-zuspiel.html",
+    "objectID": "drills/werfen-3.html",
+    "href": "drills/werfen-3.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Spielen mit Nachlaufen und Zuspiel\nMindestens vier Spielende sind auf einer Feldseite. Positionen 2,4,6 sind besetzt. Es gibt eine Warteposition hinter Position 2. Position 2 spielt den Ball auf 4 zu, die ihn auf 6 in einem simulierten Angriff spielt. Von 6 wird auf Position 2 angenommen. Alle Spielenden laufen dem Ball hinterher.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird von Position 4 leicht (!) angegriffen\nPosition 4 zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position 6 bewegt sich entsprechend.\nPosition 4 legt den Ball hin und wieder. Deutliches signalisieren mit z.B. gestrecktem Arm.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Werfen mit 3 Bällen\nAls Paar aufstellen, der Angriffsspieler hat 3 Bälle und wirft diese nacheinander dem Abwehrspieler zu, der sie hoch abwehrt, sodass der Angriffsspieler die Bälle einen nach dem Anderen fangen und wieder zurück werfen kann.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDie Übung kann beliebig erschwert werden, indem die Bälle kürzer, länger oder seitlich versetzt geworfen werden. Es ist dann auf die Linie großer Zeh, Knie, Schulter zu achten\nEs können aufeinander gestellte Bänke zwischen den Spielern aufgestellt werden um das Netz zu simulieren\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/spielen-mit-nachlaufen.html",
-    "href": "drills/spielen-mit-nachlaufen.html",
+    "objectID": "drills/angriff-nachwerfen.html",
+    "href": "drills/angriff-nachwerfen.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Spielen mit Nachlaufen\nDrei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hin und her gespielt und man wechselt nach jedem Ballkontakt die Seite (dem eigenen Ball nachlaufen) und stellt sich hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nOberes und unteres Zuspiel abwechseln\nOberes Zuspiel im Sprung\nJedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung\nEinmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück\nJeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.\nEs wird abwechselnd Angriff, Abwehr und Zuspiel gespielt\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Angriff mit Nachwerfen\nUm eine hohe Kadenz an Abwehr- und Annahmebewegungen zu erreichen, hält die angreifende Person zwei Bälle. Der erste Ball wird zuerst locker angegriffen. Der zweite Ball wird dann relativ bald hoch nachgeworfen (Dankeball). Die verteidigende Person wehrt den angegriffenen Ball ab und nimmt den geworfenen Ball danach an. Die angreifende Person fängt den abgewehrten Ball und greift den Dankeball direkt an und wirft darauf den gefangenen Ball nach. Wiederholen solange wie möglich\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Dankeball wird zu kurz, oder seitlich versetzt geworfen, um ein Verschieben der verteidigenden Person zu erzwingen.\nDie Angriffe werden härter oder leichter.\nAngriff vom Netz und Abwehr zum Netz.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/ausbaggern.html",
-    "href": "drills/ausbaggern.html",
+    "objectID": "drills/ball-durch-beine.html",
+    "href": "drills/ball-durch-beine.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ausbaggern\nDie Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen\nWenn der Ball auf den Boden fällt verliert der Spieler 2 Leben\nEs wird nur auf den 3-Meter-Raum gespielt\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ball übers Netz\nDie Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nfangen bevor er einmal aufkommt\nweit werfen und mit Hechtbagger verhindern dass er den Boden berührt\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "reception-training.html",
-    "href": "reception-training.html",
-    "title": "Training Abwehr",
+    "objectID": "drills/viereck-laufen.html",
+    "href": "drills/viereck-laufen.html",
+    "title": "Volleyball",
     "section": "",
-    "text": "Beschreibung der Technik",
-    "crumbs": [
-      "Trainings",
-      "Training Abwehr"
-    ]
+    "text": "Spielen im Viereckeck mit Laufen\nDrei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem der Ball gespielt wurde, läuft man auf die freie Ecke.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "reception-training.html#theorie",
-    "href": "reception-training.html#theorie",
-    "title": "Training Abwehr",
+    "objectID": "drills/parallel-wechseln.html",
+    "href": "drills/parallel-wechseln.html",
+    "title": "Volleyball",
     "section": "",
-    "text": "Beschreibung der Technik",
-    "crumbs": [
-      "Trainings",
-      "Training Abwehr"
-    ]
+    "text": "Parallel Spielen und Position wechseln\nJe zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.\n\n\n\n\n\n\nVarianten\n\n\n\n\noberes und unters Zuspiel abwechseln\nden Ball über Kreuz spielen\nden Ball im Sprung zuspielen\njeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "reception-training.html#aufstellung",
-    "href": "reception-training.html#aufstellung",
-    "title": "Training Abwehr",
-    "section": "Aufstellung",
-    "text": "Aufstellung\n\nAnnahme\nMiteinander sprechen!\n\nMitte und Linie absprechen\nEntsprechend des Aufschlags aufstellen (diagonal mehr vom Feld, longline weniger)\nAuf die Art des Aufschlags reagieren:\n\nkurz oder lang\nflattert (oben) oder hart (unten)\n\nWer nimmt kurze Bälle?\n\n\n\nAbwehr\nWelchen Ball muss man zuerst verteidigen?\n\nOverpass für den Block\nOverpass für die Abwehr\ngelegter Ball der Zuspielers\nSchnellangriff\nBall von Aussen\nDankeball\n\nDie Aufstellung an den “Angriff” anpassen.\n\n1. Overpass für den Block\nJe nach Absprache ist der netznahe Overpass für den Mittelblocker. Zuspieler:In geht aus dem Weg. Spieler auf 1 und 5 sichern, falls der Mittelblocker zurückzieht oder in den Block schlägt.\n\n\n2. Overpass für die Abwehr\nSehr kurze Bälle nehmen die Netzspieler (Einen Schritt vom Netz wegbewegen). Zuspieler evtl. aus der Abwehr nehmen (Absprechen). 1 und 5 stehen etwa auf 4 Meter. 6 nimmt alles was lange ist.\n\n\n3. gelegter Ball\n\nMittelblocker geht evtl. zum Block.\nDie restlichen Spielenden decken das Feld ab. (Evtl. Zuspieler:in aus der Sicherung nehmen)\n\n\n\n4. Schnellangriff\n\nBlockspielende Blocken (!!immer!!).\n5 und 1 decken die harten Bälle ab. Die 6 alles was lange ist. 2 und 4 sichern den Block oder blocken.\n\nImmer an den Angreifer und den Block anpassen. (Absprechen!) Am Besten schon nach dem Einschlagen über Prioritäten bei Block und Abwehr sprechen.\n\n\n5. Ball von Aussen (oder über Kopf)\n\nBlockspielende Blocken (!!immer!!).\nAbwehr richtet sich am Block aus. Block steht frühzeitig.\nKlare Aufteilung für harte und gelegte Bälle. (Absprechen!)\nMan hat im Kopf wie der Angreifer bisher angegriffen hat und reagiert darauf.\nAm hat den Angreifer im Blick und reagiert darauf (hart oder gelegt, kurz oder lang)\n\n\n\n6. Danke Ball\nIn der Mannschaft absprechen!\n\nBlocker ziehen sich vom Netz zurück\nZuspieler:in von der Abwehr ausnehmen (Absprechen!)\nkonzentriert bleiben und nicht an den Angriff denken!\n\n\n\nKeys\n\nMan bleibt immer in Bewegung und reaktionsbereit. (Nie aufrecht)\nDer Bereich den man verteidigen muss verändert sich ständig. Entsprechend positionieren.\nMan achtet auf die gegenerische Mannschaft und reagiert darauf.\nEs gibt nicht die eine Position auf der man stehen muss, sondern es gibt keinen Grund zu Stehen!",
-    "crumbs": [
-      "Trainings",
-      "Training Abwehr"
-    ]
-  },
-  {
-    "objectID": "reception-training.html#praxis",
-    "href": "reception-training.html#praxis",
-    "title": "Training Abwehr",
-    "section": "Praxis",
-    "text": "Praxis\n\nWarmup\nSpielen mit Nachlaufen\n\n\nLeiter und Kraftübungen\n2 Gruppen\n\nKraft\n\nindividuell erwärmen der Gelenke\nKräftigen von Schulter, Knie und Sprunggelenken.\n\n\n\nLeiter\n\njedes Feld ein Kontakt (auch rückwärts)\nab der Mitte 2 Kontakte (auch rückwärts)\nseitlicher Lauf (auch rückwärts)\nCrazy Bunny Run\n\n\n\n\nEinspielen\n\nPaarweise einspielen\n\nBall werfen und richtig zurückspielen (Hübner Keys)\n\ngestreckte Arme etc\nPosition\nSchritt\n\nNeben den Körper Werfen und zuerst mit einem Arm zurückspielen und danach mit beiden Armen.\n\nDarauf achten, dass die Arme an der Stelle geschlossen werden, an der gespielt wird.\nNach vorne gebeugt sein!\n\nBall werfen\nweiter Einspielen\n\n\n\nDreiergruppen\n\nSpielen im Dreieck\n\nAuf den Winkel achten!\n\nAbwehrvariation\n\n\n\n\nGruppenübungen\n\n6 Kreisel\n6-Kreisel\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nGrundstellung\nAusrichtung und Absprache mit unserem Mitspieler\nNotzuspiel\n\n\n\n\n\nVier Ecken\nVier Ecken\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nAbwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird\nZuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin\nZuspieler steht richtig zum Ball und spielt entlang der Körperachse\n\n\n\n\n\nLanger Ball\nLanger Ball\n\n\nAngriff-Abwehr mit Schauen\nAngriff-Abwehr mit Schauen",
-    "crumbs": [
-      "Trainings",
-      "Training Abwehr"
-    ]
-  },
-  {
-    "objectID": "reception-training.html#fazit",
-    "href": "reception-training.html#fazit",
-    "title": "Training Abwehr",
-    "section": "Fazit",
-    "text": "Fazit\n\nSaubere Technik\n\nkann jeder für sich alleine üben\neinfach immer vor dem Einspielen etwas vornehmen was man üben will.\n\ngrundsätzliche Absprache im Team (System, Trainer)\nAlles was man individuell schon vorher machen kann auch schon vorher machen! (Das Spiel ist dann schnell genug)\n\nAngriffsszenarien durchgehen (z.B. Zuspieler legt oder MB und Zuspieler diskutieren lange, Rückraum etc.)\nden Gegner beobachten\nindividuelle Absprachen treffen (z.B. “Du kurz!”)\nAllgemeine Anweisungen (“Achtung kurzer Aufschlag!”, “Vorsicht legt!”)\n\nimmer konzentriert und in Bewegung bleiben.\n\nes gibt nichts frustrierenderes als Spieler die erschrecken, wenn der Ball zu ihnen kommt und sie dann zu spät reagieren.\nFehler von Kolleg:innen ausgleichen (Wir sind ein Team)\nmal auch was für die Galerie machen (jeder muss sehen, dass man sich anstrengt)\nnie aufgeben\n\nVerteidigung ist eine mentale Angelegenheit\n\nman muss den Ball wollen\nimmer wach bleiben\nbeweglich bleiben",
-    "crumbs": [
-      "Trainings",
-      "Training Abwehr"
-    ]
-  },
-  {
-    "objectID": "051-zuspiel.html",
-    "href": "051-zuspiel.html",
-    "title": "Zuspiel",
+    "objectID": "drills/nachlaufen-diag.html",
+    "href": "drills/nachlaufen-diag.html",
+    "title": "Volleyball",
     "section": "",
-    "text": "Daumen und Zeigefinger etwa im rechten Winkel\nBeide Hände bilden einen Korb\nFinger leicht gepreizt\nDaumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)\nEllenbogen sind leicht nach vorne gebeugt (ca. 45°)\n\nDas Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen\nDen Ball immer aus der gleichen neutralen Position spielen",
+    "text": "Spielen mit Nachlaufen Diagonal\nDrei bis vier Spielende spielen sich den Ball mit Nachlaufen zu. Dabei stehen sie diagonal im Feld und kreuzen den Weg mit einer zweiten Gruppe. Zusätzlich zu den Varianten in [Spielen mit Nachlaufen], kann noch über Eck gelaufen werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "drills/3-vs-3-2balls.html",
+    "href": "drills/3-vs-3-2balls.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "3 vs. 3 mit 2 Bällen\nJeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "technikcheck-oz.html",
+    "href": "technikcheck-oz.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "Technikcheck oberes Zuspiel\n\nDaumen zeigen nach hinten\nFinger sind weit und haben Spannung\nFinger bleiben auch nach Abspiel offen, verharren\nDer Ballkontakt ist kurz und federnd\nDie Handstellung ist symmetrisch\nTrefferfläche über der Stirn\nleichte Außenrotation der Handflächen ist erkennbar\nDaumendruck ist erkennbar\nEllenbogen sind nicht zu weit auseinander für optimalen Daumenschub\nBewegung zum Ball ist rechtzeitig abgeschlossen\nFüße parallel bzw. in leichter schrittstellung (rechts vorne)\nHände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles\nNeutrale Haltung, alles ruhig\nSpieler springt nicht nach Abspiel\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "05-annahme.html",
+    "href": "05-annahme.html",
+    "title": "Annahme/Abwehr",
+    "section": "",
+    "text": "Füße schulterbreit (nicht zu breit!)\nTief stehen\nGewicht auf dem Vorderfuß (Knie vor den Zehen)\nnach vorne gebeugt (Schultern vor den Knien)\nArme seitlich Handflächen nach oben (parallel zum Oberschenkel)\nHände tiefer als der Ellenbogen\n(fortgeschritten) Split-Step oder Drop-Step\n\n\n\n\nKopf ruhig lassen um die Orientierung im Raum zu behalten.\n\nkeine überflüssigen Bewegungen\nHüfte und Kopf bleiben auf einer Höhe\ngleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)\ndirekte Bewegung zum Annahmeort\nKopf bleibt gerade\n\n\n\n\n\nArme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme strecken.)\nArme an der Stelle des Kontakts mit dem Ball schließen\nVerschluss der Hände (linke Hand in die rechte legen Daumen parallel)\nÜberstrecken der Gelenke und anspannen\nBall etwa auf Höhe des Bauchnabels spielen\n\n\n\n\n\nje nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung\nEinfallswinkel gleich Ausfallwinkel!\n\n\n\n\n\nBeim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags “springt” man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).\nAlternativ kann auch ein kleiner Schritt nach vorne gemacht werden und dann in die tiefe Hocke gesprungen werden. (Split-Step)",
     "crumbs": [
       "Übungen",
-      "Zuspiel"
+      "Annahme/Abwehr"
     ]
   },
   {
-    "objectID": "051-zuspiel.html#technik",
-    "href": "051-zuspiel.html#technik",
-    "title": "Zuspiel",
+    "objectID": "05-annahme.html#technik",
+    "href": "05-annahme.html#technik",
+    "title": "Annahme/Abwehr",
     "section": "",
-    "text": "Daumen und Zeigefinger etwa im rechten Winkel\nBeide Hände bilden einen Korb\nFinger leicht gepreizt\nDaumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)\nEllenbogen sind leicht nach vorne gebeugt (ca. 45°)\n\nDas Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen\nDen Ball immer aus der gleichen neutralen Position spielen",
+    "text": "Füße schulterbreit (nicht zu breit!)\nTief stehen\nGewicht auf dem Vorderfuß (Knie vor den Zehen)\nnach vorne gebeugt (Schultern vor den Knien)\nArme seitlich Handflächen nach oben (parallel zum Oberschenkel)\nHände tiefer als der Ellenbogen\n(fortgeschritten) Split-Step oder Drop-Step\n\n\n\n\nKopf ruhig lassen um die Orientierung im Raum zu behalten.\n\nkeine überflüssigen Bewegungen\nHüfte und Kopf bleiben auf einer Höhe\ngleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)\ndirekte Bewegung zum Annahmeort\nKopf bleibt gerade\n\n\n\n\n\nArme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme strecken.)\nArme an der Stelle des Kontakts mit dem Ball schließen\nVerschluss der Hände (linke Hand in die rechte legen Daumen parallel)\nÜberstrecken der Gelenke und anspannen\nBall etwa auf Höhe des Bauchnabels spielen\n\n\n\n\n\nje nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung\nEinfallswinkel gleich Ausfallwinkel!\n\n\n\n\n\nBeim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags “springt” man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).\nAlternativ kann auch ein kleiner Schritt nach vorne gemacht werden und dann in die tiefe Hocke gesprungen werden. (Split-Step)",
     "crumbs": [
       "Übungen",
-      "Zuspiel"
+      "Annahme/Abwehr"
     ]
   },
   {
-    "objectID": "051-zuspiel.html#strategie",
-    "href": "051-zuspiel.html#strategie",
-    "title": "Zuspiel",
-    "section": "Strategie",
-    "text": "Strategie\n\nDas Spiel “breit” machen\nSauberes, gutes Zuspiel ist wichtiger als der Versuch den Block zu täuschen\n\n\nTechnikcheck oberes Zuspiel\n\nDaumen zeigen nach hinten\nFinger sind weit und haben Spannung\nFinger bleiben auch nach Abspiel offen, verharren\nDer Ballkontakt ist kurz und federnd\nDie Handstellung ist symmetrisch\nTrefferfläche über der Stirn\nleichte Außenrotation der Handflächen ist erkennbar\nDaumendruck ist erkennbar\nEllenbogen sind nicht zu weit auseinander für optimalen Daumenschub\nBewegung zum Ball ist rechtzeitig abgeschlossen\nFüße parallel bzw. in leichter schrittstellung (rechts vorne)\nHände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles\nNeutrale Haltung, alles ruhig\nSpieler springt nicht nach Abspiel",
+    "objectID": "05-annahme.html#übungen",
+    "href": "05-annahme.html#übungen",
+    "title": "Annahme/Abwehr",
+    "section": "Übungen",
+    "text": "Übungen\n\nSchöne Annahmen\nMindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schlägt auf. Es erfolgen Aufschläge auf den Annahmespieler, der zum Fänger annimmt. Dieser zählt die schönen Annahmen mit. Nach einer fixen Anzahl von schönen Annahmen wird gewechselt. Dies kann auf mehreren Feld Hälften/Dritteln parallel ausgeführt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEs wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).\nDie ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.\nFalls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).\nBei 2 Gruppen können Aufschläge auch diagonal erfolgen.\nMan kann auch diagonal dem Ball nachlaufen.\nAufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.\n\n\n\n\n\nSchnelle Beine\nLeichter Aufschlag nicht von der Grundlinie, sondern von etwa 6 Metern. Ein Annahmespieler startet in der Mitte und läuft in Position. Der Ball soll zwischen den Beinen auf prellen. Der Spieler sollte ruhig stehen. (ca. 5 Bälle pro Spieler)\n\n\n\nAnnahme mit Aktion\nEin Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.\n\nDer angenommene Ball wird zugespielt und vom Annahmespieler angegriffen\nDer angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.\nEs folgt unmittelbar ein Angriff auf den Annahmespieler",
     "crumbs": [
       "Übungen",
-      "Zuspiel"
+      "Annahme/Abwehr"
     ]
   },
   {
-    "objectID": "051-zuspiel.html#viereck-zu-dritt",
-    "href": "051-zuspiel.html#viereck-zu-dritt",
-    "title": "Zuspiel",
-    "section": "Viereck zu Dritt",
-    "text": "Viereck zu Dritt\nDrei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEinfachere Variante ist mit Zwischenspiel\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nauf die Position zum Ball achten\nAusrichtung des Spielers zum Ziel\n\n\n\n\n\n\nsquare by three",
+    "objectID": "05-annahme.html#abwehr",
+    "href": "05-annahme.html#abwehr",
+    "title": "Annahme/Abwehr",
+    "section": "Abwehr",
+    "text": "Abwehr\n\n\nSichern\n\n\n\nAbwehr Ausdauerdrill\nAuf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der anderen Seite des Netzes ein Spieler auf Position 3. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position 1 und wehrt einen geschlagenen Ball von Position 4 ab. Danach wir ein Ball von Postion 3 gelegt ein Ball von Position 2 angegriffen wieder ein Ball von Position 3 gelegt, danach ein Angriff von Position 4 abgewehrt und ein gelegter Ball von Position 2 abgewehrt. Es können beide Feldhälften genutzt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nAlle geschlagenen Bälle können auch gelegt werden\n\n\n\n\n\n\nAbwehr hoch Feldmitte\nJe ein Angreifer auf 2 und 4. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein…\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nAbwehr nicht zum Angreifer, sondern hoch in die Feldmitte.\n\n\n\n\n\nAbwehrvariation\nEs werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf der seitlichen Aus-Linie, eine angreifende Person auf gegenüberliegenden Linie, die zweite angreifende Person ca. in der Mitte. Es erfolgen 2 Angriffe auf den Abwehrspieler. Einmal hart und fest aus der Mitte und einmal eher als Float-/Driveschlag von der weiter entfernten Person. Beide Bälle werden zur Person in der Mitte angenommen.\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nDarauf achten, dass beim harten Angriff die Kraft eher aus dem Ball genommen wird und beim Float-/Driveangriff eine aktive Bewegung mit den Armen erfolgt.\n\n\n\n\n\nLanger Ball\nAm Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.\n\n\n\n\n\nAbwehr verschieben\n\n\n\nAbwehr & Reaktion\nPaarweise. Ein Medizinball/Peziball wird benutzt um den Ball zu prellen und ihm eine zufällige Richtung zu geben. Der Abwehrspieler muss versuchen den Ball zu erlaufen und (am Besten mit zwei Armen) abzuwehren.\n\n\nDankeball mit laufen\n\n\n\nAbwehr zu dritt\nDrei Abwehrspieler auf Position 1, 5 und 6. Ein Zuspieler/Angreifer am Netz. Der Zuspieler spielt die Bälle lange, kurz oder als Angriff auf die 3 Abwehrspieler, die diesen wiederum hoch zum Zuspieler abwehren, sodass sofort weiter gespielt werden kann.\n\n\n\n\n\n\nVarianten\n\n\n\n\nNach jedem Ballkontakt eines Spielers auf Position 1 oder 5 wechselt dieser Position mit dem Spieler auf Position 6.\nNach jedem kurzen (gelegtem) Ball geht der Spieler der den Ball abgewehrt hat auf die lange 6 und der Spieler auf der 6 rückt auf die Position des Ballspielenden.\n\n\n\n\n\n\nAbwehr-Kette\nAn der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDie Angreifer variieren und streuen gelegte Bälle ein",
     "crumbs": [
       "Übungen",
-      "Zuspiel"
+      "Annahme/Abwehr"
     ]
   },
   {
-    "objectID": "051-zuspiel.html#zielspiel-auf-ein-ziel",
-    "href": "051-zuspiel.html#zielspiel-auf-ein-ziel",
-    "title": "Zuspiel",
-    "section": "Zielspiel auf ein Ziel",
-    "text": "Zielspiel auf ein Ziel\nSpeziell für kurze Bälle. Trainer*in steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.",
-    "crumbs": [
-      "Übungen",
-      "Zuspiel"
-    ]
-  },
-  {
-    "objectID": "051-zuspiel.html#pritschen-im-sitzen",
-    "href": "051-zuspiel.html#pritschen-im-sitzen",
-    "title": "Zuspiel",
-    "section": "Pritschen im sitzen",
-    "text": "Pritschen im sitzen\nUm das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste sitzend zu Pritschen um die Bewegung des Körpers rauszunehmen.",
-    "crumbs": [
-      "Übungen",
-      "Zuspiel"
-    ]
-  },
-  {
-    "objectID": "051-zuspiel.html#dreiecksspiel-peripheres-sehen",
-    "href": "051-zuspiel.html#dreiecksspiel-peripheres-sehen",
-    "title": "Zuspiel",
-    "section": "Dreiecksspiel (Peripheres Sehen)",
-    "text": "Dreiecksspiel (Peripheres Sehen)\n\nSpieler*innen bilden ein Dreieck und spielen den Ball.\neinzelne Spieler*innen nehmen sich selbst aus dem Spiel in dem sie in die Knie gehen\ndie anderen Beiden müssen entsprechend reagieren und auf die freie Person spielen oder zu sich selbst",
-    "crumbs": [
-      "Übungen",
-      "Zuspiel"
-    ]
-  },
-  {
-    "objectID": "051-zuspiel.html#zuspieler-reagiert-auf-block",
-    "href": "051-zuspiel.html#zuspieler-reagiert-auf-block",
-    "title": "Zuspiel",
-    "section": "Zuspieler reagiert auf Block",
-    "text": "Zuspieler reagiert auf Block\nVorbereitung\n\nZwei Fänger*innen am Netz und dazwischen ein Zuspieler.\nEine Person zum Blocken auf der anderen Seite des Netzes.\nEin bis zwei Anspieler*innen.\n\nAblauf:\n\nAnspieler spielt zum Zuspieler\nBlockspieler bewegt sich\nZuspieler spielt zum freien Fänger\nFänger spielt zum Anspieler\nAnspieler wieder zum Zuspieler.\nusw.",
-    "crumbs": [
-      "Übungen",
-      "Zuspiel"
-    ]
-  },
-  {
-    "objectID": "051-zuspiel.html#zuspiel-im-dreieck",
-    "href": "051-zuspiel.html#zuspiel-im-dreieck",
-    "title": "Zuspiel",
-    "section": "Zuspiel im Dreieck",
-    "text": "Zuspiel im Dreieck\n1 Zuspieler*in steht auf Position 3. Die Positionen 1,2,4 und 5 werden von von Spielenden besetzt. Es wird mit zwei Bällen in zwei Dreiecken gespielt.\n\n1 -&gt; 2 -&gt; 3 -&gt; 1\n4 -&gt; 5 -&gt; 3 -&gt; 4\n\nDie Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nDer Zuspieler achtet darauf dass er sich immer korrekt zum Pfosten ausrichtet und auch unter Zeitdruck sauber spielt.",
-    "crumbs": [
-      "Übungen",
-      "Zuspiel"
-    ]
-  },
-  {
-    "objectID": "051-zuspiel.html#links",
-    "href": "051-zuspiel.html#links",
-    "title": "Zuspiel",
-    "section": "Links",
-    "text": "Links\nZuspiel mit Patrick Steuerwald",
-    "crumbs": [
-      "Übungen",
-      "Zuspiel"
-    ]
-  },
-  {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links",
+    "objectID": "03-angriff.html",
+    "href": "03-angriff.html",
+    "title": "Angriff",
     "section": "",
-    "text": "vobamooc\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
-    "crumbs": [
-      "Sonstiges",
-      "Links"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Wolfgang Lederer",
-    "section": "",
-    "text": "Wolfgang spielt Volleyball, fährt Rennrad und besteigt gerne hohe Berge mit Ski oder ohne. Wenn dann noch Zeit bleibt, versucht er sich an D&D.\n\n\nWiederverwendungCC BY-NC-SA 4.0",
-    "crumbs": [
-      "Sonstiges",
-      "Wolfgang Lederer"
-    ]
-  },
-  {
-    "objectID": "06-komplex.html",
-    "href": "06-komplex.html",
-    "title": "Komplex",
-    "section": "",
-    "text": "Diagonalspiel\nAuf beiden Feldhälften wird eine Mannschaft mit mindesten drei Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position 2 ein Angreifer auf Position 4 und ein Abwehrspieler auf Position 5. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position 6.\n\n\n\n\n\n\nVarianten\n\n\n\n\nSpieler auf Position 4 beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.\nDie Richtung wird gewechselt\nAlle Spieler gehen zur Angriffssicherung\nDer Zuspieler versucht zu blocken um die Angriffssicherung zu testen\n\n\n\n\n\nVierer Kreisel\nVier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position 3, jeweils ein Angriff/Abwehrspieler auf Position 2 und 4 und ein Abwehrspieler auf Position 6. Der Zuspieler Spielt immer abwechselnd auf Position 2 oder 4. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position 6 schließt so an, dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw…\nWichtig ist darauf zu achten, dass die Spielenden immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt\n\n\n\n\n\n\nVarianten\n\n\n\n\nDas Zuspiel erfolgt nicht abwechselnd, sondern zufällig auf Position 2 oder 4.\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\nFünfer Kreisel\nWie Vierer Kreisel nur stehen auf Position 6 zwei Spielende, die verschieben. Auf die Abstimmung zwischen den Spielern achten\n\n\nSechser Kreisel\n\n\n\nAchter Kreisel\nWie Sechser Kreisel, mit der Ausnahme, dass es eine oder zwei dedizierte Zuspielende gibt. Es wird von außerhalb des Feldes eingelaufen.\n\n\nAngriff-Abwehr mit Schauen\nDiese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit einem Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:\n\nes darf nur diagonal angegriffen werden\nes darf nur über Position 2 und 4 angegriffen werden. Die Mitte greift also nie an!\n\nZiel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn von der Mitte angenommen/abgewehrt wird und von der 2 zugespielt wird, muss von der 4 angegriffen werden. Die Abwehrspielenden können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen 4 bewegen und dort auf die Abwehr vorbereiten.\nFalls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise rotiert.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nDarauf achten, dass die Spielenden das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.\nSpieler stehen in richtiger Abwehrposition und bewegen sich nicht mehr wenn geschlagen wird.\nAuf den Split-/Drop-Step achten.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\n1-3 zusätzliche Blockspielende können ebenfalls üben sich frühzeitig zu bewegen\nanstatt diagonal, zeigt der angreifende Spieler die Richtung an\n\n\n\n\n\nAngriff-Abwehr Situativ entscheiden.\nDie Übung wird in 3er Gruppen und nach dem Modus “King of the court” durchgeführt.\nAuf jeder Seite ist ein fixer Zuspieler, der von der Rotation ausgenommen ist.\nDas Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:\n\nEs darf nur aus dem Rückraum angegriffen werden.\nAuf der Aufschlagseite darf von den Aussen (1 & 5) nur longline angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nAuf der Verteidigenden Seite darf von Aussen (1 & 5) nur diagonal angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nlongline und diagonal beschreibt jeweils die ganze Feldhälfte.\n\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nEs ist eine Abwehrübung! (d.h. sicherer Angriff und Aufschlag.)\nDie Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff von vorne.\nDie Mitte darf beliebig angreifen.\nNach jedem Punkt muss die Siegermannschaft die Positionen wechseln\nZuspieler blockt\n\n\n\n\n\n\nAufschlag-Annahme-Angriff-Abwehr\nIn Feldhälfte A werden folgende Positionen besetzt:\n\nZuspiel\nAnnahme (2X)\nAngriff\nWarteposition\n\nIn Feldhälfte B werden folgende Positionen besetzt:\n\nAbwehr (diagonal)\nAufschlag\nWarteposition\n\nBis auf den Zuspieler in Feldhälfte A rotieren alle Spieler nach jedem Ball eine Position weiter. (Grob folgt man immer dem Ball)\nDer Ablauf ist wie folgt:\n\nAufschlag über das Netz in Feldhälfte A (auf die Annahmepositionen)\nAnnahme zum Zuspiel\nZuspiel auf den Angreifer (Position und Art des Zuspiels vorher festlegen)\nAngriff auf den Abwehrspieler\nAbwehr zu sich selbst und den Ball fangen\nAlle rotieren eine Position weiter und wieder Aufschlag\n\nEs können bei dieser Übung diverse Sachen geübt werden:\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nZuspiel (mit laufen)\nTechnik Angriff\nAnnahme und Abstimmung zu zweit\nAbwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)\nAbwehrtechnik\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nVerschiedene Angriffsoptionen (Aussen Mitte über Kopf)\nDer Zuspieler läuft von Position 1, oder 4/5\nAnnahme Spieler gehen zur Angriffssicherung\nZusätzliche Spieler können noch z.B.\n\neinen Block stellen (1-2 Spieler)\nzusätzliche Abwehrspieler\nzusätzlicher Annahme Spieler\netc..\n\n\n\n\n\n\nVier Ecken\nEin Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nAbwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird\nZuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin\nZuspieler steht richtig zum Ball und spielt entlang der Körperachse\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\n\nDiagonal Angriff mit Nachlaufen\nJeweils ein Spieler auf Position 1-5 die restlichen Spieler stellen sich hinter Position 6 an. Der Ball wird durch Einwurf von Position 6 auf Position 3 ins Spiel gebracht und der Spieler von Position 6 läuft auf Position 3. Position 3 spielt den Ball auf Position 2 oder 4 (z. B. abwechselnd) und folgt seinem Ball. Position 2 oder 4 schlagen den Ball (leicht) auf Position 1 oder 5 und folgen ihrem Ball. Position 1 und 5 wehren auf Position 3 ab und stellen sich hinter Position 6 an. Position 6 läuft auf Position 3 ein, sobald 3 den Ball nach vorne oder über Kopf gespielt hat.\n\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
+    "text": "Die Technik wird für Angreifende mit dem rechten Arm erklärt.\n\n\n\nLinks kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben) Oberkörper fällt nach vorne.\nRechts großer Schritt mit viel Geschwindigkeit. Der Körper bleibt tief, beide Arme schwingen nach hinten und oben durch. Der Schritt wird mit der Ferse beendet (Einstemmen). Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt.\nLinks Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.\n\n\n\n\n\nBeide Arme gehen nach oben.\nLinker Arm an die Position an der der Ball geschlagen werden soll.\nRechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tiefer) Handfläche nach Aussen. (Zeus, Daumen an den Hinterkopf).\nHandgelenk abknicken um den Peitscheneffekt zu verstärken.\n\n\n\n\n\nRechter Arm wird nach vorne geführt. Oberarm nahe am Kopf, rechte Schulter geht nach oben und vorne. Unterarm schnellt nach vorne (Peitsche). Hand geöffnet und locker, das Handgelenk locker. Nach dem Ballkontakt schwingt der Arm diagonal durch zur linken Hüfte.\nLinker Arm wird angewinkelt und zur Körpermitte geführt um nicht zu überdrehen.\n\nInsgesamt runde Bewegung ohne Pausen.",
     "crumbs": [
       "Übungen",
-      "Komplex"
+      "Angriff"
+    ]
+  },
+  {
+    "objectID": "03-angriff.html#technik",
+    "href": "03-angriff.html#technik",
+    "title": "Angriff",
+    "section": "",
+    "text": "Die Technik wird für Angreifende mit dem rechten Arm erklärt.\n\n\n\nLinks kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben) Oberkörper fällt nach vorne.\nRechts großer Schritt mit viel Geschwindigkeit. Der Körper bleibt tief, beide Arme schwingen nach hinten und oben durch. Der Schritt wird mit der Ferse beendet (Einstemmen). Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt.\nLinks Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.\n\n\n\n\n\nBeide Arme gehen nach oben.\nLinker Arm an die Position an der der Ball geschlagen werden soll.\nRechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tiefer) Handfläche nach Aussen. (Zeus, Daumen an den Hinterkopf).\nHandgelenk abknicken um den Peitscheneffekt zu verstärken.\n\n\n\n\n\nRechter Arm wird nach vorne geführt. Oberarm nahe am Kopf, rechte Schulter geht nach oben und vorne. Unterarm schnellt nach vorne (Peitsche). Hand geöffnet und locker, das Handgelenk locker. Nach dem Ballkontakt schwingt der Arm diagonal durch zur linken Hüfte.\nLinker Arm wird angewinkelt und zur Körpermitte geführt um nicht zu überdrehen.\n\nInsgesamt runde Bewegung ohne Pausen.",
+    "crumbs": [
+      "Übungen",
+      "Angriff"
+    ]
+  },
+  {
+    "objectID": "03-angriff.html#video",
+    "href": "03-angriff.html#video",
+    "title": "Angriff",
+    "section": "Video",
+    "text": "Video",
+    "crumbs": [
+      "Übungen",
+      "Angriff"
+    ]
+  },
+  {
+    "objectID": "03-angriff.html#übungen",
+    "href": "03-angriff.html#übungen",
+    "title": "Angriff",
+    "section": "Übungen",
+    "text": "Übungen\n\nArmzug mit Tennisball\nDer Armzug kann durch das Werfen eines Tennisballs mit der oben beschriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.",
+    "crumbs": [
+      "Übungen",
+      "Angriff"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Volleyballübungen",
+    "section": "",
+    "text": "cover\n\n\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
+    "crumbs": [
+      "Volleyballübungen"
+    ]
+  },
+  {
+    "objectID": "07-positionen.html",
+    "href": "07-positionen.html",
+    "title": "Positionen",
+    "section": "",
+    "text": "Aufstellung\nAls Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte versammeln. Der Rest schlägt auf und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:\n\neinen Dankeball hinterherwerfen\neinen Ball einschlagen\neinen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)\neinen Ball zum Rest werfen der abgewehrt und angegriffen wird\ndirekt einen Ball für einen Rückraumangriff des Rests anwerfen.\nNach einem Angriff einen Block simulieren, und einen Ball direkt nachwerfen.\n\nWeiter rotieren nach\n\n2 großen Punkten (beide Bälle verwandelt)\nNach 5 Versuchen\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nDen Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.\nZwei Aufschlagende. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der erste Aufschlag ins Netz geht.\n\n\n\n\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
+    "crumbs": [
+      "Übungen",
+      "Positionen"
+    ]
+  },
+  {
+    "objectID": "04-block.html",
+    "href": "04-block.html",
+    "title": "Block",
+    "section": "",
+    "text": "Arme im rechten Winkel sowohl an der Schulter als auch am Ellenbogen abgewinkelt\nUnterarme parallel zum Netz\nBeine leicht angewinkelt\nBereit!\n\n\n\n\n\nSprung aus der Hocke\nArme werden nach oben gestreckt und schieben über das Netz (keine Schlagbewegung)\nHände:\n\nHand offen und die Finger gespreizt und fest.\nHände leicht nach außen abgewinkelt.\nGefühlt berühren sich die Daumen\nHandflächen zielen auf Position 6\n\n\n\n\n\n\nShuffle-Schritte\nAm Ende Einstemmen, sodass man gerade nach oben springt und nicht weiter “segelt”.\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden.\n\n\n\n\n(Bewegung nach rechts beschrieben. Nach links analog)\n\nGrundposition\nrechter Fuß macht einen großen Schritt nach rechts und leicht weg vom Netz. Fuß parallel zum Netz. Körper öffnet sich in Laufrichtung\nlinker Fuß wird nachgezogen, am rechten Fuß weit vorbeigeführt und stemmt ein um die Bewegung zu stoppen und den Schwung für den Sprung zu nutzen. Fuß steht möglichst im rechten Winkel zum Netz Körper dreht sich wieder zum Netz\nrechter Fuß wir parallel zum linken Fuß in Schulterbreite nachgeführt und stemmt ebenfalls ein.\nSprung ohne Seitwärtsbewegung gerade nach oben\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden\n(Variante: Swingblock: die Arme zum Schwung holen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netzberührung zu vermeiden)\n\n\n\n\n\nBall (Annahme und Position des Zuspielers und möglicher Angreifer)\nZuspieler (erkennen der Richtung des Zuspiels)\nBall (Korrektes Abschätzen der Weite)\nAngreifer (Erkennen der Hauptschlagrichtung)",
+    "crumbs": [
+      "Übungen",
+      "Block"
+    ]
+  },
+  {
+    "objectID": "04-block.html#technik",
+    "href": "04-block.html#technik",
+    "title": "Block",
+    "section": "",
+    "text": "Arme im rechten Winkel sowohl an der Schulter als auch am Ellenbogen abgewinkelt\nUnterarme parallel zum Netz\nBeine leicht angewinkelt\nBereit!\n\n\n\n\n\nSprung aus der Hocke\nArme werden nach oben gestreckt und schieben über das Netz (keine Schlagbewegung)\nHände:\n\nHand offen und die Finger gespreizt und fest.\nHände leicht nach außen abgewinkelt.\nGefühlt berühren sich die Daumen\nHandflächen zielen auf Position 6\n\n\n\n\n\n\nShuffle-Schritte\nAm Ende Einstemmen, sodass man gerade nach oben springt und nicht weiter “segelt”.\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden.\n\n\n\n\n(Bewegung nach rechts beschrieben. Nach links analog)\n\nGrundposition\nrechter Fuß macht einen großen Schritt nach rechts und leicht weg vom Netz. Fuß parallel zum Netz. Körper öffnet sich in Laufrichtung\nlinker Fuß wird nachgezogen, am rechten Fuß weit vorbeigeführt und stemmt ein um die Bewegung zu stoppen und den Schwung für den Sprung zu nutzen. Fuß steht möglichst im rechten Winkel zum Netz Körper dreht sich wieder zum Netz\nrechter Fuß wir parallel zum linken Fuß in Schulterbreite nachgeführt und stemmt ebenfalls ein.\nSprung ohne Seitwärtsbewegung gerade nach oben\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden\n(Variante: Swingblock: die Arme zum Schwung holen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netzberührung zu vermeiden)\n\n\n\n\n\nBall (Annahme und Position des Zuspielers und möglicher Angreifer)\nZuspieler (erkennen der Richtung des Zuspiels)\nBall (Korrektes Abschätzen der Weite)\nAngreifer (Erkennen der Hauptschlagrichtung)",
+    "crumbs": [
+      "Übungen",
+      "Block"
+    ]
+  },
+  {
+    "objectID": "04-block.html#übungen",
+    "href": "04-block.html#übungen",
+    "title": "Block",
+    "section": "Übungen",
+    "text": "Übungen\n\nBall am Netz übergeben\nTennisball um die Antenne von einer Hand zur anderen übergeben um das Übergreifen zu trainieren.\n\n\nEinschlagen mit Block\n\n\nAngriff in den Block\n\n\n\nBlock gegen drei Angreifer",
+    "crumbs": [
+      "Übungen",
+      "Block"
+    ]
+  },
+  {
+    "objectID": "01-warmup.html",
+    "href": "01-warmup.html",
+    "title": "Warm Up",
+    "section": "",
+    "text": "Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen\nWenn der Ball auf den Boden fällt verliert der Spieler 2 Leben\nEs wird nur auf den 3-Meter-Raum gespielt\n\n\n\n\n\n\nJeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.",
+    "crumbs": [
+      "Übungen",
+      "Warm Up"
+    ]
+  },
+  {
+    "objectID": "01-warmup.html#spielformen",
+    "href": "01-warmup.html#spielformen",
+    "title": "Warm Up",
+    "section": "",
+    "text": "Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen\nWenn der Ball auf den Boden fällt verliert der Spieler 2 Leben\nEs wird nur auf den 3-Meter-Raum gespielt\n\n\n\n\n\n\nJeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.",
+    "crumbs": [
+      "Übungen",
+      "Warm Up"
+    ]
+  },
+  {
+    "objectID": "01-warmup.html#übungen",
+    "href": "01-warmup.html#übungen",
+    "title": "Warm Up",
+    "section": "Übungen",
+    "text": "Übungen\n\nSpielen mit Nachlaufen\nDrei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hin und her gespielt und man wechselt nach jedem Ballkontakt die Seite (dem eigenen Ball nachlaufen) und stellt sich hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nOberes und unteres Zuspiel abwechseln\nOberes Zuspiel im Sprung\nJedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung\nEinmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück\nJeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.\nEs wird abwechselnd Angriff, Abwehr und Zuspiel gespielt\n\n\n\n\n\nSpielen mit Nachlaufen Diagonal\nDrei bis vier Spielende spielen sich den Ball mit Nachlaufen zu. Dabei stehen sie diagonal im Feld und kreuzen den Weg mit einer zweiten Gruppe. Zusätzlich zu den Varianten in Spielen mit Nachlaufen, kann noch über Eck gelaufen werden.\n\n\nSpielen mit Nachlaufen und Zuspiel\nMindestens vier Spielende sind auf einer Feldseite. Positionen 2,4,6 sind besetzt. Es gibt eine Warteposition hinter Position 2. Position 2 spielt den Ball auf 4 zu, die ihn auf 6 in einem simulierten Angriff spielt. Von 6 wird auf Position 2 angenommen. Alle Spielenden laufen dem Ball hinterher.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird von Position 4 leicht (!) angegriffen\nPosition 4 zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position 6 bewegt sich entsprechend.\nPosition 4 legt den Ball hin und wieder. Deutliches signalisieren mit z.B. gestrecktem Arm.\n\n\n\n\n\nParallel Spielen und Position wechseln\nJe zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.\n\n\n\n\n\n\nVarianten\n\n\n\n\noberes und unters Zuspiel abwechseln\nden Ball über Kreuz spielen\nden Ball im Sprung zuspielen\njeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball\n\n\n\n\n\n\nSpielen im Dreieck mit laufen\nDie Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt und die Person die den Ball gespielt hat läuft in die entgegengesetzte Richtung.\n\n\n\n\n\n\nVarianten\n\n\n\n\nRichtungswechsel (auf Zuruf)\nOberes Zuspiel im Sprung\nOberes und unteres Zuspiel abwechseln\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nPosition zum Ball\nAusrichtung zum Ziel\n\n\n\n\n\n\nSpielen im Viereckeck mit Laufen\nDrei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem der Ball gespielt wurde, läuft man auf die freie Ecke.",
+    "crumbs": [
+      "Übungen",
+      "Warm Up"
+    ]
+  },
+  {
+    "objectID": "01-warmup.html#ohne-ball",
+    "href": "01-warmup.html#ohne-ball",
+    "title": "Warm Up",
+    "section": "Ohne Ball",
+    "text": "Ohne Ball\n\nKnie Berühren\nZwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner*in wechseln.\n\n\n\n\n\n\nVarianten\n\n\n\n\ngeht auch in Liegestützposition und die Ellenbogen berühren\n\n\n\n\n\nBall übers Netz\nDie Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nfangen bevor er einmal aufkommt\nweit werfen und mit Hechtbagger verhindern dass er den Boden berührt",
+    "crumbs": [
+      "Übungen",
+      "Warm Up"
+    ]
+  },
+  {
+    "objectID": "01-warmup.html#athletik",
+    "href": "01-warmup.html#athletik",
+    "title": "Warm Up",
+    "section": "Athletik",
+    "text": "Athletik",
+    "crumbs": [
+      "Übungen",
+      "Warm Up"
     ]
   },
   {
@@ -513,408 +554,375 @@
     ]
   },
   {
-    "objectID": "01-warmup.html",
-    "href": "01-warmup.html",
-    "title": "Warm Up",
+    "objectID": "06-komplex.html",
+    "href": "06-komplex.html",
+    "title": "Komplex",
     "section": "",
-    "text": "Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen\nWenn der Ball auf den Boden fällt verliert der Spieler 2 Leben\nEs wird nur auf den 3-Meter-Raum gespielt\n\n\n\n\n\n\nJeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.",
+    "text": "Diagonalspiel\nAuf beiden Feldhälften wird eine Mannschaft mit mindesten drei Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position 2 ein Angreifer auf Position 4 und ein Abwehrspieler auf Position 5. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position 6.\n\n\n\n\n\n\nVarianten\n\n\n\n\nSpieler auf Position 4 beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.\nDie Richtung wird gewechselt\nAlle Spieler gehen zur Angriffssicherung\nDer Zuspieler versucht zu blocken um die Angriffssicherung zu testen\n\n\n\n\n\nVierer Kreisel\nVier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position 3, jeweils ein Angriff/Abwehrspieler auf Position 2 und 4 und ein Abwehrspieler auf Position 6. Der Zuspieler Spielt immer abwechselnd auf Position 2 oder 4. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position 6 schließt so an, dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw…\nWichtig ist darauf zu achten, dass die Spielenden immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt\n\n\n\n\n\n\nVarianten\n\n\n\n\nDas Zuspiel erfolgt nicht abwechselnd, sondern zufällig auf Position 2 oder 4.\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\nFünfer Kreisel\nWie Vierer Kreisel nur stehen auf Position 6 zwei Spielende, die verschieben. Auf die Abstimmung zwischen den Spielern achten\n\n\nSechser Kreisel\n\n\n\nAchter Kreisel\nWie Sechser Kreisel, mit der Ausnahme, dass es eine oder zwei dedizierte Zuspielende gibt. Es wird von außerhalb des Feldes eingelaufen.\n\n\nAngriff-Abwehr mit Schauen\nDiese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit einem Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:\n\nes darf nur diagonal angegriffen werden\nes darf nur über Position 2 und 4 angegriffen werden. Die Mitte greift also nie an!\n\nZiel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn von der Mitte angenommen/abgewehrt wird und von der 2 zugespielt wird, muss von der 4 angegriffen werden. Die Abwehrspielenden können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen 4 bewegen und dort auf die Abwehr vorbereiten.\nFalls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise rotiert.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nDarauf achten, dass die Spielenden das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.\nSpieler stehen in richtiger Abwehrposition und bewegen sich nicht mehr wenn geschlagen wird.\nAuf den Split-/Drop-Step achten.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\n1-3 zusätzliche Blockspielende können ebenfalls üben sich frühzeitig zu bewegen\nanstatt diagonal, zeigt der angreifende Spieler die Richtung an\n\n\n\n\n\nAngriff-Abwehr Situativ entscheiden.\nDie Übung wird in 3er Gruppen und nach dem Modus “King of the court” durchgeführt.\nAuf jeder Seite ist ein fixer Zuspieler, der von der Rotation ausgenommen ist.\nDas Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:\n\nEs darf nur aus dem Rückraum angegriffen werden.\nAuf der Aufschlagseite darf von den Aussen (1 & 5) nur longline angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nAuf der Verteidigenden Seite darf von Aussen (1 & 5) nur diagonal angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nlongline und diagonal beschreibt jeweils die ganze Feldhälfte.\n\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nEs ist eine Abwehrübung! (d.h. sicherer Angriff und Aufschlag.)\nDie Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff von vorne.\nDie Mitte darf beliebig angreifen.\nNach jedem Punkt muss die Siegermannschaft die Positionen wechseln\nZuspieler blockt\n\n\n\n\n\n\nAufschlag-Annahme-Angriff-Abwehr\nIn Feldhälfte A werden folgende Positionen besetzt:\n\nZuspiel\nAnnahme (2X)\nAngriff\nWarteposition\n\nIn Feldhälfte B werden folgende Positionen besetzt:\n\nAbwehr (diagonal)\nAufschlag\nWarteposition\n\nBis auf den Zuspieler in Feldhälfte A rotieren alle Spieler nach jedem Ball eine Position weiter. (Grob folgt man immer dem Ball)\nDer Ablauf ist wie folgt:\n\nAufschlag über das Netz in Feldhälfte A (auf die Annahmepositionen)\nAnnahme zum Zuspiel\nZuspiel auf den Angreifer (Position und Art des Zuspiels vorher festlegen)\nAngriff auf den Abwehrspieler\nAbwehr zu sich selbst und den Ball fangen\nAlle rotieren eine Position weiter und wieder Aufschlag\n\nEs können bei dieser Übung diverse Sachen geübt werden:\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nZuspiel (mit laufen)\nTechnik Angriff\nAnnahme und Abstimmung zu zweit\nAbwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)\nAbwehrtechnik\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nVerschiedene Angriffsoptionen (Aussen Mitte über Kopf)\nDer Zuspieler läuft von Position 1, oder 4/5\nAnnahme Spieler gehen zur Angriffssicherung\nZusätzliche Spieler können noch z.B.\n\neinen Block stellen (1-2 Spieler)\nzusätzliche Abwehrspieler\nzusätzlicher Annahme Spieler\netc..\n\n\n\n\n\n\nVier Ecken\nEin Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nAbwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird\nZuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin\nZuspieler steht richtig zum Ball und spielt entlang der Körperachse\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\n\nDiagonal Angriff mit Nachlaufen\nJeweils ein Spieler auf Position 1-5 die restlichen Spieler stellen sich hinter Position 6 an. Der Ball wird durch Einwurf von Position 6 auf Position 3 ins Spiel gebracht und der Spieler von Position 6 läuft auf Position 3. Position 3 spielt den Ball auf Position 2 oder 4 (z. B. abwechselnd) und folgt seinem Ball. Position 2 oder 4 schlagen den Ball (leicht) auf Position 1 oder 5 und folgen ihrem Ball. Position 1 und 5 wehren auf Position 3 ab und stellen sich hinter Position 6 an. Position 6 läuft auf Position 3 ein, sobald 3 den Ball nach vorne oder über Kopf gespielt hat.\n\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
     "crumbs": [
       "Übungen",
-      "Warm Up"
+      "Komplex"
     ]
   },
   {
-    "objectID": "01-warmup.html#spielformen",
-    "href": "01-warmup.html#spielformen",
-    "title": "Warm Up",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Wolfgang Lederer",
     "section": "",
-    "text": "Die Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen\nWenn der Ball auf den Boden fällt verliert der Spieler 2 Leben\nEs wird nur auf den 3-Meter-Raum gespielt\n\n\n\n\n\n\nJeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.",
+    "text": "Wolfgang spielt Volleyball, fährt Rennrad und besteigt gerne hohe Berge mit Ski oder ohne. Wenn dann noch Zeit bleibt, versucht er sich an D&D.\n\n\nWiederverwendungCC BY-NC-SA 4.0",
     "crumbs": [
-      "Übungen",
-      "Warm Up"
+      "Sonstiges",
+      "Wolfgang Lederer"
     ]
   },
   {
-    "objectID": "01-warmup.html#übungen",
-    "href": "01-warmup.html#übungen",
-    "title": "Warm Up",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "vobamooc\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
+    "crumbs": [
+      "Sonstiges",
+      "Links"
+    ]
+  },
+  {
+    "objectID": "051-zuspiel.html",
+    "href": "051-zuspiel.html",
+    "title": "Zuspiel",
+    "section": "",
+    "text": "Daumen und Zeigefinger etwa im rechten Winkel\nBeide Hände bilden einen Korb\nFinger leicht gespreizt\nDaumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)\nEllenbogen sind leicht nach vorne gebeugt (ca. 45°)\n\nDas Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen\nDen Ball immer aus der gleichen neutralen Position spielen\n\n\n\n\n\nDaumen zeigen nach hinten\nFinger sind weit und haben Spannung\nFinger bleiben auch nach Abspiel offen, verharren\nDer Ballkontakt ist kurz und federnd\nDie Handstellung ist symmetrisch\nTrefferfläche über der Stirn\nleichte Außenrotation der Handflächen ist erkennbar\nDaumendruck ist erkennbar\nEllenbogen sind nicht zu weit auseinander für optimalen Daumenschub\nBewegung zum Ball ist rechtzeitig abgeschlossen\nFüße parallel bzw. in leichter schrittstellung (rechts vorne)\nHände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles\nNeutrale Haltung, alles ruhig\nSpieler springt nicht nach Abspiel",
+    "crumbs": [
+      "Übungen",
+      "Zuspiel"
+    ]
+  },
+  {
+    "objectID": "051-zuspiel.html#technik",
+    "href": "051-zuspiel.html#technik",
+    "title": "Zuspiel",
+    "section": "",
+    "text": "Daumen und Zeigefinger etwa im rechten Winkel\nBeide Hände bilden einen Korb\nFinger leicht gespreizt\nDaumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)\nEllenbogen sind leicht nach vorne gebeugt (ca. 45°)\n\nDas Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen\nDen Ball immer aus der gleichen neutralen Position spielen\n\n\n\n\n\nDaumen zeigen nach hinten\nFinger sind weit und haben Spannung\nFinger bleiben auch nach Abspiel offen, verharren\nDer Ballkontakt ist kurz und federnd\nDie Handstellung ist symmetrisch\nTrefferfläche über der Stirn\nleichte Außenrotation der Handflächen ist erkennbar\nDaumendruck ist erkennbar\nEllenbogen sind nicht zu weit auseinander für optimalen Daumenschub\nBewegung zum Ball ist rechtzeitig abgeschlossen\nFüße parallel bzw. in leichter schrittstellung (rechts vorne)\nHände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles\nNeutrale Haltung, alles ruhig\nSpieler springt nicht nach Abspiel",
+    "crumbs": [
+      "Übungen",
+      "Zuspiel"
+    ]
+  },
+  {
+    "objectID": "051-zuspiel.html#strategie",
+    "href": "051-zuspiel.html#strategie",
+    "title": "Zuspiel",
+    "section": "Strategie",
+    "text": "Strategie\n\nDas Spiel “breit” machen\nSauberes, gutes Zuspiel ist wichtiger als der Versuch den Block zu täuschen!\nBereits vor dem Spielzug einen Plan und eine Alternative im Kopf haben.\nAuf die Form der eigenen Angreifer achten.\nAuf den gegnerischen Block achten und Schwächen nutzen.\nKommunikation mit den eigenen Angreifern und klar die geplanten Spielzüge kommunizieren.",
+    "crumbs": [
+      "Übungen",
+      "Zuspiel"
+    ]
+  },
+  {
+    "objectID": "051-zuspiel.html#übungen",
+    "href": "051-zuspiel.html#übungen",
+    "title": "Zuspiel",
     "section": "Übungen",
-    "text": "Übungen\n\nSpielen mit Nachlaufen\nDrei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hin und her gespielt und man wechselt nach jedem Ballkontakt die Seite (dem eigenen Ball nachlaufen) und stellt sich hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nOberes und unteres Zuspiel abwechseln\nOberes Zuspiel im Sprung\nJedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung\nEinmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück\nJeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.\nEs wird abwechselnd Angriff, Abwehr und Zuspiel gespielt\n\n\n\n\n\nSpielen mit Nachlaufen Diagonal\nDrei bis vier Spielende spielen sich den Ball mit Nachlaufen zu. Dabei stehen sie diagonal im Feld und kreuzen den Weg mit einer zweiten Gruppe. Zusätzlich zu den Varianten in Spielen mit Nachlaufen, kann noch über Eck gelaufen werden.\n\n\nSpielen mit Nachlaufen und Zuspiel\nMindestens vier Spielende sind auf einer Feldseite. Positionen 2,4,6 sind besetzt. Es gibt eine Warteposition hinter Position 2. Position 2 spielt den Ball auf 4 zu, die ihn auf 6 in einem simulierten Angriff spielt. Von 6 wird auf Position 2 angenommen. Alle Spielenden laufen dem Ball hinterher.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird von Position 4 leicht (!) angegriffen\nPosition 4 zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position 6 bewegt sich entsprechend.\nPosition 4 legt den Ball hin und wieder. Deutliches signalisieren mit z.B. gestrecktem Arm.\n\n\n\n\n\nParallel Spielen und Position wechseln\nJe zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.\n\n\n\n\n\n\nVarianten\n\n\n\n\noberes und unters Zuspiel abwechseln\nden Ball über Kreuz spielen\nden Ball im Sprung zuspielen\njeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball\n\n\n\n\n\n\nSpielen im Dreieck mit laufen\nDie Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt und die Person die den Ball gespielt hat läuft in die entgegengesetzte Richtung.\n\n\n\n\n\n\nVarianten\n\n\n\n\nRichtungswechsel (auf Zuruf)\nOberes Zuspiel im Sprung\nOberes und unteres Zuspiel abwechseln\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nPosition zum Ball\nAusrichtung zum Ziel\n\n\n\n\n\n\nSpielen im Viereckeck mit Laufen\nDrei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem der Ball gespielt wurde, läuft man auf die freie Ecke.",
+    "text": "Übungen\n\nViereck zu Dritt\nDrei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEinfachere Variante ist mit Zwischenspiel\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nauf die Position zum Ball achten\nAusrichtung des Spielers zum Ziel\n\n\n\n\n\n\nsquare by three\n\n\n\n\nZielspiel auf ein Ziel\nSpeziell für kurze Bälle. Trainer*in steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.\n\n\nPritschen im sitzen\nUm das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste sitzend zu Pritschen um die Bewegung des Körpers zu eliminieren.\n\n\nDreiecksspiel (Peripheres Sehen)\n\nSpieler*innen bilden ein Dreieck und spielen den Ball.\neinzelne Spieler*innen nehmen sich selbst aus dem Spiel in dem sie in die Knie gehen\ndie anderen Beiden müssen entsprechend reagieren und auf die freie Person spielen oder zu sich selbst\n\n\n\nZuspieler reagiert auf Block\nVorbereitung\n\nZwei Fänger*innen am Netz und dazwischen ein Zuspieler.\nEine Person zum Blocken auf der anderen Seite des Netzes.\nEin bis zwei Anspieler*innen.\n\nAblauf:\n\nAnspieler spielt zum Zuspieler\nBlockspieler bewegt sich\nZuspieler spielt zum freien Fänger\nFänger spielt zum Anspieler\nAnspieler wieder zum Zuspieler.\nusw.",
     "crumbs": [
       "Übungen",
-      "Warm Up"
+      "Zuspiel"
     ]
   },
   {
-    "objectID": "01-warmup.html#ohne-ball",
-    "href": "01-warmup.html#ohne-ball",
-    "title": "Warm Up",
-    "section": "Ohne Ball",
-    "text": "Ohne Ball\n\nKnie Berühren\nZwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner*in wechseln.\n\n\n\n\n\n\nVarianten\n\n\n\n\ngeht auch in Liegestützposition und die Ellenbogen berühren\n\n\n\n\n\nBall übers Netz\nDie Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nfangen bevor er einmal aufkommt\nweit werfen und mit Hechtbagger verhindern dass er den Boden berührt",
+    "objectID": "051-zuspiel.html#zuspiel-im-dreieck",
+    "href": "051-zuspiel.html#zuspiel-im-dreieck",
+    "title": "Zuspiel",
+    "section": "Zuspiel im Dreieck",
+    "text": "Zuspiel im Dreieck\n1 Zuspieler*in steht auf Position 3. Die Positionen 1,2,4 und 5 werden von von Spielenden besetzt. Es wird mit zwei Bällen in zwei Dreiecken gespielt.\n\n1 -&gt; 2 -&gt; 3 -&gt; 1\n4 -&gt; 5 -&gt; 3 -&gt; 4\n\nDie Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nDer Zuspieler achtet darauf dass er sich immer korrekt zum Pfosten ausrichtet und auch unter Zeitdruck sauber spielt.",
     "crumbs": [
       "Übungen",
-      "Warm Up"
+      "Zuspiel"
     ]
   },
   {
-    "objectID": "01-warmup.html#athletik",
-    "href": "01-warmup.html#athletik",
-    "title": "Warm Up",
-    "section": "Athletik",
-    "text": "Athletik",
+    "objectID": "051-zuspiel.html#links",
+    "href": "051-zuspiel.html#links",
+    "title": "Zuspiel",
+    "section": "Links",
+    "text": "Links\nZuspiel mit Patrick Steuerwald",
     "crumbs": [
       "Übungen",
-      "Warm Up"
+      "Zuspiel"
     ]
   },
   {
-    "objectID": "04-block.html",
-    "href": "04-block.html",
-    "title": "Block",
+    "objectID": "reception-training.html",
+    "href": "reception-training.html",
+    "title": "Training Abwehr",
     "section": "",
-    "text": "Arme im rechten Winkel sowohl an der Schulter als auch am Ellenbogen abgewinkelt\nUnterarme parallel zum Netz\nBeine leicht angewinkelt\nBereit!\n\n\n\n\n\nSprung aus der Hocke\nArme werden nach oben gestreckt und schieben über das Netz (keine Schlagbewegung)\nHände:\n\nHand offen und die Finger gespreizt und fest.\nHände leicht nach außen abgewinkelt.\nGefühlt berühren sich die Daumen\nHandflächen zielen auf Position 6\n\n\n\n\n\n\nShuffle-Schritte\nAm Ende Einstemmen, sodass man gerade nach oben springt und nicht weiter “segelt”.\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden.\n\n\n\n\n(Bewegung nach rechts beschrieben. Nach links analog)\n\nGrundposition\nrechter Fuß macht einen großen Schritt nach rechts und leicht weg vom Netz. Fuß parallel zum Netz. Körper öffnet sich in Laufrichtung\nlinker Fuß wird nachgezogen, am rechten Fuß weit vorbeigeführt und stemmt ein um die Bewegung zu stoppen und den Schwung für den Sprung zu nutzen. Fuß steht möglichst im rechten Winkel zum Netz Körper dreht sich wieder zum Netz\nrechter Fuß wir parallel zum linken Fuß in Schulterbreite nachgeführt und stemmt ebenfalls ein.\nSprung ohne Seitwärtsbewegung gerade nach oben\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden\n(Variante: Swingblock: die Arme zum Schwung holen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netzberührung zu vermeiden)\n\n\n\n\n\nBall (Annahme und Position des Zuspielers und möglicher Angreifer)\nZuspieler (erkennen der Richtung des Zuspiels)\nBall (Korrektes Abschätzen der Weite)\nAngreifer (Erkennen der Hauptschlagrichtung)",
+    "text": "Beschreibung der Technik",
     "crumbs": [
-      "Übungen",
-      "Block"
+      "Trainings",
+      "Training Abwehr"
     ]
   },
   {
-    "objectID": "04-block.html#technik",
-    "href": "04-block.html#technik",
-    "title": "Block",
+    "objectID": "reception-training.html#theorie",
+    "href": "reception-training.html#theorie",
+    "title": "Training Abwehr",
     "section": "",
-    "text": "Arme im rechten Winkel sowohl an der Schulter als auch am Ellenbogen abgewinkelt\nUnterarme parallel zum Netz\nBeine leicht angewinkelt\nBereit!\n\n\n\n\n\nSprung aus der Hocke\nArme werden nach oben gestreckt und schieben über das Netz (keine Schlagbewegung)\nHände:\n\nHand offen und die Finger gespreizt und fest.\nHände leicht nach außen abgewinkelt.\nGefühlt berühren sich die Daumen\nHandflächen zielen auf Position 6\n\n\n\n\n\n\nShuffle-Schritte\nAm Ende Einstemmen, sodass man gerade nach oben springt und nicht weiter “segelt”.\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden.\n\n\n\n\n(Bewegung nach rechts beschrieben. Nach links analog)\n\nGrundposition\nrechter Fuß macht einen großen Schritt nach rechts und leicht weg vom Netz. Fuß parallel zum Netz. Körper öffnet sich in Laufrichtung\nlinker Fuß wird nachgezogen, am rechten Fuß weit vorbeigeführt und stemmt ein um die Bewegung zu stoppen und den Schwung für den Sprung zu nutzen. Fuß steht möglichst im rechten Winkel zum Netz Körper dreht sich wieder zum Netz\nrechter Fuß wir parallel zum linken Fuß in Schulterbreite nachgeführt und stemmt ebenfalls ein.\nSprung ohne Seitwärtsbewegung gerade nach oben\nHände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden\n(Variante: Swingblock: die Arme zum Schwung holen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netzberührung zu vermeiden)\n\n\n\n\n\nBall (Annahme und Position des Zuspielers und möglicher Angreifer)\nZuspieler (erkennen der Richtung des Zuspiels)\nBall (Korrektes Abschätzen der Weite)\nAngreifer (Erkennen der Hauptschlagrichtung)",
+    "text": "Beschreibung der Technik",
     "crumbs": [
-      "Übungen",
-      "Block"
+      "Trainings",
+      "Training Abwehr"
     ]
   },
   {
-    "objectID": "04-block.html#übungen",
-    "href": "04-block.html#übungen",
-    "title": "Block",
-    "section": "Übungen",
-    "text": "Übungen\n\nBall am Netz übergeben\nTennisball um die Antenne von einer Hand zur anderen übergeben um das Übergreifen zu trainieren.\n\n\nEinschlagen mit Block\n\n\nAngriff in den Block\n\n\n\nBlock gegen drei Angreifer",
+    "objectID": "reception-training.html#aufstellung",
+    "href": "reception-training.html#aufstellung",
+    "title": "Training Abwehr",
+    "section": "Aufstellung",
+    "text": "Aufstellung\n\nAnnahme\nMiteinander sprechen!\n\nMitte und Linie absprechen\nEntsprechend des Aufschlags aufstellen (diagonal mehr vom Feld, longline weniger)\nAuf die Art des Aufschlags reagieren:\n\nkurz oder lang\nflattert (oben) oder hart (unten)\n\nWer nimmt kurze Bälle?\n\n\n\nAbwehr\nWelchen Ball muss man zuerst verteidigen?\n\nOverpass für den Block\nOverpass für die Abwehr\ngelegter Ball der Zuspielers\nSchnellangriff\nBall von Aussen\nDankeball\n\nDie Aufstellung an den “Angriff” anpassen.\n\n1. Overpass für den Block\nJe nach Absprache ist der netznahe Overpass für den Mittelblocker. Zuspieler:In geht aus dem Weg. Spieler auf 1 und 5 sichern, falls der Mittelblocker zurückzieht oder in den Block schlägt.\n\n\n2. Overpass für die Abwehr\nSehr kurze Bälle nehmen die Netzspieler (Einen Schritt vom Netz wegbewegen). Zuspieler evtl. aus der Abwehr nehmen (Absprechen). 1 und 5 stehen etwa auf 4 Meter. 6 nimmt alles was lange ist.\n\n\n3. gelegter Ball\n\nMittelblocker geht evtl. zum Block.\nDie restlichen Spielenden decken das Feld ab. (Evtl. Zuspieler:in aus der Sicherung nehmen)\n\n\n\n4. Schnellangriff\n\nBlockspielende Blocken (!!immer!!).\n5 und 1 decken die harten Bälle ab. Die 6 alles was lange ist. 2 und 4 sichern den Block oder blocken.\n\nImmer an den Angreifer und den Block anpassen. (Absprechen!) Am Besten schon nach dem Einschlagen über Prioritäten bei Block und Abwehr sprechen.\n\n\n5. Ball von Aussen (oder über Kopf)\n\nBlockspielende Blocken (!!immer!!).\nAbwehr richtet sich am Block aus. Block steht frühzeitig.\nKlare Aufteilung für harte und gelegte Bälle. (Absprechen!)\nMan hat im Kopf wie der Angreifer bisher angegriffen hat und reagiert darauf.\nAm hat den Angreifer im Blick und reagiert darauf (hart oder gelegt, kurz oder lang)\n\n\n\n6. Danke Ball\nIn der Mannschaft absprechen!\n\nBlocker ziehen sich vom Netz zurück\nZuspieler:in von der Abwehr ausnehmen (Absprechen!)\nkonzentriert bleiben und nicht an den Angriff denken!\n\n\n\nKeys\n\nMan bleibt immer in Bewegung und reaktionsbereit. (Nie aufrecht)\nDer Bereich den man verteidigen muss verändert sich ständig. Entsprechend positionieren.\nMan achtet auf die gegenerische Mannschaft und reagiert darauf.\nEs gibt nicht die eine Position auf der man stehen muss, sondern es gibt keinen Grund zu Stehen!",
     "crumbs": [
-      "Übungen",
-      "Block"
+      "Trainings",
+      "Training Abwehr"
     ]
   },
   {
-    "objectID": "07-positionen.html",
-    "href": "07-positionen.html",
-    "title": "Positionen",
-    "section": "",
-    "text": "Als Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte versammeln. Der Rest schlägt auf und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:\n\neinen Dankeball hinterherwerfen\neinen Ball einschlagen\neinen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)\neinen Ball zum Rest werfen der abgewehrt und angegriffen wird\ndirekt einen Ball für einen Rückraumangriff des Rests anwerfen.\n\nWeiter rotieren nach\n\n2 großen Punkten (beide Bälle verwandelt)\nNach 5 Versuchen\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nDen Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.\nZwei Aufschlagende. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der erste Aufschlag ins Netz geht.",
+    "objectID": "reception-training.html#praxis",
+    "href": "reception-training.html#praxis",
+    "title": "Training Abwehr",
+    "section": "Praxis",
+    "text": "Praxis\n\nWarmup\nSpielen mit Nachlaufen\n\n\nLeiter und Kraftübungen\n2 Gruppen\n\nKraft\n\nindividuell erwärmen der Gelenke\nKräftigen von Schulter, Knie und Sprunggelenken.\n\n\n\nLeiter\n\njedes Feld ein Kontakt (auch rückwärts)\nab der Mitte 2 Kontakte (auch rückwärts)\nseitlicher Lauf (auch rückwärts)\nCrazy Bunny Run\n\n\n\n\nEinspielen\n\nPaarweise einspielen\n\nBall werfen und richtig zurückspielen (Hübner Keys)\n\ngestreckte Arme etc\nPosition\nSchritt\n\nNeben den Körper Werfen und zuerst mit einem Arm zurückspielen und danach mit beiden Armen.\n\nDarauf achten, dass die Arme an der Stelle geschlossen werden, an der gespielt wird.\nNach vorne gebeugt sein!\n\nBall werfen\nweiter Einspielen\n\n\n\nDreiergruppen\n\nSpielen im Dreieck\n\nAuf den Winkel achten!\n\nAbwehrvariation\n\n\n\n\nGruppenübungen\n\n6 Kreisel\n6-Kreisel\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nGrundstellung\nAusrichtung und Absprache mit unserem Mitspieler\nNotzuspiel\n\n\n\n\n\nVier Ecken\nVier Ecken\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nAbwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird\nZuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin\nZuspieler steht richtig zum Ball und spielt entlang der Körperachse\n\n\n\n\n\nLanger Ball\nLanger Ball\n\n\nAngriff-Abwehr mit Schauen\nAngriff-Abwehr mit Schauen",
     "crumbs": [
-      "Übungen",
-      "Positionen"
+      "Trainings",
+      "Training Abwehr"
     ]
   },
   {
-    "objectID": "07-positionen.html#aufstellung",
-    "href": "07-positionen.html#aufstellung",
-    "title": "Positionen",
-    "section": "",
-    "text": "Als Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte versammeln. Der Rest schlägt auf und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:\n\neinen Dankeball hinterherwerfen\neinen Ball einschlagen\neinen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)\neinen Ball zum Rest werfen der abgewehrt und angegriffen wird\ndirekt einen Ball für einen Rückraumangriff des Rests anwerfen.\n\nWeiter rotieren nach\n\n2 großen Punkten (beide Bälle verwandelt)\nNach 5 Versuchen\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nDen Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.\nZwei Aufschlagende. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der erste Aufschlag ins Netz geht.",
+    "objectID": "reception-training.html#fazit",
+    "href": "reception-training.html#fazit",
+    "title": "Training Abwehr",
+    "section": "Fazit",
+    "text": "Fazit\n\nSaubere Technik\n\nkann jeder für sich alleine üben\neinfach immer vor dem Einspielen etwas vornehmen was man üben will.\n\ngrundsätzliche Absprache im Team (System, Trainer)\nAlles was man individuell schon vorher machen kann auch schon vorher machen! (Das Spiel ist dann schnell genug)\n\nAngriffsszenarien durchgehen (z.B. Zuspieler legt oder MB und Zuspieler diskutieren lange, Rückraum etc.)\nden Gegner beobachten\nindividuelle Absprachen treffen (z.B. “Du kurz!”)\nAllgemeine Anweisungen (“Achtung kurzer Aufschlag!”, “Vorsicht legt!”)\n\nimmer konzentriert und in Bewegung bleiben.\n\nes gibt nichts frustrierenderes als Spieler die erschrecken, wenn der Ball zu ihnen kommt und sie dann zu spät reagieren.\nFehler von Kolleg:innen ausgleichen (Wir sind ein Team)\nmal auch was für die Galerie machen (jeder muss sehen, dass man sich anstrengt)\nnie aufgeben\n\nVerteidigung ist eine mentale Angelegenheit\n\nman muss den Ball wollen\nimmer wach bleiben\nbeweglich bleiben",
     "crumbs": [
-      "Übungen",
-      "Positionen"
+      "Trainings",
+      "Training Abwehr"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Volleyballübungen",
-    "section": "",
-    "text": "cover\n\n\n\n\n\nWiederverwendungCC BY-NC-SA 4.0",
-    "crumbs": [
-      "Volleyballübungen"
-    ]
-  },
-  {
-    "objectID": "03-angriff.html",
-    "href": "03-angriff.html",
-    "title": "Angriff",
-    "section": "",
-    "text": "Die Technik wird für Angreifende mit dem rechten Arm erklärt.\n\n\n\nLinks kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben) Oberkörper fällt nach vorne.\nRechts großer Schritt mit viel Geschwindigkeit. Der Körper bleibt tief, beide Arme schwingen nach hinten und oben durch. Der Schritt wird mit der Ferse beendet (Einstemmen). Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt.\nLinks Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.\n\n\n\n\n\nBeide Arme gehen nach oben.\nLinker Arm an die Position an der der Ball geschlagen werden soll.\nRechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tiefer) Handfläche nach Aussen. (Zeus, Daumen an den Hinterkopf).\nHandgelenk abknicken um den Peitscheneffekt zu verstärken.\n\n\n\n\n\nRechter Arm wird nach vorne geführt. Oberarm nahe am Kopf, rechte Schulter geht nach oben und vorne. Unterarm schnellt nach vorne (Peitsche). Hand geöffnet und locker, das Handgelenk locker. Nach dem Ballkontakt schwingt der Arm diagonal durch zur linken Hüfte.\nLinker Arm wird angewinkelt und zur Körpermitte geführt um nicht zu überdrehen.\n\nInsgesamt runde Bewegung ohne Pausen.",
-    "crumbs": [
-      "Übungen",
-      "Angriff"
-    ]
-  },
-  {
-    "objectID": "03-angriff.html#technik",
-    "href": "03-angriff.html#technik",
-    "title": "Angriff",
-    "section": "",
-    "text": "Die Technik wird für Angreifende mit dem rechten Arm erklärt.\n\n\n\nLinks kleiner Schritt. Es wird nicht über die Ferse abgerollt, sondern wie beim Sprint nur auf dem Ballen belastet. Arme werden nur schnell, abgewinkelt nach oben bewegt. (Nicht den ganzen Arm heben) Oberkörper fällt nach vorne.\nRechts großer Schritt mit viel Geschwindigkeit. Der Körper bleibt tief, beide Arme schwingen nach hinten und oben durch. Der Schritt wird mit der Ferse beendet (Einstemmen). Durch das Einstemmen mit der Ferse wird die horizontale Energie in vertikale umgewandelt.\nLinks Der linke Fuß wird am rechten vorbeigeführt, sodass man sich dem Zuspieler zuwendet und zum Ball öffnet. Aus der tiefen Hocke explosiv springen und mit dem Schwung der Arme unterstützen.\n\n\n\n\n\nBeide Arme gehen nach oben.\nLinker Arm an die Position an der der Ball geschlagen werden soll.\nRechter Arm geht nach oben hinten, Handgelenk ist abgeklappt, Ellenbogen auf Höhe des Ohres (eher tiefer) Handfläche nach Aussen. (Zeus, Daumen an den Hinterkopf).\nHandgelenk abknicken um den Peitscheneffekt zu verstärken.\n\n\n\n\n\nRechter Arm wird nach vorne geführt. Oberarm nahe am Kopf, rechte Schulter geht nach oben und vorne. Unterarm schnellt nach vorne (Peitsche). Hand geöffnet und locker, das Handgelenk locker. Nach dem Ballkontakt schwingt der Arm diagonal durch zur linken Hüfte.\nLinker Arm wird angewinkelt und zur Körpermitte geführt um nicht zu überdrehen.\n\nInsgesamt runde Bewegung ohne Pausen.",
-    "crumbs": [
-      "Übungen",
-      "Angriff"
-    ]
-  },
-  {
-    "objectID": "03-angriff.html#video",
-    "href": "03-angriff.html#video",
-    "title": "Angriff",
-    "section": "Video",
-    "text": "Video",
-    "crumbs": [
-      "Übungen",
-      "Angriff"
-    ]
-  },
-  {
-    "objectID": "03-angriff.html#übungen",
-    "href": "03-angriff.html#übungen",
-    "title": "Angriff",
-    "section": "Übungen",
-    "text": "Übungen\n\nArmzug mit Tennisball\nDer Armzug kann durch das Werfen eines Tennisballs mit der oben beschriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.",
-    "crumbs": [
-      "Übungen",
-      "Angriff"
-    ]
-  },
-  {
-    "objectID": "05-annahme.html",
-    "href": "05-annahme.html",
-    "title": "Annahme/Abwehr",
-    "section": "",
-    "text": "Füße schulterbreit (nicht zu breit!)\nTief stehen\nGewicht auf dem Vorderfuß (Knie vor den Zehen)\nnach vorne gebeugt (Schultern vor den Knien)\nArme seitlich Handflächen nach oben (parallel zum Oberschenkel)\nHände tiefer als der Ellenbogen\n(fortgeschritten) Split-Step oder Drop-Step\n\n\n\n\nKopf ruhig lassen um die Orientierung im Raum zu behalten.\n\nkeine überflüssigen Bewegungen\nHüfte und Kopf bleiben auf einer Höhe\ngleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)\ndirekte Bewegung zum Annahmeort\nKopf bleibt gerade\n\n\n\n\n\nArme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme strecken.)\nArme an der Stelle des Kontakts mit dem Ball schließen\nVerschluss der Hände (linke Hand in die rechte legen Daumen parallel)\nÜberstrecken der Gelenke und anspannen\nBall etwa auf Höhe des Bauchnabels spielen\n\n\n\n\n\nje nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung\nEinfallswinkel gleich Ausfallwinkel!\n\n\n\n\n\nBeim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags “springt” man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).\nAlternativ kann auch ein kleiner Schritt nach vorne gemacht werden und dann in die tiefe Hocke gesprungen werden. (Split-Step)",
-    "crumbs": [
-      "Übungen",
-      "Annahme/Abwehr"
-    ]
-  },
-  {
-    "objectID": "05-annahme.html#technik",
-    "href": "05-annahme.html#technik",
-    "title": "Annahme/Abwehr",
-    "section": "",
-    "text": "Füße schulterbreit (nicht zu breit!)\nTief stehen\nGewicht auf dem Vorderfuß (Knie vor den Zehen)\nnach vorne gebeugt (Schultern vor den Knien)\nArme seitlich Handflächen nach oben (parallel zum Oberschenkel)\nHände tiefer als der Ellenbogen\n(fortgeschritten) Split-Step oder Drop-Step\n\n\n\n\nKopf ruhig lassen um die Orientierung im Raum zu behalten.\n\nkeine überflüssigen Bewegungen\nHüfte und Kopf bleiben auf einer Höhe\ngleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)\ndirekte Bewegung zum Annahmeort\nKopf bleibt gerade\n\n\n\n\n\nArme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme strecken.)\nArme an der Stelle des Kontakts mit dem Ball schließen\nVerschluss der Hände (linke Hand in die rechte legen Daumen parallel)\nÜberstrecken der Gelenke und anspannen\nBall etwa auf Höhe des Bauchnabels spielen\n\n\n\n\n\nje nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung\nEinfallswinkel gleich Ausfallwinkel!\n\n\n\n\n\nBeim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags “springt” man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).\nAlternativ kann auch ein kleiner Schritt nach vorne gemacht werden und dann in die tiefe Hocke gesprungen werden. (Split-Step)",
-    "crumbs": [
-      "Übungen",
-      "Annahme/Abwehr"
-    ]
-  },
-  {
-    "objectID": "05-annahme.html#übungen",
-    "href": "05-annahme.html#übungen",
-    "title": "Annahme/Abwehr",
-    "section": "Übungen",
-    "text": "Übungen\n\nSchöne Annahmen\nMindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schlägt auf. Es erfolgen Aufschläge auf den Annahmespieler, der zum Fänger annimmt. Dieser zählt die schönen Annahmen mit. Nach einer fixen Anzahl von schönen Annahmen wird gewechselt. Dies kann auf mehreren Feld Hälften/Dritteln parallel ausgeführt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEs wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).\nDie ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.\nFalls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).\nBei 2 Gruppen können Aufschläge auch diagonal erfolgen.\nMan kann auch diagonal dem Ball nachlaufen.\nAufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.\n\n\n\n\n\nSchnelle Beine\nLeichter Aufschlag nicht von der Grundlinie, sondern von etwa 6 Metern. Ein Annahmespieler startet in der Mitte und läuft in Position. Der Ball soll zwischen den Beinen auf prellen. Der Spieler sollte ruhig stehen. (ca. 5 Bälle pro Spieler)\n\n\n\nAnnahme mit Aktion\nEin Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.\n\nDer angenommene Ball wird zugespielt und vom Annahmespieler angegriffen\nDer angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.\nEs folgt unmittelbar ein Angriff auf den Annahmespieler",
-    "crumbs": [
-      "Übungen",
-      "Annahme/Abwehr"
-    ]
-  },
-  {
-    "objectID": "05-annahme.html#abwehr",
-    "href": "05-annahme.html#abwehr",
-    "title": "Annahme/Abwehr",
-    "section": "Abwehr",
-    "text": "Abwehr\n\n\nSichern\n\n\n\nAbwehr Ausdauerdrill\nAuf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der anderen Seite des Netzes ein Spieler auf Position 3. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position 1 und wehrt einen geschlagenen Ball von Position 4 ab. Danach wir ein Ball von Postion 3 gelegt ein Ball von Position 2 angegriffen wieder ein Ball von Position 3 gelegt, danach ein Angriff von Position 4 abgewehrt und ein gelegter Ball von Position 2 abgewehrt. Es können beide Feldhälften genutzt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nAlle geschlagenen Bälle können auch gelegt werden\n\n\n\n\n\n\nAbwehr hoch Feldmitte\nJe ein Angreifer auf 2 und 4. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein…\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nAbwehr nicht zum Angreifer, sondern hoch in die Feldmitte.\n\n\n\n\n\nAbwehrvariation\nEs werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf der seitlichen Aus-Linie, eine angreifende Person auf gegenüberliegenden Linie, die zweite angreifende Person ca. in der Mitte. Es erfolgen 2 Angriffe auf den Abwehrspieler. Einmal hart und fest aus der Mitte und einmal eher als Float-/Driveschlag von der weiter entfernten Person. Beide Bälle werden zur Person in der Mitte angenommen.\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nDarauf achten, dass beim harten Angriff die Kraft eher aus dem Ball genommen wird und beim Float-/Driveangriff eine aktive Bewegung mit den Armen erfolgt.\n\n\n\n\n\nLanger Ball\nAm Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.\n\n\n\n\n\nAbwehr verschieben\n\n\n\nAbwehr & Reaktion\nPaarweise. Ein Medizinball/Peziball wird benutzt um den Ball zu prellen und ihm eine zufällige Richtung zu geben. Der Abwehrspieler muss versuchen den Ball zu erlaufen und (am Besten mit zwei Armen) abzuwehren.\n\n\nDankeball mit laufen\n\n\n\nAbwehr zu dritt\nDrei Abwehrspieler auf Position 1, 5 und 6. Ein Zuspieler/Angreifer am Netz. Der Zuspieler spielt die Bälle lange, kurz oder als Angriff auf die 3 Abwehrspieler, die diesen wiederum hoch zum Zuspieler abwehren, sodass sofort weiter gespielt werden kann.\n\n\n\n\n\n\nVarianten\n\n\n\n\nNach jedem Ballkontakt eines Spielers auf Position 1 oder 5 wechselt dieser Position mit dem Spieler auf Position 6.\nNach jedem kurzen (gelegtem) Ball geht der Spieler der den Ball abgewehrt hat auf die lange 6 und der Spieler auf der 6 rückt auf die Position des Ballspielenden.\n\n\n\n\n\n\nAbwehr-Kette\nAn der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDie Angreifer variieren und streuen gelegte Bälle ein",
-    "crumbs": [
-      "Übungen",
-      "Annahme/Abwehr"
-    ]
-  },
-  {
-    "objectID": "technikcheck-oz.html",
-    "href": "technikcheck-oz.html",
+    "objectID": "drills/ausbaggern.html",
+    "href": "drills/ausbaggern.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Technikcheck oberes Zuspiel\n\nDaumen zeigen nach hinten\nFinger sind weit und haben Spannung\nFinger bleiben auch nach Abspiel offen, verharren\nDer Ballkontakt ist kurz und federnd\nDie Handstellung ist symmetrisch\nTrefferfläche über der Stirn\nleichte Außenrotation der Handflächen ist erkennbar\nDaumendruck ist erkennbar\nEllenbogen sind nicht zu weit auseinander für optimalen Daumenschub\nBewegung zum Ball ist rechtzeitig abgeschlossen\nFüße parallel bzw. in leichter schrittstellung (rechts vorne)\nHände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles\nNeutrale Haltung, alles ruhig\nSpieler springt nicht nach Abspiel\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ausbaggern\nDie Spieler stellen sich an beiden Enden des Feldes an. Der Ball wird immer abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft der Spieler auf die Andere Feldhälfte und stellt sich hinten an. Es ist darauf zu achten, dass die anderen Spieler nicht behindert werden. Wenn ein Fehler (Netz, Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden) gemacht wird, beginnt der Spieler der den Fehler begangen hat von vorne und verliert ein Leben. Hat ein Spieler alle seine Leben verbraucht, scheidet er aus und macht sich solange individuell warm\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen\nWenn der Ball auf den Boden fällt verliert der Spieler 2 Leben\nEs wird nur auf den 3-Meter-Raum gespielt\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/3-vs-3-2balls.html",
-    "href": "drills/3-vs-3-2balls.html",
+    "objectID": "drills/spielen-mit-nachlaufen.html",
+    "href": "drills/spielen-mit-nachlaufen.html",
     "title": "Volleyball",
     "section": "",
-    "text": "3 vs. 3 mit 2 Bällen\nJeweils 3er Teams im Feld. Zwei Bälle werden leicht eingeworfen, am besten von neutralen Spielern/Trainern. Es ist nur ein Ballkontakt im unteren Zuspiel erlaubt, der erste Fehler wird bestraft. Gewinnerteam bleibt, Verliererteam Team stellt sich hinten an.\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Spielen mit Nachlaufen\nDrei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hin und her gespielt und man wechselt nach jedem Ballkontakt die Seite (dem eigenen Ball nachlaufen) und stellt sich hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nOberes und unteres Zuspiel abwechseln\nOberes Zuspiel im Sprung\nJedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung\nEinmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück\nJeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.\nEs wird abwechselnd Angriff, Abwehr und Zuspiel gespielt\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/nachlaufen-diag.html",
-    "href": "drills/nachlaufen-diag.html",
+    "objectID": "drills/nachlaufen-zuspiel.html",
+    "href": "drills/nachlaufen-zuspiel.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Spielen mit Nachlaufen Diagonal\nDrei bis vier Spielende spielen sich den Ball mit Nachlaufen zu. Dabei stehen sie diagonal im Feld und kreuzen den Weg mit einer zweiten Gruppe. Zusätzlich zu den Varianten in [Spielen mit Nachlaufen], kann noch über Eck gelaufen werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Spielen mit Nachlaufen und Zuspiel\nMindestens vier Spielende sind auf einer Feldseite. Positionen 2,4,6 sind besetzt. Es gibt eine Warteposition hinter Position 2. Position 2 spielt den Ball auf 4 zu, die ihn auf 6 in einem simulierten Angriff spielt. Von 6 wird auf Position 2 angenommen. Alle Spielenden laufen dem Ball hinterher.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Ball wird von Position 4 leicht (!) angegriffen\nPosition 4 zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position 6 bewegt sich entsprechend.\nPosition 4 legt den Ball hin und wieder. Deutliches signalisieren mit z.B. gestrecktem Arm.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/parallel-wechseln.html",
-    "href": "drills/parallel-wechseln.html",
+    "objectID": "drills/spielen-dreieck.html",
+    "href": "drills/spielen-dreieck.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Parallel Spielen und Position wechseln\nJe zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.\n\n\n\n\n\n\nVarianten\n\n\n\n\noberes und unters Zuspiel abwechseln\nden Ball über Kreuz spielen\nden Ball im Sprung zuspielen\njeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Spielen im Dreieck mit laufen\nDie Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt und die Person die den Ball gespielt hat läuft in die entgegengesetzte Richtung.\n\n\n\n\n\n\nVarianten\n\n\n\n\nRichtungswechsel (auf Zuruf)\nOberes Zuspiel im Sprung\nOberes und unteres Zuspiel abwechseln\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nPosition zum Ball\nAusrichtung zum Ziel\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/viereck-laufen.html",
-    "href": "drills/viereck-laufen.html",
+    "objectID": "drills/knie-beruehren.html",
+    "href": "drills/knie-beruehren.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Spielen im Viereckeck mit Laufen\nDrei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem der Ball gespielt wurde, läuft man auf die freie Ecke.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Knie Berühren\nZwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner*in wechseln.\n\n\n\n\n\n\nVarianten\n\n\n\n\ngeht auch in Liegestützposition und die Ellenbogen berühren\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/ball-durch-beine.html",
-    "href": "drills/ball-durch-beine.html",
+    "objectID": "drills/armzug-tennisball.html",
+    "href": "drills/armzug-tennisball.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ball übers Netz\nDie Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nfangen bevor er einmal aufkommt\nweit werfen und mit Hechtbagger verhindern dass er den Boden berührt\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Armzug mit Tennisball\nDer Armzug kann durch das Werfen eines Tennisballs mit der oben beschriebenen Technik geübt werden. Es kann zusätzlich auch der Anlauf geübt werden und mit einem Wurf (über das Netz) abgeschlossen werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/angriff-nachwerfen.html",
-    "href": "drills/angriff-nachwerfen.html",
+    "objectID": "drills/ball-gesicht.html",
+    "href": "drills/ball-gesicht.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Angriff mit Nachwerfen\nUm eine hohe Kadenz an Abwehr- und Annahmebewegungen zu erreichen, hält die angreifende Person zwei Bälle. Der erste Ball wird zuerst locker angegriffen. Der zweite Ball wird dann relativ bald hoch nachgeworfen (Dankeball). Die verteidigende Person wehrt den angegriffenen Ball ab und nimmt den geworfenen Ball danach an. Die angreifende Person fängt den abgewehrten Ball und greift den Dankeball direkt an und wirft darauf den gefangenen Ball nach. Wiederholen solange wie möglich\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Dankeball wird zu kurz, oder seitlich versetzt geworfen, um ein Verschieben der verteidigenden Person zu erzwingen.\nDie Angriffe werden härter oder leichter.\nAngriff vom Netz und Abwehr zum Netz.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ball ins Gesicht\nZwei Personen, ein Ball. Der Ball wird von der angreifenden Person auf die verteidigende Person geworfen. Ziel ist es, den Bereich zwischen oberem und unterem Abwehrbereich zu treffen, um die Entscheidung für eine der beiden Abwehrtechniken und deren Ausführung zu trainieren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/werfen-3.html",
-    "href": "drills/werfen-3.html",
+    "objectID": "drills/defense-3balls.html",
+    "href": "drills/defense-3balls.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Werfen mit 3 Bällen\nAls Paar aufstellen, der Angriffsspieler hat 3 Bälle und wirft diese nacheinander dem Abwehrspieler zu, der sie hoch abwehrt, sodass der Angriffsspieler die Bälle einen nach dem Anderen fangen und wieder zurück werfen kann.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDie Übung kann beliebig erschwert werden, indem die Bälle kürzer, länger oder seitlich versetzt geworfen werden. Es ist dann auf die Linie großer Zeh, Knie, Schulter zu achten\nEs können aufeinander gestellte Bänke zwischen den Spielern aufgestellt werden um das Netz zu simulieren\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr mit drei Bällen\nAls Paar aufstellen. Ein Spieler hat drei Bälle. Erst ein harter Angriff dann ein kurzer Ball und zum Abschluss ein hoher Ball, der erlaufen werden muss.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/short-long-short.html",
-    "href": "drills/short-long-short.html",
+    "objectID": "drills/long-middle-short.html",
+    "href": "drills/long-middle-short.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Kurz, lang, kurz\nPaarweise. Spieler 1 spielt langen Ball zu Spieler 2 und läuft nach. Spieler 2 spielt kurz vor sich zu Spieler 1, der wieder kurz zurück und kehrt auf seine ursprüngliche Position zurück. Spieler 2 spielt nun lang und läuft nun dem Ball nach und spielt den von Spieler 1 kurz gespielten Ball zurück und kehrt dann wieder zum Ursprung zurück. Und so weiter\n\n\n\n\n\n\nVarianten\n\n\n\n\nmit Baggern\noberes Zuspiel im Sprung\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Lang, Mitte, Kurz\nPaarweise, ein Angriffsspieler mit Rücken zum Netz und ein Abwehrspieler:\n\nLanger Angriff\nMittel gelegt\nkurz gelegt\nEin Zwischenspiel und von vorne\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/long-short.html",
-    "href": "drills/long-short.html",
+    "objectID": "drills/jump-set.html",
+    "href": "drills/jump-set.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Lang, kurz\nAngriffsspieler mit dem Rücken zum Netz greift lang an auf Abwehrspieler. Hohe Abwehr. Angriffsspieler legt den Ball kurz. Nach Zwischenspiel wieder langer Angriff usw.\n\n\n\n\n\n\nVarianten\n\n\n\n\nkurzer Ball muss im oberen Zuspiel gespielt werden\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Zuspiel im Sprung\nDie Spieler stehen sich im etwas geringem Abstand gegenüber und spielen sich den Ball immer mit oberen Zuspiel im Sprung zu. Dabei darauf achten, dass man immer einen kleinen Stemmschritt macht und sich nach jedem gespieltem Ball wieder zwei Schritte zurückzieht. Der Ball sollte gespielt werden wenn man gerade den höchsten Punkt überschritten hat, dadurch entsteht der Eindruck, man würde kurz in der Luft stehen.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/zwischenspiel.html",
-    "href": "drills/zwischenspiel.html",
+    "objectID": "drills/defense-set-attack.html",
+    "href": "drills/defense-set-attack.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Zwischenspiel\nJeder Spieler spielt sich den Ball einmal selbst zu. Dabei gibt es verschiedene Varianten:\n\nEinmal kurzes oberes Zuspiel und lang zurück\nunteres Zuspiel und und oberes zurück\nkurzes oberes Zuspiel und um 180° drehen und über Kopf zurück\nunteres Zuspiel um 180° drehen und über Kopf im oberen Zuspiel zurück\nViele weitere Varianten denkbar\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr Zuspiel Angriff\nZwei Dreiergruppen. Eine Gruppe am Netz ein Spieler auf Position 2 und zwei Spieler auf 4. Ein Abwehrspieler auf Position 1. Es beginnt mit einem Angriff von Position 4 auf Position 1. Der Angriff wird abgewehrt und der Angreifer wird zum Zuspieler und spielt von Position 2,5 auf Position 2 zu und stellt sich dann hinter 2 an. Der Abwehrspieler stellt sich hinter 6 an und ein neuer Abwehrspieler läuft auf 5 und erwartet den Angriff von 2. Der zugespielte Ball wird von 2 angegriffen und von 5 abgewehrt. Der Spieler von 2 wird der neue Zuspieler und spielt von 2,5 auf 4 zu. Abwehrspieler von 5 stellt sich wieder hinten an und ein neuer Abwehrspieler läuft auf Pos 1 und verteidigt. Ab hier wie von Anfang an.\nDrei Spieler wechseln sich auf der Netzposition ab und greifen diagonal an. Drei Spieler wechseln sich in der Abwehr ab.\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nBallkontrolle\nRichtige Position zum Ball in der Abwehr\nRichtige Abwehrposition\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n\nauch mit 2 Spielern in der Abwehr möglich\nAngriff im Sprung\nLongline Angriff\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-shuffle.html",
-    "href": "drills/defense-shuffle.html",
+    "objectID": "drills/defense-net.html",
+    "href": "drills/defense-net.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ball aus der Mitte werfen\nWerfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts geworfen um die richtige Bewegung vom Ball weg zu lernen. Annahmespieler zieht sich 2-3 Schritte zurück und baggert den Ball nach vorne. Jeweils ca. 10 Würfe auf jede Seite.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nauf die richtige Grundstellung achten\nauf die richtige Bewegung zum und weg vom Ball achten\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Netz sichern\nPerson A wirft/schlägt den Ball ins Netz. Person B sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert A, spielt sich den Ball selbst zu und greift wieder ins Netz an. Wiederholen, bis ein Fehler passiert.\n\n\n\n\n\n\nVarianten\n\n\n\n\nvereinfachen dadurch dass die sichernde Person den Ball nach dem Sichern fängt und ihn dann ins Netz wirft.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/russian-defense.html",
-    "href": "drills/russian-defense.html",
+    "objectID": "drills/set-middle.html",
+    "href": "drills/set-middle.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Russische Abwehrübung\nDrei Spielende, zwei Bälle. Die Spielenden stehen auf einer Linie und die äusseren Spielenden werfen abwechselnd den Ball so, dass die Person in der Mitte immer ein paar Schritte machen muss, bis der Ball gespielt werden kann. Die Bälle sollen so geworfen werden, dass es für die Person in der Mitte anstrengend ist, aber eine saubere technische Ausführung möglich ist.\n\n\n\n\n\n\n\nImportant\n\n\n\n\nauf korrekte Technik achten, insbesondere vollständige Drehung der Person in der Mitte\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\njeder zweite Ball wird angegriffen.\nmanche Bälle werden gelegt\nes werden Bälle gespielt, die eine Abwehr im oberen Zuspiel erfordern\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Zuspiel aus der Mitte\n3 Spieler stehen in einer Linie. der mittlere Spieler (Zuspieler) spielt den Ball einem der äusseren Spieler zu. Dieser greift auf sein Gegenüber an, der ihn wiederum zum Zuspieler abwehrt. Der Zuspieler stellt nun dem abwehrenden Spieler der wiederum angreift usw.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer Zuspieler spielt immer im Sprung zu\nDer Zuspieler spielt über Kopf zu.\nDie Angreifer legen den Ball kurz.\nNach dem Angriff tauschen Zuspieler und Angreifer den Platz.\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-high.html",
-    "href": "drills/defense-high.html",
+    "objectID": "drills/play-parallel.html",
+    "href": "drills/play-parallel.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr hoch Feldmitte\nJe ein Angreifer auf 2 und 4. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein…\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nAbwehr nicht zum Angreifer, sondern hoch in die Feldmitte.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Parallel spielen mit 2 Bällen\nZwei Spieler spielen parallel mit 2 Bällen. Die Technik sollte vorgegeben werden. Zuerst oberes Zuspiel, unteres Zuspiel, oder abwechselnd.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/play-3balls.html",
-    "href": "drills/play-3balls.html",
+    "objectID": "drills/player-2balls.html",
+    "href": "drills/player-2balls.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Spiel mit 3 Bällen\nZu zweit. Jeder Spieler hält einen Ball in der Hand. Mit einem dritten Ball wird hin und her gespielt. Der eigene Ball muss immer passend hochgeworfen und wieder gefangen werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ein Spieler 2 Bälle\nEin Spieler hält einen Ball in jeder Hand das gegenüber spielt einen Ball zu. Der Spieler mit den beiden Bällen in der Hand wirft diese rechtzeitig hoch um den vom Partner geworfenen Ball zu spielen und fängt anschließend seinen eigenen Bälle wieder.\nDie Übung kann dadurch erschwert werden, dass kleinere Gegenstände benutzt werden, z.B. Tennisbälle.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/3players-4balls.html",
-    "href": "drills/3players-4balls.html",
+    "objectID": "drills/2v2-3balls.html",
+    "href": "drills/2v2-3balls.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Drei Spieler 4 Bälle\nWie [Spielen mit Nachlaufen], allerdings hat jeder Spieler einen Ball in der Hand und wirft sich den Ball selbst zu, spielt unter dessen den Spielball, fängt seinen eigenen Ball und läuft dem Spielball nach.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Zwei gegen Zwei mit 3 Bällen\nGespielt wird auf den (halben) 3-Meter-Raum jedes 2er Team hat einen (Team-) Ball und ein dritter (Spiel-) Ball wird mit 3 Berührungen normal ausgespielt. Die Schwierigkeit ist, dass keiner der beiden Bälle den Boden berühren darf. Der Teamball darf also nicht abgelegt werden. Der Teamball kann entweder sich selbst zugeworfen werden oder zum Teamkollegen, er darf aber nicht den Boden berühren. Für den Spielball zählen normale Volleyball regeln. Wenn einer der beiden Bälle den Boden berührt oder ein andere Fehler begangen wird, zählt der Punkt als verloren. Das Team das einen Fehler begangen hat wird durch das nächste wartende Team ersetzt.\n\n\n\n\n\n\nVarianten\n\n\n\n\njeder Spieler hält einen Ball in der Hand\n3 gegen 3 mit 5/7 Bällen\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/ball-wall.html",
-    "href": "drills/ball-wall.html",
+    "objectID": "drills/ball-wall2.html",
+    "href": "drills/ball-wall2.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ball gegen die Wand\nDer Ball wird abwechselnd mit links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Ball gegen die Wand II\nZwei Spieler. Spieler A steht in Abwehrhaltung mit Blick auf die Wand. Spieler B wirft den Ball von hinten gegen die Wand und Spieler A fängt den Ball mit beiden Händen oder mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit variieren.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEin Auge geschlossen\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/block-tennis.html",
-    "href": "drills/block-tennis.html",
+    "objectID": "drills/nice-reception.html",
+    "href": "drills/nice-reception.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Ball am Netz übergeben\nTennisball um die Antenne von einer Hand zur anderen übergeben um das Übergreifen zu trainieren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Schöne Annahmen\nMindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schlägt auf. Es erfolgen Aufschläge auf den Annahmespieler, der zum Fänger annimmt. Dieser zählt die schönen Annahmen mit. Nach einer fixen Anzahl von schönen Annahmen wird gewechselt. Dies kann auf mehreren Feld Hälften/Dritteln parallel ausgeführt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEs wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).\nDie ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.\nFalls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).\nBei 2 Gruppen können Aufschläge auch diagonal erfolgen.\nMan kann auch diagonal dem Ball nachlaufen.\nAufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/fast-legs.html",
-    "href": "drills/fast-legs.html",
+    "objectID": "drills/reception-action.html",
+    "href": "drills/reception-action.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Schnelle Beine\nLeichter Aufschlag nicht von der Grundlinie, sondern von etwa 6 Metern. Ein Annahmespieler startet in der Mitte und läuft in Position. Der Ball soll zwischen den Beinen auf prellen. Der Spieler sollte ruhig stehen. (ca. 5 Bälle pro Spieler)\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Annahme mit Aktion\nEin Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.\n\nDer angenommene Ball wird zugespielt und vom Annahmespieler angegriffen\nDer angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.\nEs folgt unmittelbar ein Angriff auf den Annahmespieler\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-endurance.html",
-    "href": "drills/defense-endurance.html",
+    "objectID": "drills/defense-variation.html",
+    "href": "drills/defense-variation.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr Ausdauerdrill\nAuf einer Feldhälfte steht jeweils ein Spieler auf Position 2 und 4 und auf der anderen Seite des Netzes ein Spieler auf Position 3. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position 1 und wehrt einen geschlagenen Ball von Position 4 ab. Danach wir ein Ball von Postion 3 gelegt ein Ball von Position 2 angegriffen wieder ein Ball von Position 3 gelegt, danach ein Angriff von Position 4 abgewehrt und ein gelegter Ball von Position 2 abgewehrt. Es können beide Feldhälften genutzt werden.\n\n\n\n\n\n\nVarianten\n\n\n\n\nAlle geschlagenen Bälle können auch gelegt werden\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehrvariation\nEs werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf der seitlichen Aus-Linie, eine angreifende Person auf gegenüberliegenden Linie, die zweite angreifende Person ca. in der Mitte. Es erfolgen 2 Angriffe auf den Abwehrspieler. Einmal hart und fest aus der Mitte und einmal eher als Float-/Driveschlag von der weiter entfernten Person. Beide Bälle werden zur Person in der Mitte angenommen.\n\n\n\n\n\n\nÜbungsziel\n\n\n\n\nDarauf achten, dass beim harten Angriff die Kraft eher aus dem Ball genommen wird und beim Float-/Driveangriff eine aktive Bewegung mit den Armen erfolgt.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-long-ball.html",
-    "href": "drills/defense-long-ball.html",
+    "objectID": "drills/defense-reaction.html",
+    "href": "drills/defense-reaction.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Langer Ball\nAm Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDer zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr & Reaktion\nPaarweise. Ein Medizinball/Peziball wird benutzt um den Ball zu prellen und ihm eine zufällige Richtung zu geben. Der Abwehrspieler muss versuchen den Ball zu erlaufen und (am Besten mit zwei Armen) abzuwehren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-trio.html",
-    "href": "drills/defense-trio.html",
+    "objectID": "drills/defense-chain.html",
+    "href": "drills/defense-chain.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Abwehr zu dritt\nDrei Abwehrspieler auf Position 1, 5 und 6. Ein Zuspieler/Angreifer am Netz. Der Zuspieler spielt die Bälle lange, kurz oder als Angriff auf die 3 Abwehrspieler, die diesen wiederum hoch zum Zuspieler abwehren, sodass sofort weiter gespielt werden kann.\n\n\n\n\n\n\nVarianten\n\n\n\n\nNach jedem Ballkontakt eines Spielers auf Position 1 oder 5 wechselt dieser Position mit dem Spieler auf Position 6.\nNach jedem kurzen (gelegtem) Ball geht der Spieler der den Ball abgewehrt hat auf die lange 6 und der Spieler auf der 6 rückt auf die Position des Ballspielenden.\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Abwehr-Kette\nAn der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.\n\n\n\n\n\n\nVarianten\n\n\n\n\nDie Angreifer variieren und streuen gelegte Bälle ein\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/diagonal-game.html",
-    "href": "drills/diagonal-game.html",
+    "objectID": "drills/kreisel-4.html",
+    "href": "drills/kreisel-4.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Diagonalspiel\nAuf beiden Feldhälften wird eine Mannschaft mit mindesten drei Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position 2 ein Angreifer auf Position 4 und ein Abwehrspieler auf Position 5. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position 6.\n\n\n\n\n\n\nVarianten\n\n\n\n\nSpieler auf Position 4 beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.\nDie Richtung wird gewechselt\nAlle Spieler gehen zur Angriffssicherung\nDer Zuspieler versucht zu blocken um die Angriffssicherung zu testen\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Vierer Kreisel\nVier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position 3, jeweils ein Angriff/Abwehrspieler auf Position 2 und 4 und ein Abwehrspieler auf Position 6. Der Zuspieler Spielt immer abwechselnd auf Position 2 oder 4. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position 6 schließt so an, dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw…\nWichtig ist darauf zu achten, dass die Spielenden immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt\n\n\n\n\n\n\nVarianten\n\n\n\n\nDas Zuspiel erfolgt nicht abwechselnd, sondern zufällig auf Position 2 oder 4.\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/kreisel-5.html",
-    "href": "drills/kreisel-5.html",
+    "objectID": "drills/kreisel-8.html",
+    "href": "drills/kreisel-8.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Fünfer Kreisel\nWie [Vierer Kreisel] nur stehen auf Position 6 zwei Spielende, die verschieben. Auf die Abstimmung zwischen den Spielern achten\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Achter Kreisel\nWie [Sechser Kreisel], mit der Ausnahme, dass es eine oder zwei dedizierte Zuspielende gibt. Es wird von außerhalb des Feldes eingelaufen.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/kreisel-6.html",
-    "href": "drills/kreisel-6.html",
+    "objectID": "drills/defense-perception.html",
+    "href": "drills/defense-perception.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Sechser Kreisel\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Angriff-Abwehr mit Schauen\nDiese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit einem Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:\n\nes darf nur diagonal angegriffen werden\nes darf nur über Position 2 und 4 angegriffen werden. Die Mitte greift also nie an!\n\nZiel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn von der Mitte angenommen/abgewehrt wird und von der 2 zugespielt wird, muss von der 4 angegriffen werden. Die Abwehrspielenden können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen 4 bewegen und dort auf die Abwehr vorbereiten.\nFalls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise rotiert.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nDarauf achten, dass die Spielenden das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.\nSpieler stehen in richtiger Abwehrposition und bewegen sich nicht mehr wenn geschlagen wird.\nAuf den Split-/Drop-Step achten.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\n1-3 zusätzliche Blockspielende können ebenfalls üben sich frühzeitig zu bewegen\nanstatt diagonal, zeigt der angreifende Spieler die Richtung an\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/defense-situational.html",
-    "href": "drills/defense-situational.html",
+    "objectID": "drills/defense-4corners.html",
+    "href": "drills/defense-4corners.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Angriff-Abwehr Situativ entscheiden.\nDie Übung wird in 3er Gruppen und nach dem Modus “King of the court” durchgeführt.\nAuf jeder Seite ist ein fixer Zuspieler, der von der Rotation ausgenommen ist.\nDas Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:\n\nEs darf nur aus dem Rückraum angegriffen werden.\nAuf der Aufschlagseite darf von den Aussen (1 & 5) nur longline angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nAuf der Verteidigenden Seite darf von Aussen (1 & 5) nur diagonal angegriffen werden. Aus der Mitte (6) wird der Ball kurz gelegt.(3-Meterraum)\nlongline und diagonal beschreibt jeweils die ganze Feldhälfte.\n\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nEs ist eine Abwehrübung! (d.h. sicherer Angriff und Aufschlag.)\nDie Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff von vorne.\nDie Mitte darf beliebig angreifen.\nNach jedem Punkt muss die Siegermannschaft die Positionen wechseln\nZuspieler blockt\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Vier Ecken\nEin Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nAbwehrspieler bewegen sich frühzeitig und stehen in Abwehrposition wenn geschlagen wird\nZuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin\nZuspieler steht richtig zum Ball und spielt entlang der Körperachse\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nAngriff im Sprung\nZuspiel im Sprung\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/service-reception-attack-defend.html",
-    "href": "drills/service-reception-attack-defend.html",
+    "objectID": "drills/diagonal-attack-follow.html",
+    "href": "drills/diagonal-attack-follow.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Aufschlag-Annahme-Angriff-Abwehr\nIn Feldhälfte A werden folgende Positionen besetzt:\n\nZuspiel\nAnnahme (2X)\nAngriff\nWarteposition\n\nIn Feldhälfte B werden folgende Positionen besetzt:\n\nAbwehr (diagonal)\nAufschlag\nWarteposition\n\nBis auf den Zuspieler in Feldhälfte A rotieren alle Spieler nach jedem Ball eine Position weiter. (Grob folgt man immer dem Ball)\nDer Ablauf ist wie folgt:\n\nAufschlag über das Netz in Feldhälfte A (auf die Annahmepositionen)\nAnnahme zum Zuspiel\nZuspiel auf den Angreifer (Position und Art des Zuspiels vorher festlegen)\nAngriff auf den Abwehrspieler\nAbwehr zu sich selbst und den Ball fangen\nAlle rotieren eine Position weiter und wieder Aufschlag\n\nEs können bei dieser Übung diverse Sachen geübt werden:\n\n\n\n\n\n\nÜbungsschwerpunkte\n\n\n\n\nZuspiel (mit laufen)\nTechnik Angriff\nAnnahme und Abstimmung zu zweit\nAbwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)\nAbwehrtechnik\n\n\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nVerschiedene Angriffsoptionen (Aussen Mitte über Kopf)\nDer Zuspieler läuft von Position 1, oder 4/5\nAnnahme Spieler gehen zur Angriffssicherung\nZusätzliche Spieler können noch z.B.\n\neinen Block stellen (1-2 Spieler)\nzusätzliche Abwehrspieler\nzusätzlicher Annahme Spieler\netc..\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Diagonal Angriff mit Nachlaufen\nJeweils ein Spieler auf Position 1-5 die restlichen Spieler stellen sich hinter Position 6 an. Der Ball wird durch Einwurf von Position 6 auf Position 3 ins Spiel gebracht und der Spieler von Position 6 läuft auf Position 3. Position 3 spielt den Ball auf Position 2 oder 4 (z. B. abwechselnd) und folgt seinem Ball. Position 2 oder 4 schlagen den Ball (leicht) auf Position 1 oder 5 und folgen ihrem Ball. Position 1 und 5 wehren auf Position 3 ab und stellen sich hinter Position 6 an. Position 6 läuft auf Position 3 ein, sobald 3 den Ball nach vorne oder über Kopf gespielt hat.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "drills/longline-diagonal.html",
-    "href": "drills/longline-diagonal.html",
+    "objectID": "drills/square-3players.html",
+    "href": "drills/square-3players.html",
     "title": "Volleyball",
     "section": "",
-    "text": "Longline Pritschen, diagonal Baggern mit Nachlaufen\nAlle vier Ecken eines Feldes werden besetzt. In den Ecken am Netz stehen jeweils 2 Spieler hintereinander. Die vorderen Spieler am Netz haben jeweils einen Ball und beginnen damit den Ball longline zu spielen und dem eigenen Ball nachzulaufen. Die Spieler auf Position 1 und 5 baggern den Ball diagonal zum jeweils verbliebenen Spieler am Netz und folgen ihrem Ball. Der Spieler am Netz spielt nun wieder longline und folgt seinem Ball. Dies wird solange wiederholt bis ein Fehler passiert\n\n\n\n\n\n\nVarianten\n\n\n\n\nOberes Zuspiel im Sprung\n\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+    "text": "Viereck zu Dritt\nDrei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.\n\n\n\n\n\n\nVarianten\n\n\n\n\nEinfachere Variante ist mit Zwischenspiel\n\n\n\n\n\n\n\n\n\nÜbungsziele\n\n\n\n\nauf die Position zum Ball achten\nAusrichtung des Spielers zum Ziel\n\n\n\n\n\n\nsquare by three\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "drills/setting-sitting.html",
+    "href": "drills/setting-sitting.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "Pritschen im sitzen\nUm das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste sitzend zu Pritschen um die Bewegung des Körpers zu eliminieren.\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "drills/setting-block.html",
+    "href": "drills/setting-block.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "Zuspieler reagiert auf Block\nVorbereitung\n\nZwei Fänger*innen am Netz und dazwischen ein Zuspieler.\nEine Person zum Blocken auf der anderen Seite des Netzes.\nEin bis zwei Anspieler*innen.\n\nAblauf:\n\nAnspieler spielt zum Zuspieler\nBlockspieler bewegt sich\nZuspieler spielt zum freien Fänger\nFänger spielt zum Anspieler\nAnspieler wieder zum Zuspieler.\nusw.\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "drills/rotation.html",
+    "href": "drills/rotation.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "Aufstellung\nAls Mannschaft zur Annahme aufstellen. Restliche Spieler in der anderen Hälfte versammeln. Der Rest schlägt auf und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:\n\neinen Dankeball hinterherwerfen\neinen Ball einschlagen\neinen Ball auf die Lücken werfen (z.B. auf die 6 oder lang in die Ecken)\neinen Ball zum Rest werfen der abgewehrt und angegriffen wird\ndirekt einen Ball für einen Rückraumangriff des Rests anwerfen.\nNach einem Angriff einen Block simulieren, und einen Ball direkt nachwerfen.\n\nWeiter rotieren nach\n\n2 großen Punkten (beide Bälle verwandelt)\nNach 5 Versuchen\n\n\n\n\n\n\n\nVarianten\n\n\n\n\nDen Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.\nZwei Aufschlagende. Erster nimmt volles Risiko, 2. mit sicherem Aufschlag, falls der erste Aufschlag ins Netz geht.\n\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   },
   {
     "objectID": "tech/attack-ready.html",
@@ -957,5 +965,12 @@
     "title": "Volleyball",
     "section": "",
     "text": "Spielen des Balles\n\nje nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung\nEinfallswinkel gleich Ausfallwinkel!\n\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "tech/tech-setting.html",
+    "href": "tech/tech-setting.html",
+    "title": "Volleyball",
+    "section": "",
+    "text": "Oberes Zuspiel\n\nDaumen und Zeigefinger etwa im rechten Winkel\nBeide Hände bilden einen Korb\nFinger leicht gespreizt\nDaumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)\nEllenbogen sind leicht nach vorne gebeugt (ca. 45°)\n\nDas Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen\nDen Ball immer aus der gleichen neutralen Position spielen\n\n\n\n\n\nReuseCC BY-NC-SA 4.0"
   }
 ]

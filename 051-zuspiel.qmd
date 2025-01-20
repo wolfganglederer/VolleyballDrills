@@ -3,127 +3,35 @@ title: Zuspiel
 lang: de
 ---
 
-```{r}
-#| include: false
-library(tidyverse)
-library(gganimate)
-library(ggforce)
-library(knitr)
-library(tweenr)
-
-recalculate <- FALSE
-```
 
 ## Technik
 
-* Daumen und Zeigefinger etwa im rechten Winkel 
-* Beide Hände bilden einen Korb
-* Finger leicht gepreizt
-* Daumen zeigen nach Hinten (ca. auf das diagonal liegende Auge)
-* Ellenbogen sind leicht nach vorne gebeugt (ca. 45°)  
-* Das Spielen des Balles erfolgt mit einer kurzen Bewegung der Hände und viel Druck aus dem Daumen
-* Den Ball immer aus der gleichen neutralen Position spielen
-
-## Strategie
-
-* Das Spiel "breit" machen
-* Sauberes, gutes Zuspiel ist wichtiger als der Versuch den Block zu täuschen
+{{< include tech/tech-setting.qmd >}}
 
 {{< include technikcheck-oz.qmd >}}
 
-## Viereck zu Dritt
+## Strategie
 
-Drei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.
+{{< include tech/strategy-setting.qmd >}}
 
-```{r}
-#| include: false
-if(recalculate){
-par_square_by3 <- 
-  tribble(~time,~ball_x, ~ball_y, ~p1_x, ~p1_y,
-          1, 0.02, 0.02, 0.5, 0.5,
-          2, 0.02 , 0.98, 0,1,
-          3, 0.98, 0.98, 0.5, 0.5,
-          4, 0.98, 0.02 , 1, 0,
-          5, 0.02, 0.02 , 0.5, 0.5,
-          )
+## Übungen
 
-par_square_by3_plot <- 
-  par_square_by3 %>%  ggplot() +
-    geom_point(aes(x = ball_x, y = ball_y),color = "goldenrod1", size = 7) +
-    geom_point(aes(x = 0, y = 0), color = "blue", size = 9) +
-    geom_point(aes(x = 1, y = 1), color = "blue", size = 9) +
-    geom_point(aes(x = p1_x, y = p1_y), color = "blue", size = 9) +
-    theme_void()+
-    transition_time(time)
+{{< include drills/square-3players.qmd >}}
 
+{{< include drills/setting-target.qmd >}}
 
-anim_save("img/square_by3.gif", par_square_by3_plot, bg = "transparent")
-}
-```
+{{< include drills/setting-sitting.qmd >}}
 
-:::{.callout-tip} 
-## Varianten
-* Einfachere Variante ist mit Zwischenspiel
-:::
+{{< include drills/setting-peripheral.qmd >}}
 
-:::{.callout-important}
-## Übungsziele
-* auf die Position zum Ball achten
-* Ausrichtung des Spielers zum Ziel
-:::
+{{< include drills/setting-block.qmd >}}
 
-![square by three](img/square_by3.gif)
-
-## Zielspiel auf ein Ziel
-
-Speziell für kurze Bälle. Trainer*in steht auf einem Kasten und hält ein Ziel, auf dass mit hoher Frequenz zugespielt wird.
-
-{{< video https://www.youtube.com/embed/J4JzO0cUw6E >}}
-
-## Pritschen im sitzen
-
-Um das Zuspiel aus neutraler Position zu üben empfiehlt es sich auf einer Kiste sitzend zu Pritschen um die Bewegung des Körpers rauszunehmen.
-
-## Dreiecksspiel (Peripheres Sehen)
-
-- Spieler*innen bilden ein Dreieck und spielen den Ball.
-- einzelne Spieler*innen nehmen sich selbst aus dem Spiel in dem sie in die Knie gehen
-- die anderen Beiden müssen entsprechend reagieren und auf die freie Person spielen oder zu sich selbst
-
-
-## Zuspieler reagiert auf Block
-
-**Vorbereitung**
-
-- Zwei Fänger*innen am Netz und dazwischen ein Zuspieler.
-- Eine Person zum Blocken auf der anderen Seite des Netzes.
-- Ein bis zwei Anspieler*innen.
-
-**Ablauf:**
-
-1. Anspieler spielt zum Zuspieler
-2. Blockspieler bewegt sich
-3. Zuspieler spielt zum freien Fänger
-4. Fänger spielt zum Anspieler
-5. Anspieler wieder zum Zuspieler.
-6. usw.
-
-## Zuspiel im Dreieck
-
-1 Zuspieler*in steht auf Position **3**. Die Positionen **1**,**2**,**4** und **5** werden von von Spielenden besetzt. Es wird mit zwei Bällen in zwei Dreiecken gespielt.
-
-- **1** -> **2** -> **3** -> **1**
-- **4** -> **5** -> **3** -> **4**
-
-Die Bälle werden zeitlich versetzt ins Spiel gebracht, sodass es der Zuspieler*in möglich ist, in beiden Dreiecken am Spiel teilzunehmen.
-
-::: {.callout-important}
-## Übungsziele
-- Der Zuspieler achtet darauf dass er sich immer korrekt zum Pfosten ausrichtet und auch unter Zeitdruck sauber spielt.
-:::
+{{< include drills/setting-triangel.qmd >}}
 
 ## Links
 
 [Zuspiel mit Patrick Steuerwald](http://volleyball.de/uploads/media/vm_05_01_18_21_warm.pdf)
+
+{{< video https://www.youtube.com/embed/J4JzO0cUw6E >}}
 
 {{< video https://www.youtube.com/embed/1oUK_qBFzzI >}}
