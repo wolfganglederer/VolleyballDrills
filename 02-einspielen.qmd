@@ -154,10 +154,8 @@ anim_save("img/russisch.gif", russian_plot, height = 120, , bg = "transparent")
 ```
 
 
-```{r}
-#| echo: false
-knitr::include_graphics("img/russisch.gif")
-```
+![](img/russisch.gif)
+
 
 :::{.callout-tip} 
 ## Varianten
@@ -202,10 +200,8 @@ anim_save("img/mitte.gif", set_middle_plot, height = 150, bg = "transparent")
 ```
 
 
-```{r}
-#| echo: false
-knitr::include_graphics("img/mitte.gif")
-```
+![](img/mitte.gif)
+
 
 
 :::{.callout-tip} 

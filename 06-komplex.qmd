@@ -221,10 +221,4 @@ anim_save("img/long_diag.gif", par_cross_plot, bg = "transparent")
 }
 ```
 
-
-```{r}
-#| echo: false
-knitr::include_graphics("img/long_diag.gif")
-```
-
-
+![](img/long_diag.gif)

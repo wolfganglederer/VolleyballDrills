@@ -76,11 +76,7 @@ anim_save("img/paralell.gif", plot_change, bg = "transparent")
 
 ```
 
-
-```{r}
-#| echo: false
-knitr::include_graphics("img/paralell.gif")
-```
+![](img/paralell.gif)
 
 ### Spielen im Dreieck mit laufen
 
@@ -124,10 +120,7 @@ anim_save("img/3eck.gif", tri_play_plot, bg = "transparent")
 ```
 
 
-```{r}
-#| echo: false
-knitr::include_graphics("img/3eck.gif")
-```
+![](img/3eck.gif)
 
 ## Spielen im 4-Eck
 

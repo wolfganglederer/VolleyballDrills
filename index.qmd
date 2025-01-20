@@ -3,7 +3,4 @@ title: Volleyballübungen
 lang: de
 ---
 
-```{r echo=FALSE}
-knitr::include_graphics("cover.png")
-```
-
+![cover](/img/cover.png)
