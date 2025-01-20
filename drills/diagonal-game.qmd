@@ -1,0 +1,11 @@
+### Diagonalspiel
+
+Auf beiden Feldhälften wird eine Mannschaft mit mindesten drei Spielern aufgestellt. Benötigt wird ein Zuspieler auf Position **2** ein Angreifer auf Position **4** und ein Abwehrspieler auf Position **5**. Der Ball wird durch einwerfen ins Spiel gebracht. Danach wird der Ball ausgespielt und (leicht) diagonal angegriffen. Nachdem der Ball das Netz überquert hat, rotiert die Mannschaft eine Position weiter und auf der anderen Feldhälfte wird der Ball ausgespielt und nach dem diagonalen Angriff ebenfalls eine Position weiter rotiert. Nach einem Fehler wird der Ball möglichst schnell wieder ins Spiel gebracht. Falls mehr Spieler vorhanden sind, werden weitere Positionen aufgefüllt beginnend mit Position **6**.
+
+:::{.callout-tip}
+## Varianten
+* Spieler auf Position **4** beginnt in Blockposition am Netz und zieht sich erst beim Zuspiel vom Netz zurück.
+* Die Richtung wird gewechselt
+* Alle Spieler gehen zur Angriffssicherung
+* Der Zuspieler versucht zu blocken um die Angriffssicherung zu testen
+:::

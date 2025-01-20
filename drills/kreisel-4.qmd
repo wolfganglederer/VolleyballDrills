@@ -1,0 +1,12 @@
+### Vierer Kreisel
+
+Vier Spieler verteilen sich wie folgt aufs Feld: Ein Zuspieler auf Position **3**, jeweils ein Angriff/Abwehrspieler auf Position **2** und **4** und ein Abwehrspieler auf Position **6**. Der Zuspieler Spielt immer abwechselnd auf Position **2** oder **4**. Von dieser Position wird diagonal Angegriffen. Der nicht angreifende Netzspieler zieht sich zurück (ca. 3-Meterlinie) der Spieler von Position **6** schließt  so an, dass sie sich nicht behindern. Die Abwehr erfolgt zum Zuspieler der nun den Ball wieder zuspielt usw...
+
+Wichtig ist darauf zu achten, dass die Spielenden immer wieder auf ihre Position zurückkehren, damit vor jeder Abwehr eine Bewegung erfolgt
+
+:::{.callout-tip}
+## Varianten
+- Das Zuspiel erfolgt nicht abwechselnd, sondern zufällig auf Position **2** oder **4**.
+- Angriff im Sprung
+- Zuspiel im Sprung
+:::

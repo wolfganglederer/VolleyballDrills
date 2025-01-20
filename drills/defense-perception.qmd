@@ -1,0 +1,23 @@
+### Angriff-Abwehr mit Schauen
+
+Diese Übung wird in 3-er Gruppen durchgeführt. Die Übung beginnt mit einem Aufschlag über das Netz. Der Ball wird mit folgenden Zusatzregeln ausgespielt:
+
+* es darf nur diagonal angegriffen werden
+* es darf nur über Position **2** und **4** angegriffen werden. Die Mitte greift also nie an!
+
+Ziel der Übung ist, dass sich die abwehrende Mannschaft frühzeitig auf dem Feld richtig orientiert. Also wenn von der Mitte angenommen/abgewehrt wird und von der **2** zugespielt wird, muss von der **4** angegriffen werden. Die Abwehrspielenden können sich also schon vor dem Zuspiel in die Diagonale zur gegnerischen **4** bewegen und dort auf die Abwehr vorbereiten.
+
+Falls mehr als 6 Spieler anwesend sind wird einfach mannschaftsweise rotiert.
+
+:::{.callout-important}
+## Übungsschwerpunkte
+- Darauf achten, dass die Spielenden das gegnerische Feld beobachten und reagieren, sobald klar ist von wo der Angriff erfolgt.
+- Spieler stehen in richtiger [Abwehrposition](/05-annahme.qmd#Grundstellung (Lucky Luke)) und bewegen sich nicht mehr wenn geschlagen wird.
+- Auf den Split-/Drop-Step achten.
+:::
+
+:::{.callout-tip}
+## Varianten
+* 1-3 zusätzliche Blockspielende können ebenfalls üben sich frühzeitig zu bewegen
+* anstatt diagonal, zeigt der angreifende Spieler die Richtung an
+:::

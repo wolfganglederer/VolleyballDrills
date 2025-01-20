@@ -1,0 +1,3 @@
+### Achter Kreisel
+
+Wie [Sechser Kreisel], mit der Ausnahme, dass es eine oder zwei dedizierte Zuspielende gibt. Es wird von außerhalb des Feldes eingelaufen.

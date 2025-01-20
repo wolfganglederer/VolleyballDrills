@@ -1,0 +1,18 @@
+### Vier Ecken
+
+Ein Zuspieler, ein Angreifer, drei Abwehrspieler. In jeder Ecke des Feldes steht ein Angreifer/Abwehrspieler. Der Zuspieler beginnt das Spiel in dem er aus der Mitte des Feldes den Ball hoch zum Angreifer spielt. Dieser greift diagonal an. Die restlichen Abwehrspieler schließen zum Spieler in der Diagonalen Ecke auf und wehren den Ball zum Zuspieler in der Feldmitte ab. Der abwehrende Spieler wird zum neuen Angreifer (in seiner ursprünglichen Ecke) und die verbliebenen Spieler schließen zum Spieler in der diagonalen Ecke auf. Immer so weiter.
+
+:::{.callout-important}
+## Übungsschwerpunkte
+- Abwehrspieler bewegen sich frühzeitig und stehen in [Abwehrposition](/05-annahme.qmd#Grundstellung (Lucky Luke)) wenn geschlagen wird
+- Zuspieler erkennt schnell die richtige Position und bewegt sich zielstrebig dorthin
+- Zuspieler steht richtig zum Ball und spielt entlang der Körperachse
+:::
+
+:::{.callout-tip}
+## Varianten
+- Angriff im Sprung
+- Zuspiel im Sprung
+:::
+
+{{< video https://www.youtube.com/embed/ThiVmB55fHI?start=85 >}}

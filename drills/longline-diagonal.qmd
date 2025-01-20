@@ -1,0 +1,48 @@
+### Longline Pritschen, diagonal Baggern mit Nachlaufen
+
+Alle vier Ecken eines Feldes werden besetzt. In den Ecken am Netz stehen jeweils 2 Spieler hintereinander. Die vorderen Spieler am Netz haben jeweils einen Ball und beginnen damit den Ball longline zu spielen und dem eigenen Ball nachzulaufen. Die Spieler auf Position **1** und **5** baggern den Ball diagonal zum jeweils verbliebenen Spieler am Netz und folgen ihrem Ball. Der Spieler am Netz spielt nun wieder longline und folgt seinem Ball. Dies wird solange wiederholt bis ein Fehler passiert
+
+:::{.callout-tip}
+## Varianten
+* Oberes Zuspiel im Sprung
+:::
+
+
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+
+if(recalculate){
+par_cross <- 
+  tribble(~time,~x_ball1, ~y_ball1, ~x_ball2, ~y_ball2, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3, ~x4, ~y4, ~x5, ~y5, ~x6, ~y6,
+          1,0, 0.08, 1, 0.08, 0, 0.05, 0, 0, 1, 0.05, 1, 0, 0, 1, 1, 1,
+          2,0, 0.97, 1, 0.97, 0, 0.5, 0, 0.05, 1, 0.5, 1, 0.05, 0, 1, 1, 1,
+          3,1, 0.08, 0, 0.08, 0, 1, 0, 0.05, 1, 1, 1, 0.05, 0.5, 0.5, 0.5, 0.5,
+          4,1, 0.97, 0, 0.97, 0, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 0, 0, 0,
+          5,0, 0.08, 1, 0.08, 0.5, 0.5, 0, 1, 0.5, 0.5, 1, 1, 1, 0.05, 0, 0.05)
+
+par_cross_plot <- 
+  par_cross %>%  ggplot() +
+    geom_point(aes(x = x_ball1, y = y_ball1),color = "goldenrod1", size = 7) +
+    geom_point(aes(x = x_ball2, y = y_ball2),color = "goldenrod1", size = 7) +
+    geom_point(aes(x = x1, y = y1), color = "blue", size = 9) +
+    geom_point(aes(x = x2, y = y2), color = "blue", size = 9) +
+    geom_point(aes(x = x3, y = y3), color = "blue", size = 9) +
+    geom_point(aes(x = x4, y = y4), color = "blue", size = 9) +
+    geom_point(aes(x = x5, y = y5), color = "blue", size = 9) +
+    geom_point(aes(x = x6, y = y6), color = "blue", size = 9) +
+    theme_void()+
+    transition_time(time)
+
+
+anim_save("img/long_diag.gif", par_cross_plot, bg = "transparent")
+}
+```
+
+![](img/long_diag.gif)

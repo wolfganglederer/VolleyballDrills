@@ -1,0 +1,29 @@
+### Angriff-Abwehr Situativ entscheiden.
+
+Die Übung wird in 3er Gruppen und nach dem Modus "King of the court" durchgeführt.
+
+Auf jeder Seite ist ein fixer Zuspieler, der von der Rotation ausgenommen ist.
+
+Das Spiel beginnt mit Aufschlag der herausfordernden Mannschaft und wird mit folgenden Zusatzregeln ausgeführt:
+
+- Es darf nur aus dem Rückraum angegriffen werden.
+- Auf der Aufschlagseite darf von den Aussen (**1** & **5**) nur longline angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
+- Auf der Verteidigenden Seite darf von Aussen (**1** & **5**) nur diagonal angegriffen werden. Aus der Mitte (**6**) wird der Ball kurz gelegt.(3-Meterraum)
+- longline und diagonal beschreibt jeweils die ganze Feldhälfte.
+
+
+:::{.callout-important}
+## Übungsschwerpunkte
+- Es ist eine Abwehrübung! (d.h. sicherer Angriff und Aufschlag.)
+- Die Abwehrreihe muss frühst möglich verschieben und nur den Teil verteidigen der relevant ist.
+:::
+
+:::{.callout-tip}
+## Varianten
+- Angriff von vorne.
+- Die Mitte darf beliebig angreifen.
+- Nach jedem Punkt muss die Siegermannschaft die Positionen wechseln
+- Zuspieler blockt
+:::
+
+{{< video https://www.youtube.com/embed/d21LyYG4cCc?si=fcc-WiHCDWrB7HXe >}}
