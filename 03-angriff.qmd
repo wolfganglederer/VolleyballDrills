@@ -3,11 +3,6 @@ title: Angriff
 lang: de
 ---
 
-```{r}
-#| echo: false
-library(knitr)
-```
-
 ## Technik
 
 Die Technik wird für einen Angriff mit dem rechten Arm erklärt.

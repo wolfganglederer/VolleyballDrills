@@ -3,12 +3,6 @@ title: Block
 lang: de
 ---
 
-```{r}
-#| include: false
-
-library(knitr)
-```
-
 ## Technik
 
 ### Grundposition
@@ -46,7 +40,7 @@ library(knitr)
 * rechter Fuß wir parallel zum linken Fuß in Schulterbreite nachgeführt und stemmt ebenfalls ein.
 * Sprung ohne Seitwärtsbewegung gerade nach oben
 * Hände und Arme bleiben die ganze Zeit in gehobener Position um eine Netzberührung zu vermeiden
-* (Variante: Swingblock: die Arme zum Schwung holen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netztberührung zu vermeiden)
+* (Variante: Swingblock: die Arme zum Schwung holen benutzt und man Versucht die Hände möglichst körpernah nach oben zu schieben um eine Netzberührung zu vermeiden)
 
 ### Blickreihenfolge
 

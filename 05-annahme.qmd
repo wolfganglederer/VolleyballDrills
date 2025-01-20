@@ -3,12 +3,6 @@ title: Annahme/Abwehr
 lang: de
 ---
 
-```{r}
-#| include: false
-
-library(knitr)
-```
-
 ## Technik
 ### Grundstellung (Lucky Luke)
 
