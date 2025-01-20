@@ -1,0 +1,6 @@
+### Spielen des Balles
+
+  * je nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung
+  * Einfallswinkel gleich Ausfallwinkel!
+
+{{< video https://www.youtube.com/embed/hTZQ1DaJs3Y?si=xxvHC1cik18Mdbvy >}}

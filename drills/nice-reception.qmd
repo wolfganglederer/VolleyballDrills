@@ -1,0 +1,14 @@
+### Schöne Annahmen
+
+Mindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schlägt auf. Es erfolgen Aufschläge auf den Annahmespieler, der zum Fänger annimmt. Dieser zählt die schönen Annahmen mit. Nach einer fixen Anzahl von schönen Annahmen wird gewechselt. Dies kann auf mehreren Feld Hälften/Dritteln parallel ausgeführt werden.
+
+:::{.callout-tip} 
+## Varianten
+* Es wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).
+* Die ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.
+* Falls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).
+* Bei 2 Gruppen können Aufschläge auch diagonal erfolgen.
+* Man kann auch diagonal dem Ball nachlaufen.
+* Aufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.
+:::
+

@@ -1,5 +1,6 @@
 ---
 title: "Wolfgang Lederer"
+bread-crumbs: false
 lang: de
 about:
   template: jolla
@@ -10,4 +11,4 @@ about:
       href: https://github.com/wolfganglederer
 ---
 
-Wolfgang spielt Volleyball, fährt Rennrad und besteigt gerne hohe Berge mit Ski und ohne. Wenn dann noch Zeit bleibt, versucht er sich an D&D.
+Wolfgang spielt Volleyball, fährt Rennrad und besteigt gerne hohe Berge mit Ski oder ohne. Wenn dann noch Zeit bleibt, versucht er sich an D&D.

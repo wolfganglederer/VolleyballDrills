@@ -4,85 +4,34 @@ lang: de
 ---
 
 ## Technik
-### Grundstellung (Lucky Luke)
 
-  * Füße schulterbreit (nicht zu breit!)
-  * Tief stehen
-  * Gewicht auf dem Vorderfuß (Knie vor den Zehen)
-  * nach vorne gebeugt (Schultern vor den Knien)
-  * Arme seitlich Handflächen nach oben (parallel zum Oberschenkel)
-  * Hände tiefer als der Ellenbogen
-  * (fortgeschritten) Split-Step oder Drop-Step
+{{< include tech/defense-ready.qmd >}}
 
-### Bewegung (Vase Auf dem Kopf)
+{{< include tech/defense-move.qmd >}}
 
-Kopf ruhig lassen um die Orientierung im Raum zu behalten.
+{{< include tech/defense-arms.qmd >}}
 
-  * keine überflüssigen Bewegungen
-  * Hüfte und Kopf bleiben auf einer Höhe
-  * gleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)
-  * direkte Bewegung zum Annahmeort
-  * Kopf bleibt gerade
+{{< include tech/defense-ball.qmd >}}
 
-### Spielbrett
+{{< include tech/defense-drop-step.qmd >}}
 
-  * Arme gestreckt zusammen führen (Auf keinen Fall die die Hände vor der Brust verschließen und dann die Arme strecken.)
-  * Arme an der Stelle des Kontakts mit dem Ball schließen
-  * Verschluss der Hände (linke Hand in die rechte legen Daumen parallel)
-  * Überstrecken der Gelenke und anspannen
-  * Ball etwa auf Höhe des Bauchnabels spielen
+## Übungen
 
-### Spielen des Balles
+{{< include drills/nice-reception.qmd >}}
 
-  * je nach Geschwindigkeit des Balles aktiv spielen mit einer geraden Bewegung
-  * Einfallswinkel gleich Ausfallwinkel!
+{{< include drills/fast-legs.qmd >}}
 
+{{< include drills/reception-action.qmd >}}
 
-{{< video https://www.youtube.com/embed/hTZQ1DaJs3Y?si=xxvHC1cik18Mdbvy >}}
-### Drop-Step
-
-Beim Drop-Step steht man etwas aufrechter als oben beschrieben und im Moment des Angriffs/Aufschlags "springt" man in die Hocke mit dem Effekt, dass man wie eine gespannte Feder dasteht und sich schnell aus der Hocke in die richtige Position bewegen kann. (Wie ein Torwart beim Elfmeter).
-
-Alternativ kann auch ein kleiner Schritt nach vorne gemacht werden und dann in die tiefe Hocke gesprungen werden. (Split-Step)
-
-## Schöne Annahmen
-
-Mindesten 3er Gruppe. Ein Annahmespieler, ein Zuspieler/Fänger der Rest schlägt auf. Es erfolgen Aufschläge auf den Annahmespieler, der zum Fänger annimmt. Dieser zählt die schönen Annahmen mit. Nach einer fixen Anzahl von schönen Annahmen wird gewechselt. Dies kann auf mehreren Feld Hälften/Dritteln parallel ausgeführt werden.
-
-:::{.callout-tip} 
-## Varianten
-* Es wird nach jedem Ball die Position gewechselt (dem Ball nachlaufen).
-* Die ersten x Aufschläge sind leicht und müssen im oberen Zuspiel angenommen werden.
-* Falls mehrere Aufschlagende pro Gruppe vorhanden sind, können die letzten Aufschläge mit mehr Risiko gemacht werden. (Wartezeit beachten).
-* Bei 2 Gruppen können Aufschläge auch diagonal erfolgen.
-* Man kann auch diagonal dem Ball nachlaufen.
-* Aufschläge werden von einem niedrigen Kasten gemacht um härtere Aufschläge zu simulieren.
-:::
-
-
-## Schnelle Beine
-
-Leichter Aufschlag nicht von der Grundlinie, sondern von etwa 6 Metern. Ein Annahmespieler startet in der Mitte und läuft in Position. Der Ball soll zwischen den Beinen auf prellen. Der Spieler sollte ruhig stehen. (ca. 5 Bälle pro Spieler)
-
-{{< video https://www.youtube-nocookie.com/embed/qk7SgCSEwJs >}}
-
-## Annahme mit Aktion
-
-Ein Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.
-
-* Der angenommene Ball wird zugespielt und vom Annahmespieler angegriffen
-* Der angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.
-* Es folgt unmittelbar ein Angriff auf den Annahmespieler
-
-# Abwehr
+## Abwehr
 
 {{< video https://www.youtube.com/embed/U2fTX-e-B6c?si=B8LkeYCoGldu2LGC >}}
 
-## Sichern
+### Sichern
 
 {{< video https://www.youtube.com/embed/dLQIOUDR4NM?si=i8CVIKox9qnGNK_H >}}
 
-## Abwehr Ausdauerdrill
+### Abwehr Ausdauerdrill
 
 Auf einer Feldhälfte steht jeweils ein Spieler auf Position **2** und **4** und auf der anderen Seite des Netzes ein Spieler auf Position **3**. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position **1** und wehrt einen geschlagenen Ball von Position **4** ab. Danach wir ein Ball von Postion **3** gelegt ein Ball von Position **2** angegriffen wieder ein Ball von Position **3** gelegt, danach ein Angriff von Position **4** abgewehrt und ein gelegter Ball von Position **2** abgewehrt. Es können beide Feldhälften genutzt werden.
 
@@ -93,7 +42,7 @@ Auf einer Feldhälfte steht jeweils ein Spieler auf Position **2** und **4** und
 
 {{< video https://www.youtube.com/embed/oMHZulZ7zg0?si=0tyU89PIfMNXHtIg >}}
 
-## Abwehr hoch Feldmitte
+### Abwehr hoch Feldmitte
 
 Je ein Angreifer auf **2** und **4**. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein...
 
@@ -102,7 +51,7 @@ Je ein Angreifer auf **2** und **4**. 1 Ball. Mindestens 3 Spieler in Warteposit
 - Abwehr nicht zum Angreifer, sondern hoch in die Feldmitte.
 :::
 
-## Abwehrvariation
+### Abwehrvariation
 
 Es werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf der seitlichen Aus-Linie, eine angreifende Person auf gegenüberliegenden Linie, die zweite angreifende Person ca. in der Mitte. Es erfolgen 2 Angriffe auf den Abwehrspieler. Einmal hart und fest aus der Mitte und einmal eher als Float-/Driveschlag von der weiter entfernten Person. Beide Bälle werden zur Person in der Mitte angenommen.
 
@@ -113,7 +62,7 @@ Es werden 3 Spielende mit 2 Bällen benötigt. Eine abwehrende Person steht auf 
 :::
 
 
-## Langer Ball
+### Langer Ball
 
 Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.
 
@@ -122,20 +71,20 @@ Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus de
 * Der zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.
 :::
 
-## Abwehr verschieben
+### Abwehr verschieben
 
 {{< video https://www.youtube.com/embed/lL4noI7lHrI?si=xB5Pl-KmMdYG8Auz >}}
 
-## Abwehr & Reaktion
+### Abwehr & Reaktion
 
 Paarweise. Ein Medizinball o. Ä. wird benutzt um den Ball zu prellen und ihm eine zufällige Richtung zu geben. Der Abwehrspieler muss versuchen den Ball zu erlaufen und (am Besten mit zwei Armen) abzuwehren.
 
 
-## Dankeball mit laufen
+### Dankeball mit laufen
 
 {{< video https://www.youtube.com/embed/pp1D-uoNM3o >}}
 
-## Abwehr zu dritt
+### Abwehr zu dritt
 
 Drei Abwehrspieler auf Position **1**, **5** und **6**. Ein Zuspieler/Angreifer am Netz. Der Zuspieler spielt die Bälle lange, kurz oder als Angriff auf die 3 Abwehrspieler, die diesen wiederum hoch zum Zuspieler abwehren, sodass sofort weiter gespielt werden kann.
 
@@ -150,7 +99,7 @@ Drei Abwehrspieler auf Position **1**, **5** und **6**. Ein Zuspieler/Angreifer 
 {{< video https://www.youtube.com/embed/NEzf3sKM2ZQ >}}
 
 
-## Abwehr-Kette
+### Abwehr-Kette
 
 An der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
 

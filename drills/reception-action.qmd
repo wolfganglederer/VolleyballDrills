@@ -1,0 +1,7 @@
+### Annahme mit Aktion
+
+Ein Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.
+
+* Der angenommene Ball wird zugespielt und vom Annahmespieler angegriffen
+* Der angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.
+* Es folgt unmittelbar ein Angriff auf den Annahmespieler
