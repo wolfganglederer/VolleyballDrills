@@ -1,0 +1,9 @@
+### Ball übers Netz
+
+Die Spielenden steht mit Rücken zum Netz und wirft den Ball durch die Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.
+
+:::{.callout-tip}
+## Varianten
+* fangen bevor er einmal aufkommt
+* weit werfen und mit Hechtbagger verhindern dass er den Boden berührt
+:::

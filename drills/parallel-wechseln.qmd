@@ -1,0 +1,48 @@
+### Parallel Spielen und Position wechseln
+
+Je zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.
+
+:::{.callout-tip}
+## Varianten
+* oberes und unters Zuspiel abwechseln
+* den Ball über Kreuz spielen
+* den Ball im Sprung zuspielen
+* jeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball
+:::
+
+```{r}
+#| include: false
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+
+if(recalculate){
+par_change <- tribble(~time, ~x_ball1, ~y_ball1, ~x_ball2, ~y_ball2, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3, ~x4, ~y4,
+        1, 0.03, 0, 0.03, 1, 0, 0, 0, 1, 1, 0, 1, 1,
+        2, 0.97, 0, 0.97, 1, 0, 1, 0, 0, 1, 0, 1, 1,
+        3, 0.03, 0, 0.03, 1, 0, 1, 0, 0, 1, 1, 1, 0)
+
+
+plot_change <- par_change %>% 
+  ggplot() +
+  geom_point(aes(x = x_ball1, y = y_ball1), color = "goldenrod1", size = 7) +
+  geom_point(aes(x = x_ball2, y = y_ball2), color = "goldenrod1", size = 7) +
+  geom_point(aes(x = x1, y = y1), color = "blue", size = 9) +
+  geom_point(aes(x = x2, y = y2), color = "blue", size = 9) +
+  geom_point(aes(x = x3, y = y3), color = "blue", size = 9) +
+  geom_point(aes(x = x4, y = y4), color = "blue", size = 9) +
+  theme_void()+
+  transition_time(time)+
+  ease_aes("sine-in-out")
+
+anim_save("../img/paralell.gif", plot_change, bg = "transparent")
+}
+```
+
+![](img/paralell.gif)

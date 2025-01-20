@@ -1,0 +1,49 @@
+### Spielen im Dreieck mit laufen
+
+Die Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt und die Person die den Ball gespielt hat läuft in die entgegengesetzte Richtung.
+
+:::{.callout-tip}
+## Varianten
+* Richtungswechsel (auf Zuruf)
+* Oberes Zuspiel im Sprung
+* Oberes und unteres Zuspiel abwechseln
+:::
+
+:::{.callout-important}
+## Übungsziele
+* Position zum Ball
+* Ausrichtung zum Ziel
+:::
+
+![](img/3eck.gif)
+
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+
+if(recalculate){
+tri_play <- tribble(~time, ~x_ball, ~y_ball, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3,
+        1, 0.05, 0.05, 0, 0, 1, 1, 2, 0,
+        2, 1, 0.95, 2.05, -0.05, 1, 1, 2, 0,
+        3, 1.95, 0.05, 2.05, -0.05, 0, 0, 2, 0,
+        4, 0.05, 0.05, 2, 0, 0, 0, 1, 1)
+
+tri_play_plot <- 
+  tri_play %>% 
+  ggplot()+
+  geom_point(aes(x=x_ball, y=y_ball), color ="goldenrod1", size =7)+
+  geom_point(aes(x=x1, y=y1), color ="blue", size =9)+
+  geom_point(aes(x=x2, y=y2), color ="blue", size =9)+
+  geom_point(aes(x=x3, y=y3), color ="blue", size =9)+
+  theme_void()+
+  transition_time(time)
+
+anim_save("img/3eck.gif", tri_play_plot, bg = "transparent")
+}
+```
