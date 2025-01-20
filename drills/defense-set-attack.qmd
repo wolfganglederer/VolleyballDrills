@@ -10,7 +10,7 @@ Drei Spieler wechseln sich in der Abwehr ab.
 ## Übungsziele
 * Ballkontrolle
 * Richtige Position zum Ball in der Abwehr
-* Richtige [Abwehrposition](05-annahme.qmd#Grundstellung (Lucky Luke))
+* Richtige [Abwehrposition](/05-annahme.qmd#grundstellung-lucky-luke)
 :::
 
 :::{.callout-tip}

@@ -1,0 +1,8 @@
+### Abwehr-Kette
+
+An der langen Seite des Feldes stellt sich ca. die Hälfte der Spieler mit jeweils 2 Bällen auf. Zwischen 2 Spieler wird auf der gegenüberliegenden Hälfte ein Hütchen/Medizinball gelegt. Die restliche Spieler laufen nun mit Abstand in Position und wehren 2 Bälle ab und laufen danach hinter dem Hütchen zum nächsten Spieler und wehren wiederum 2 Bälle ab. Auf Abstand zwischen den Spielern achten.
+
+:::{.callout-tip}
+## Varianten
+* Die Angreifer variieren und streuen gelegte Bälle ein
+:::

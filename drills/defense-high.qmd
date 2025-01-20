@@ -1,3 +1,8 @@
-### Abwehr hoch
+### Abwehr hoch Feldmitte
 
-Zwei Spieler:innen bilden einen Abwehrriegel ein dritte Person steht gegenüber und greift an. Eine:r der beiden Abwehrspieler:innen wehrt ab, achtet dabei aber darauf, dass der Ball nur ca. ein drittel des Weges zur anderen Seite zurücklegt. Der/die nicht Abwehrende spielt den Ball wieder auf die Person die angreift zu und zieht sich dann möglichst schnell wieder in die Abwehr zurück. Der zugespielte Ball wird wieder angegriffen, verteidigt und zugespielt.
+Je ein Angreifer auf **2** und **4**. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein...
+
+:::{.callout-important}
+## Übungsziel
+- Abwehr nicht zum Angreifer, sondern hoch in die Feldmitte.
+:::
