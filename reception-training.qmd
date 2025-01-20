@@ -8,8 +8,15 @@ lang: de
 
 ### Technik
 
-Beschreibung der [Technik](05-annahme.qmd#technik)
+{{< include tech/defense-ready.qmd >}}
 
+{{< include tech/defense-move.qmd >}}
+
+{{< include tech/defense-arms.qmd >}}
+
+{{< include tech/defense-ball.qmd >}}
+
+{{< include tech/defense-drop-step.qmd >}}
 
 ## Aufstellung
 
@@ -84,7 +91,7 @@ In der Mannschaft absprechen!
 
 ### Warmup
 
-[Spielen mit Nachlaufen](01-warmup.qmd#spielen-mit-nachlaufen-und-zuspiel)
+{{< include drills/nachlaufen-zuspiel.qmd >}}
 
 ### Leiter und Kraftübungen
 
