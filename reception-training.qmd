@@ -72,7 +72,7 @@ Sehr kurze Bälle nehmen die Netzspieler (Einen Schritt vom Netz wegbewegen). Zu
   * Man hat im Kopf wie der Angreifer bisher angegriffen hat und reagiert darauf.
   * Am hat den Angreifer im Blick und reagiert darauf (hart oder gelegt, kurz oder lang)
 
-#### 6. Danke Ball
+#### 6. Dankeball
 
 In der Mannschaft absprechen!
 

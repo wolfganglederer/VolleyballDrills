@@ -1,11 +1,12 @@
 ### Zwei gegen Zwei mit 3 Bällen
+Die Übung wird auf dem halben halben Feld gespielt. Jedes 2er-Team hat einen eigenen Ball (**Teamball**), und ein dritter Ball (**Spielball**) wird mit den üblichen drei Berührungen wie im regulären Volleyball ausgespielt. Die Herausforderung besteht darin, dass kein Ball den Boden berühren darf.
 
-Gespielt wird auf den (halben) 3-Meter-Raum jedes 2er Team hat einen (Team-) Ball und ein dritter (Spiel-) Ball wird mit 3 Berührungen normal ausgespielt. Die Schwierigkeit ist, dass keiner der beiden Bälle den Boden berühren darf. Der Teamball darf also nicht abgelegt werden. Der Teamball kann entweder sich selbst zugeworfen werden oder zum Teamkollegen, er darf aber nicht den Boden berühren. Für den Spielball zählen normale Volleyball regeln. Wenn einer der beiden Bälle den Boden berührt oder ein andere Fehler begangen wird, zählt der Punkt als verloren. Das Team das einen Fehler begangen hat wird durch das nächste wartende Team ersetzt.
+Der **Teamball** darf weder abgelegt noch fallengelassen werden. Er kann entweder zwischen den Teammitgliedern zugespielt oder selbst hochgeworfen werden, muss aber stets in der Luft bleiben. Für den **Spielball** gelten die regulären Volleyballregeln. Berührt einer der beiden Bälle den Boden oder wird ein anderer Fehler gemacht, zählt der Punkt als verloren. Das Team, das den Fehler begangen hat, wird durch das nächste wartende Team ersetzt.
 
 :::{.callout-tip}
 ## Varianten
-* jeder Spieler hält einen Ball in der Hand
-* 3 gegen 3 mit 5/7 Bällen
+- Jede Person hält einen Ball in der Hand.
+- 3 gegen 3 mit 5 oder 7 Bällen. 
 :::
 
-{{< video https://www.youtube.com/embed/5yaXifUSr9s >}}
+{{< video https://www.youtube.com/embed/5yaXifUSr9s?start=200 >}}

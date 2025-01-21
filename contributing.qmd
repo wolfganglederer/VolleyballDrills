@@ -1,0 +1,51 @@
+### Beitragen
+
+Gerne nehme ich Beiträge von euch auf. Dabei gibt es ein paar Dinge zu beachten:
+
+#### Allgemeines
+
+- Alle Formulierungen und Bilder müssen frei von rechten Dritter sein oder zumindest unter einer freien Lizenz stehen. 
+- Die Übungen sind primär für Mixed-Mannschaften gedacht, die Formulierungen sollten dem Rechnung tragen.
+- Ich behalte mir vor Übungen nicht aufzunehmen, falls sie mir nicht gefallen.
+- Bitte immer freundlich und höflich bleiben.
+- Alle Beiträge die hier veröffentlicht werden stehen unter [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Falls das für euch nicht okay ist, dann bitte keine Texte einreichen.
+
+#### Technik
+
+Wer sich mit Github und [Markdown](https://quarto.org/docs/authoring/markdown-basics.html)/[Quarto](www.quarto.org) auskennt erstellt einfach einen [Pull Request](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?tool=webui).
+
+Wer sich nicht weiter damit beschäftigen mag und schickt mir den Text einfach auf einem anderen Weg.
+
+#### Format
+
+- Die Überschrift einer Übung muss eine Überschrift 3. Ordnung (###) sein.
+- Jede Übung muss in einer eigenen Datei stehen und wird über `{{< include datei.qmd >}}` eingebunden.
+- Übungen werden im Ordern `/drills` abgelegt
+- Technikbeschreibungen und Ähnliches im Ordner `/tech`
+- Falls es für Übungen Varianten gibt sollte sie in einem Call-out Block erwähnt werden:
+```md
+:::{.callout-tip}
+## Varianten
+- Variante 13
+- Variante 2
+:::
+```
+- Besondere Übungsziele sollten ebenfalls mit einen Call-Out Block erwähnt werden:
+```md
+:::{.callout-important}
+## Übungsziele
+- wichtiges Ziel 1
+- Wichtiges Ziel 2
+:::
+```
+
+
+#### Helper
+
+- Einführung in [Quarto](https://quarto.org/docs/authoring/markdown-basics.html) 
+- Hilfe bei der Formulierung ([Geschickt Gendern](https://geschicktgendern.de/))
+- ein Prompt für ChatGPT das die Qualität erhöht:
+
+{{< include ai-prompt.qmd >}}
+
+

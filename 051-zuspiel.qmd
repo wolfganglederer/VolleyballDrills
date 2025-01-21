@@ -8,7 +8,7 @@ lang: de
 
 {{< include tech/tech-setting.qmd >}}
 
-{{< include technikcheck-oz.qmd >}}
+{{< include tech/technikcheck-oz.qmd >}}
 
 ## Strategie
 

@@ -35,8 +35,5 @@ lang: de
 
 {{< video https://www.youtube.com/embed/WPDmgyEvR-Q >}}
 
-
 {{< video https://www.youtube.com/embed/zpEUJ7BIMpM >}}
-
-
 

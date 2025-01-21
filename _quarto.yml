@@ -34,6 +34,7 @@ website:
       - section: "Sonstiges"
         contents:
         - links.qmd
+        - contributing.qmd
         - about.qmd
 
 license: CC BY-NC-SA
