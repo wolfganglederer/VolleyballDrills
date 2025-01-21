@@ -3,4 +3,4 @@ title: Volleyballübungen
 lang: de
 ---
 
-![cover](/img/cover.png)
+![](/img/cover.png)

@@ -1,6 +1,6 @@
 ### Abwehr hoch Feldmitte
 
-Je ein Angreifer auf **2** und **4**. 1 Ball. Mindestens 3 Spieler in Warteposition hinter dem Feld. Ein Spieler beginnt und spielt den Ball zu dem ihm diagonal stehenden Angreifer, dieser greift an und der Spieler wehrt hoch in die Feldmitte ab. Spieler verlässt das Feld. Ein neuer Spieler von der Warteposition läuft ein und spielt den Ball zum anderen Angreifer, der wiederum auf den neuen Spieler angreift. Dieser wehrt wieder hoch ab und verlässt das Feld und ein neuer Spieler läuft ein...
+Je eine angreifende Person auf **2** und **4**. 1 Ball. Mindestens 3 Spielende in Warteposition (**A**, **B**, **C**) hinter dem Feld. Person **A** beginnt und spielt den Ball zur diagonal stehenden angreifenden Person **2**, diese greift an und Person **A** wehrt hoch in die Feldmitte ab. **A** verlässt das Feld und stellt sich an der Warteposition an. Person **B** von der Warteposition läuft ein und spielt den Ball zu **4**, die wiederum auf den **B** angreift. **B** wehrt hoch ab und verlässt das Feld und stellt sich hinten an. Person **C** läuft ein und spielt auf **2** usw...
 
 :::{.callout-important}
 ## Übungsziel

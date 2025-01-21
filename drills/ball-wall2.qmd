@@ -1,8 +1,9 @@
 ### Ball gegen die Wand II
 
-Zwei Spieler. Spieler **A** steht in Abwehrhaltung mit Blick auf die Wand. Spieler **B** wirft den Ball von hinten gegen die Wand und Spieler **A** fängt den Ball mit beiden Händen oder mit einer Hand. Schwierigkeit mit Abstand zur Wand und Geschwindigkeit variieren.
+Zwei Personen. Person **A** steht in Abwehrhaltung mit Blick auf die Wand. Person **B** wirft den Ball von hinten gegen die Wand, und Person **A** fängt den Ball mit beiden Händen oder mit einer Hand. Die Schwierigkeit kann durch den Abstand zur Wand und die Geschwindigkeit variiert werden.
 
-:::{.callout-tip} 
+:::{.callout-tip}
 ## Varianten
-* Ein Auge geschlossen
+- Ein Auge geschlossen.
+- Einen Chaos Ball verwenden
 :::

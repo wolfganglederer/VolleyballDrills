@@ -1,3 +1,16 @@
 ### Abwehr mit drei Bällen
 
-Als Paar aufstellen. Ein Spieler hat drei Bälle. Erst ein harter Angriff dann ein kurzer Ball und zum Abschluss ein hoher Ball, der erlaufen werden muss.
+Die angreifende Person hat drei Bälle. Es folgen 3 Angriffe:
+
+1. ein harter Angriff
+2. ein kurzer (gelegter) Ball
+3. ein hoher Ball
+
+Danach die Bälle einsammeln. 
+
+Optimaler weise werden die Angriffe vom Netz ausgeführt und zum Netz abgewehrt. 
+
+:::{.callout-tip} 
+## Varianten
+- Die Angriffe werden nicht in der oben beschriebenen Reihenfolge ausgeführt, sondern in zufälliger Reihenfolge und Anzahl.
+:::
