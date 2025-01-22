@@ -2,7 +2,13 @@
 
 Person **A** wirft/schlägt den Ball ins Netz. Person **B** sichert, spielt sich selbst zu und greift ins Netz an. Nun sichert **A**, spielt sich den Ball selbst zu und greift wieder ins Netz an. Wiederholen, bis ein Fehler passiert.
 
+:::{.callout-important}
+## Übungsziel
+- die sichernde Person (**B**) steht tief in den Knien.
+- der Ball bleibt auf der eigenen Seite des Netzes
+:::
+
 :::{.callout-tip}
 ## Varianten
-* vereinfachen dadurch dass die sichernde Person den Ball nach dem Sichern fängt und ihn dann ins Netz wirft.
+- vereinfachen dadurch dass die sichernde Person den Ball nach dem Sichern fängt und ihn dann ins Netz wirft.
 :::

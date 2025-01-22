@@ -5,5 +5,5 @@ Zwei Personen. Person **A** steht in Abwehrhaltung mit Blick auf die Wand. Perso
 :::{.callout-tip}
 ## Varianten
 - Ein Auge geschlossen.
-- Einen Chaos Ball verwenden
+- Einen Reactionball verwenden
 :::

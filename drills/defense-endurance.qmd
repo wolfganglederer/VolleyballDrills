@@ -1,10 +1,10 @@
-### Abwehr Ausdauerdrill
+### Abwehr-Ausdauerdrill
 
-Auf einer Feldhälfte steht jeweils ein Spieler auf Position **2** und **4** und auf der anderen Seite des Netzes ein Spieler auf Position **3**. Jeder der Spieler hat 2 Bälle. Der Abwehrspieler beginnt auf Position **1** und wehrt einen geschlagenen Ball von Position **4** ab. Danach wir ein Ball von Postion **3** gelegt ein Ball von Position **2** angegriffen wieder ein Ball von Position **3** gelegt, danach ein Angriff von Position **4** abgewehrt und ein gelegter Ball von Position **2** abgewehrt. Es können beide Feldhälften genutzt werden.
+Auf einer Feldhälfte steht jeweils eine Person auf Position **2** und **4** sowie auf der anderen Seite des Netzes eine Person auf Position **3**. Jede dieser Personen hat zwei Bälle. Die abwehrende Person beginnt auf Position **1** und wehrt zunächst einen geschlagenen Ball von Position **4** ab. Danach wird ein Ball von Position **3** gelegt, gefolgt von einem Angriff von Position **2**, dann erneut ein gelegter Ball von Position **3**, anschließend ein Angriff von Position **4** und zuletzt ein gelegter Ball von Position **2** abgewehrt. Beide Feldhälften können genutzt werden.
 
 :::{.callout-tip} 
 ## Varianten
-* Alle geschlagenen Bälle können auch gelegt werden
+- Alle geschlagenen Bälle können auch gelegt werden.
 :::
 
 {{< video https://www.youtube.com/embed/oMHZulZ7zg0?si=0tyU89PIfMNXHtIg >}}

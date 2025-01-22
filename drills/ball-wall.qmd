@@ -1,3 +1,8 @@
 ### Ball gegen die Wand
 
-Der Ball wird abwechselnd mit links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wir variiert werden.
+Der Tennisball wird abwechselnd mit links und rechts gegen die Wand geworfen und mit der jeweils anderen Hand gefangen. Darauf achten, dass der Ball mit den Fingern gefangen wird und nicht mit dem Ballen. Die Schwierigkeit kann durch den Abstand zur Wand und das Tempo mit dem geworfen wird variiert werden.
+
+:::{.callout-tip}
+## Varianten
+- Statt Tennisball einen Reactionball benutzen.
+:::

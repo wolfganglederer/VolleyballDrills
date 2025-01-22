@@ -1,8 +1,15 @@
 ### Langer Ball
 
-Am Netz werden auf einer Seite zwei Schlangen gebildet. Der Trainer wirft aus der Mitte einen langen Ball auf die andere Feldhälfte, der jeweils der erste Spieler jeder Schlange läuft auf die andere Hälfte des Feldes. Ein Spieler wehrt den Ball hoch zur Feldmitte ab, der zweite Spieler spielt den Ball (im oberen Zuspiel) lang in eine Ecke der anderen Feldhälfte. Danach holt ein Spieler den Ball und legt ihn beim Trainer ab und stellt sich anschließend hinten an.
+Eine Person steht mit Ballwagen im Mittelkreis am Netz. Der Rest bildet zwei Schlangen links und rechts neben dem Ballwagen. Der Ball wird nun von der Mitte aus lang in die freie Feldhälfte geworfen. Die beiden ersten Personen jeder Schlange versuchen nun den Ball hoch zur Feldmitte zu verteidigen. Mit dem zweiten Kontakt wird der Ball bevorzugt im oberen Zuspiel lang in die gegnerische Ecke gespielt. Im Anschluss den Ball holen und im Ballwagen ablegen und wieder hinten anstellen.
+
+:::{.callout-important}
+## Übungsziel
+- Laufen mit offenen Händen!
+- Abwehr hoch Feldmitte!
+- Die zweite Person läuft mit und bleibt aufmerksam!
+:::
 
 :::{.callout-tip} 
 ## Varianten
-* Der zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.
+- Der zweite Ballkontakt wird als (Rückraum-)Zuspiel ausgeführt und der dritte Kontakt als (Rückraum-)Angriff.
 :::
