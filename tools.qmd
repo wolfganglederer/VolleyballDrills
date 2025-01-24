@@ -3,5 +3,19 @@ title: Tools
 lang: de
 ---
 
-[Spielberichtsbogen](schiedsrichterbogen.pdf)
+## Spielberichtsbogen
 
+Verbesserter Spielberichtsbogen:
+
+- An A4 angepasst
+- PDF
+
+[Spielberichtsbogen (pdf)](tools/schiedsrichterbogen.pdf)  ([(Code)](tools/schiedsrichterbogen.typ))
+
+## Trainingsorganisation
+
+- Felder und halbes Feld für Skizzen
+- Vorlagen für Trainings und Übungen
+
+[Trainings PDF](/tools/volley_helpers.pdf)
+([Code](/tools/volley_helpers.typ))
