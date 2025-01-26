@@ -169,3 +169,20 @@ rect(stroke: (dash: "dashed"), inset: 25pt)[#field_half(66.5%, 66.5%, positions:
   align(horizon)[#field_half(35%, 40%)],
   [#rect(width: 100%, height: 17%, fill: pat_dots)],
 )]
+
+
+#pagebreak()
+
+#page(margin: (top: 10pt, bottom: 25pt))[
+#rect()[
+#grid(columns: (1fr,5fr,1fr),
+gutter: 12pt,
+stroke: 0pt,
+[Zuspieler:], [],grid.cell(rowspan: 4)[#circle(radius: 40pt, stroke: 4pt)],
+[Aussen:], [],
+[Mittelblocker:], [],
+[Diagonal:], [])
+]
+
+#rect(width: 100%, height: 87%, fill: pat_dots, stroke: 1pt)
+]
