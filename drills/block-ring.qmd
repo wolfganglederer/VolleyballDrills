@@ -1,0 +1,15 @@
+### Block mit Gymnastikring
+
+Ein Gymnastikring wird am Netz befestigt, sodass nur ein kleiner Teil über das Netz ragt. Ein Blocksprung wird nun so ausgeführt, dass die Arme innerhalb des Rings über das Netz geschoben werden. Der Ring sollte nicht berührt werden.
+
+:::{.callout-important}
+## Übungsziel
+- Hände werden über das Netz geschoben und es wird nicht geschlagen
+- Zwischen Armen und Netz ist nicht genügend Platz für einen Ball
+::: 
+
+:::{.callout-tip}
+## Varianten
+- Block aus der Bewegung (Swingblock, Shuffle-Schritte)
+- Mit einem Ball gegen die Hände werfen/drücken.
+:::

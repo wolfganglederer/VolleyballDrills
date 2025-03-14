@@ -1,0 +1,199 @@
+---
+title: Warm Up
+lang: de
+---
+
+## Spielformen
+
+### Ausbaggern
+
+Die Personen stellen sich an beiden Enden des Feldes auf. Der Ball wird abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft die ausführende Person auf die andere Feldhälfte und stellt sich hinten an. Dabei sollte darauf geachtet werden, andere Personen nicht zu behindern. 
+
+Wird ein Fehler gemacht (Netzberührung, Ball im Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden), beginnt die Person, die den Fehler gemacht hat, von vorne und verliert ein Leben. Sind alle Leben aufgebraucht, scheidet diese Person aus und macht sich so lange individuell warm.
+
+:::{.callout-tip}
+## Varianten
+- Der Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen.
+- Wenn der Ball auf den Boden fällt ohne dass er berührt wurde, verliert die Person 2 Leben.
+- Es wird nur auf den 3-Meter-Raum gespielt.
+:::
+
+
+### 3 vs. 3 mit 2 Bällen
+
+Jeweils 3er-Teams spielen im Feld. Zwei Bälle werden leicht eingeworfen, idealerweise von neutralen Personen wie Trainer*innen oder nicht spielenden Teammitgliedern. Es ist pro Ball nur ein Kontakt mit dem unteren Zuspiel erlaubt. Der erste Fehler wird bestraft. Das Gewinnerteam bleibt auf dem Feld, während sich das Verliererteam hinten anstellt.
+
+{{< video https://www.youtube.com/embed/ManHBLf6X3A >}}
+
+
+## Übungen
+
+### Spielen mit Nachlaufen
+
+Drei bis vier Spieler stellen sich in 2 Gruppen gegenüber auf. Der Ball wird hin und her gespielt und man wechselt nach jedem Ballkontakt die Seite (dem eigenen Ball nachlaufen) und stellt sich hinten an.
+
+:::{.callout-tip}
+## Varianten
+* Oberes und unteres Zuspiel abwechseln
+* Oberes Zuspiel im Sprung
+* Jedes mal zum Ende des Laufens einen Hechtbagger oder Stemmschritt mit Sprung
+* Einmal selbst zuspielen dabei um 180° drehen und dann über Kopf zurück
+* Jeder Spieler hat einen Ball in der Hand und wirft sich den Ball selbst vor, bevor er den Spielball zurück spielt und fängt danach seinen Ball.
+* Es wird abwechselnd Angriff, Abwehr und Zuspiel gespielt
+:::
+
+
+### Spielen mit Nachlaufen Diagonal
+
+Drei bis vier Spielende spielen sich den Ball mit Nachlaufen zu. Dabei stehen sie diagonal im Feld und kreuzen den Weg mit einer zweiten Gruppe. Zusätzlich zu den Varianten in [Spielen mit Nachlaufen], kann noch über Eck gelaufen werden.
+
+
+### Spielen mit Nachlaufen und Zuspiel
+
+Mindestens vier Spielende sind auf einer Feldseite. Positionen **2**,**4**,**6** sind besetzt. Es gibt eine Warteposition hinter Position **2**. Position **2** spielt den Ball auf **4** zu, die ihn auf **6** in einem simulierten Angriff spielt. Von **6**  wird auf Position **2** angenommen. Alle Spielenden laufen dem Ball hinterher.
+
+:::{.callout-tip}
+## Varianten
+- Der Ball wird von Position **4** leicht (!) angegriffen
+- Position **4** zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position **6** bewegt sich entsprechend.
+- Position **4** legt den Ball hin und wieder. Deutliches signalisieren mit z.B. gestrecktem Arm.
+:::
+
+
+### Parallel Spielen und Position wechseln
+
+Je zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.
+
+:::{.callout-tip}
+## Varianten
+* oberes und unters Zuspiel abwechseln
+* den Ball über Kreuz spielen
+* den Ball im Sprung zuspielen
+* jeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball
+:::
+
+```{r}
+#| include: false
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+
+if(recalculate){
+par_change <- tribble(~time, ~x_ball1, ~y_ball1, ~x_ball2, ~y_ball2, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3, ~x4, ~y4,
+        1, 0.03, 0, 0.03, 1, 0, 0, 0, 1, 1, 0, 1, 1,
+        2, 0.97, 0, 0.97, 1, 0, 1, 0, 0, 1, 0, 1, 1,
+        3, 0.03, 0, 0.03, 1, 0, 1, 0, 0, 1, 1, 1, 0)
+
+
+plot_change <- par_change %>% 
+  ggplot() +
+  geom_point(aes(x = x_ball1, y = y_ball1), color = "goldenrod1", size = 7) +
+  geom_point(aes(x = x_ball2, y = y_ball2), color = "goldenrod1", size = 7) +
+  geom_point(aes(x = x1, y = y1), color = "blue", size = 9) +
+  geom_point(aes(x = x2, y = y2), color = "blue", size = 9) +
+  geom_point(aes(x = x3, y = y3), color = "blue", size = 9) +
+  geom_point(aes(x = x4, y = y4), color = "blue", size = 9) +
+  theme_void()+
+  transition_time(time)+
+  ease_aes("sine-in-out")
+
+anim_save("../img/paralell.gif", plot_change, bg = "transparent")
+}
+```
+
+![](img/paralell.gif)
+
+
+### Spielen im Dreieck mit laufen
+
+Die Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespielt und die Person die den Ball gespielt hat läuft in die entgegengesetzte Richtung.
+
+:::{.callout-tip}
+## Varianten
+* Richtungswechsel (auf Zuruf)
+* Oberes Zuspiel im Sprung
+* Oberes und unteres Zuspiel abwechseln
+:::
+
+:::{.callout-important}
+## Übungsziele
+* Position zum Ball
+* Ausrichtung zum Ziel
+:::
+
+![](img/3eck.gif)
+
+```{r}
+#| include: false
+library(tidyverse)
+library(gganimate)
+library(ggforce)
+library(knitr)
+library(tweenr)
+
+recalculate <- FALSE
+
+if(recalculate){
+tri_play <- tribble(~time, ~x_ball, ~y_ball, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3,
+        1, 0.05, 0.05, 0, 0, 1, 1, 2, 0,
+        2, 1, 0.95, 2.05, -0.05, 1, 1, 2, 0,
+        3, 1.95, 0.05, 2.05, -0.05, 0, 0, 2, 0,
+        4, 0.05, 0.05, 2, 0, 0, 0, 1, 1)
+
+tri_play_plot <- 
+  tri_play %>% 
+  ggplot()+
+  geom_point(aes(x=x_ball, y=y_ball), color ="goldenrod1", size =7)+
+  geom_point(aes(x=x1, y=y1), color ="blue", size =9)+
+  geom_point(aes(x=x2, y=y2), color ="blue", size =9)+
+  geom_point(aes(x=x3, y=y3), color ="blue", size =9)+
+  theme_void()+
+  transition_time(time)
+
+anim_save("img/3eck.gif", tri_play_plot, bg = "transparent")
+}
+```
+
+
+### Spielen im Viereckeck mit Laufen
+
+Drei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem der Ball gespielt wurde, läuft man auf die freie Ecke.
+
+
+## Ohne Ball
+
+### Knie Berühren
+
+Zwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner*in wechseln.
+
+:::{.callout-tip}
+## Varianten
+* geht auch in Liegestützposition und die Ellenbogen berühren
+:::
+
+
+### Ball übers Netz
+
+Die Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine übers Netz, sprinten ihrem Ball nach und fangen ihn bevor er ein zweites mal auf dem Boden prallt.
+
+:::{.callout-tip}
+## Varianten
+* fangen bevor er einmal aufkommt
+* weit werfen und mit Hechtbagger verhindern dass er den Boden berührt
+:::
+
+
+## Athletik
+
+
+{{< video https://www.youtube.com/embed/WPDmgyEvR-Q >}}
+
+{{< video https://www.youtube.com/embed/zpEUJ7BIMpM >}}
+
+

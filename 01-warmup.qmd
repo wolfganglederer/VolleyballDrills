@@ -27,7 +27,6 @@ lang: de
 
 {{< include drills/knie-beruehren.qmd >}}
 
-
 {{< include drills/ball-durch-beine.qmd >}}
 
 ## Athletik

@@ -19,6 +19,8 @@ lang: de
 
 {{< include drills/block-tennis.qmd >}}
 
+{{< include drills/block-ring.qmd >}}
+
 ### Einschlagen mit Block
 
 ### Angriff in den Block
