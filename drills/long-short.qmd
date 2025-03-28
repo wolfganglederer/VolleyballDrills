@@ -1,8 +1,9 @@
 ### Lang, kurz
 
-Angriffsspieler mit dem Rücken zum Netz greift lang an auf Abwehrspieler. Hohe Abwehr. Angriffsspieler legt den Ball kurz. Nach Zwischenspiel wieder langer Angriff usw.
+Die **angreifende Person** steht mit dem Rücken zum Netz und spielt einen langen Angriff auf die **abwehrende Person**. Diese wehrt den Ball hoch ab. Danach legt die **angreifende Person** den Ball kurz und muss verteidigt werden. Nach einem kurzen Zuspiel folgt erneut ein langer Angriff – und so weiter.
 
 :::{.callout-tip} 
 ## Varianten
-* kurzer Ball muss im oberen  Zuspiel gespielt werden
+- kurzer Ball muss im oberen Zuspiel verteidigt werden
+- beide Angriffe erfolgen als Shots (leicht geschlagener Ball mit viel Rotation)
 :::

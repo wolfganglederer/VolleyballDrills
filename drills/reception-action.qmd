@@ -1,7 +1,9 @@
-### Annahme mit Aktion
+### Annahme mit Folgeaktion  
 
-Ein Annahmespieler. Aufschlag wird angenommen, danach erfolgt eine weiter Aktion, damit man sich auf mehrere Dinge konzentrieren muss.
+Eine **annehmende Person** nimmt den Aufschlag an und führt anschließend eine weitere Aktion aus, um die Reaktionsfähigkeit und Konzentration zu schulen.  
 
-* Der angenommene Ball wird zugespielt und vom Annahmespieler angegriffen
-* Der angenommene Ball wird zugespielt und von einem Dritten in den Block angegriffen. Der Annahmespieler muss sichern.
-* Es folgt unmittelbar ein Angriff auf den Annahmespieler
+Mögliche Folgeaktionen:
+ 
+- Der angenommene Ball wird zugespielt und von der **annahmenden Person** angegriffen.  
+- Der angenommene Ball wird zugespielt und von einer **dritten Person** in den Block angegriffen. Die **annahmende Person** muss absichern.  
+- Unmittelbar nach der Annahme folgt ein Angriff auf die **annahmende Person**.

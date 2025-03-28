@@ -1,9 +1,9 @@
 ### Werfen mit 3 Bällen
 
-Als Paar aufstellen, der Angriffsspieler hat 3 Bälle und wirft diese nacheinander dem Abwehrspieler zu, der sie hoch abwehrt, sodass der Angriffsspieler die Bälle einen nach dem Anderen fangen und wieder zurück werfen kann.
+Als **Paar** aufstellen. Die **angreifende Person** hat drei Bälle und wirft sie nacheinander der **abwehrenden Person** zu. Diese wehrt die Bälle hoch ab, sodass die **angreifende Person** sie nacheinander fangen und zurückwerfen kann.  
 
-:::{.callout-tip} 
-## Varianten
-* Die Übung kann beliebig erschwert werden, indem die Bälle kürzer, länger oder seitlich versetzt geworfen werden. Es ist dann auf die Linie großer Zeh, Knie, Schulter zu achten
-* Es können aufeinander gestellte Bänke zwischen den Spielern aufgestellt werden um das Netz zu simulieren
+:::{.callout-tip}  
+## Varianten  
+- Die Übung kann erschwert werden, indem die Bälle kürzer, länger oder seitlich versetzt geworfen werden. Dabei sollte auf die Linie von großem Zeh, Knie und Schulter geachtet werden.  
+- Zwischen den Spielenden können aufeinander gestapelte Bänke aufgestellt werden, um ein Netz zu simulieren.  
 :::

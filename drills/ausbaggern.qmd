@@ -1,11 +1,12 @@
 ### Ausbaggern
 
-Die Personen stellen sich an beiden Enden des Feldes auf. Der Ball wird abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft die ausführende Person auf die andere Feldhälfte und stellt sich hinten an. Dabei sollte darauf geachtet werden, andere Personen nicht zu behindern. 
+Die Personen stellen sich an beiden Enden des Feldes auf. Der Ball wird neutral eingeworfen und dann abwechselnd im unteren Zuspiel direkt über das Netz gespielt. Nach jeder Ballberührung läuft die ausführende Person auf die andere Feldhälfte und stellt sich hinten an. Dabei sollte darauf geachtet werden, andere Personen nicht zu behindern. 
 
 Wird ein Fehler gemacht (Netzberührung, Ball im Aus, nicht im unteren Zuspiel gespielt oder der Ball fällt auf den Boden), beginnt die Person, die den Fehler gemacht hat, von vorne und verliert ein Leben. Sind alle Leben aufgebraucht, scheidet diese Person aus und macht sich so lange individuell warm.
 
 :::{.callout-tip}
 ## Varianten
+
 - Der Ball wird über einen Bodenkontakt eingeschlagen statt eingeworfen.
 - Wenn der Ball auf den Boden fällt ohne dass er berührt wurde, verliert die Person 2 Leben.
 - Es wird nur auf den 3-Meter-Raum gespielt.

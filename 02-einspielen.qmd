@@ -61,7 +61,6 @@ Koordinative Übungen können sowohl ins Einspielen als auch im Training integri
 
 {{< video https://www.youtube.com/embed/DS6-P6TSpxw >}}
 
-
 {{< include drills/ball-wall.qmd >}}
 
 {{< include drills/ball-wall2.qmd >}}

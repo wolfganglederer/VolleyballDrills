@@ -8,7 +8,7 @@ Die angreifende Person hat drei Bälle. Es folgen 3 Angriffe:
 
 Danach die Bälle einsammeln. 
 
-Optimaler weise werden die Angriffe vom Netz ausgeführt und zum Netz abgewehrt. 
+Optimalerweise werden die Angriffe vom Netz ausgeführt und zum Netz abgewehrt. 
 
 :::{.callout-tip} 
 ## Varianten

@@ -1,11 +1,11 @@
-### Abwehr zu dritt
+### Abwehr zu dritt  
 
-Drei Abwehrspieler auf Position **1**, **5** und **6**. Ein Zuspieler/Angreifer am Netz. Der Zuspieler spielt die Bälle lange, kurz oder als Angriff auf die 3 Abwehrspieler, die diesen wiederum hoch zum Zuspieler abwehren, sodass sofort weiter gespielt werden kann.
+Drei **abwehrende Personen** stehen auf Position **1**, **5** und **6**. Eine **zuspielende/angreifende Person** befindet sich am Netz. Die **zuspielende Person** spielt die Bälle lang, kurz oder als Angriff auf die drei **abwehrenden Personen**, die den Ball hoch zur **zuspielenden Person** abwehren, sodass das Spiel direkt weitergeführt werden kann.  
 
-:::{.callout-tip}
-## Varianten
-* Nach jedem Ballkontakt eines Spielers auf Position **1** oder **5** wechselt dieser Position mit dem Spieler auf Position **6**.
-* Nach jedem kurzen (gelegtem) Ball geht der Spieler der den Ball abgewehrt hat auf die lange **6** und der Spieler auf der **6** rückt auf die Position des Ballspielenden.
-:::
+:::{.callout-tip}  
+## Varianten  
+- Nach jedem Ballkontakt einer **abwehrenden Person** auf Position **1** oder **5** wechselt diese mit der Person auf Position **6**.  
+- Nach jedem kurzen (gelegten) Ball rückt die **abwehrende Person**, die den Ball abgewehrt hat, auf die lange **6**. Die Person auf **6** wechselt auf die Position der Ballspielenden.  
+:::  
 
-{{< video https://www.youtube.com/embed/NEzf3sKM2ZQ >}}
+{{< video https://www.youtube.com/embed/NEzf3sKM2ZQ >}}  

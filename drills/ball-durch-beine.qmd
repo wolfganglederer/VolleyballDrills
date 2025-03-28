@@ -4,6 +4,7 @@ Die Spielenden steht mit Rücken zum Netz und werfen den Ball durch ihre Beine �
 
 :::{.callout-tip}
 ## Varianten
-* fangen bevor er einmal aufkommt
-* weit werfen und mit Hechtbagger verhindern dass er den Boden berührt
+
+- fangen bevor er einmal aufkommt
+- weit werfen und mit Hechtbagger verhindern dass er den Boden berührt
 :::

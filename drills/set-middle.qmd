@@ -1,7 +1,5 @@
 ### Zuspiel aus der Mitte
 
-3 Spieler stehen in einer Linie. der mittlere Spieler (Zuspieler) spielt den Ball einem der äusseren Spieler zu. Dieser greift auf sein Gegenüber an, der ihn wiederum zum Zuspieler abwehrt. Der Zuspieler stellt nun dem abwehrenden Spieler der wiederum angreift usw.
-
 ```{r}
 #| include: false
 library(tidyverse)
@@ -39,12 +37,14 @@ anim_save("img/mitte.gif", set_middle_plot, height = 150, bg = "transparent")
 
 ```
 
-:::{.callout-tip} 
-## Varianten
-* Der Zuspieler spielt immer im Sprung zu
-* Der Zuspieler spielt über Kopf zu.
-* Die Angreifer legen den Ball kurz.
-* Nach dem Angriff tauschen Zuspieler und Angreifer den Platz.
+Drei Spielende stehen in einer Linie. Die **mittlere** Person (**zuspiel**) spielt den Ball zu einer der **äußeren **Personen. Diese greift auf das Gegenüber an, das den Ball zur **zuspielenden** Person abwehrt. Nun stellt die **zuspielende** Person den Ball für die **abwehrende** Person, die anschließend angreift – und so weiter.  
+
+:::{.callout-tip}  
+## Varianten  
+- Die **zuspielende Person** spielt immer im Sprung zu.  
+- Die **zuspielende Person** spielt über Kopf zu.  
+- Die **angreifenden Personen** legen den Ball kurz.  
+- Nach dem Angriff tauschen die **zuspielende** und die **angreifende** Person die Position.  
 :::
 
-![](img/mitte.gif)
+![](/img/mitte.gif)

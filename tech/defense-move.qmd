@@ -2,8 +2,8 @@
 
 Kopf ruhig lassen um die Orientierung im Raum zu behalten.
 
-  * keine überflüssigen Bewegungen
-  * Hüfte und Kopf bleiben auf einer Höhe
-  * gleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)
-  * direkte Bewegung zum Annahmeort
-  * Kopf bleibt gerade
+- keine überflüssigen Bewegungen
+- Hüfte und Kopf bleiben auf einer Höhe
+- gleitende Bewegung. Füße bleiben am Boden (Shuffle-Schritte)
+- direkte Bewegung zum Annahmeort
+- Kopf bleibt gerade

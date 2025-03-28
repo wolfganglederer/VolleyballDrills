@@ -39,12 +39,12 @@ anim_save("img/russisch.gif", russian_plot, height = 120, , bg = "transparent")
 ![](img/russisch.gif)
 
 :::{.callout-important}
-* auf korrekte Technik achten, insbesondere vollständige Drehung der Person in der Mitte
+- auf korrekte Technik achten, insbesondere vollständige Drehung der Person in der Mitte
 :::
 
 :::{.callout-tip} 
 ## Varianten
-* jeder zweite Ball wird angegriffen.
-* manche Bälle werden gelegt
-* es werden Bälle gespielt, die eine Abwehr im oberen Zuspiel erfordern
+- jeder zweite Ball wird angegriffen.
+- manche Bälle werden gelegt
+- es werden Bälle gespielt, die eine Abwehr im oberen Zuspiel erfordern
 :::

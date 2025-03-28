@@ -1,8 +1,8 @@
 ### Lang, Mitte, Kurz
 
-Paarweise, ein Angriffsspieler mit Rücken zum Netz und ein Abwehrspieler:
+Paarweise, Person **A** mit Rücken zum Netz, Person **B** auf ca. 7 Meter:
 
-1. Langer Angriff
-1. Mittel gelegt
-1. kurz gelegt
+1. Langer Angriff von **A** auf **B**
+1. mittel gelegt von **A** auf **B**
+1. kurz gelegt von **A** auf **B**
 1. Ein Zwischenspiel und von vorne

@@ -1,13 +1,14 @@
-### Parallel Spielen und Position wechseln
+### Parallel spielen mit Positionswechsel  
 
-Je zwei Spieler stehen parallel und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die Beiden (nicht parallelen Spieler) die Position.
+Je zwei Spielende mit Ball stehen parallel zueinander und spielen den Ball gleichzeitig hin und her. Nach jeder Ballberührung tauschen die beiden nicht parallelen Spielenden die Position.  
 
-:::{.callout-tip}
+:::{.callout-tip}  
 ## Varianten
-* oberes und unters Zuspiel abwechseln
-* den Ball über Kreuz spielen
-* den Ball im Sprung zuspielen
-* jeder Spieler hält zusätzlich noch einen Ball in der Hand und wirft sich diesen selbst vor und spielt dann den Spielball
+
+- Oberes und unteres Zuspiel abwechseln  
+- Den Ball über Kreuz spielen  
+- Den Ball im Sprung zuspielen  
+- Jede spielende Person hält zusätzlich einen Ball in der Hand, wirft ihn sich selbst vor und spielt dann den Spielball  
 :::
 
 ```{r}
@@ -45,4 +46,4 @@ anim_save("../img/paralell.gif", plot_change, bg = "transparent")
 }
 ```
 
-![](img/paralell.gif)
+![](/img/paralell.gif)

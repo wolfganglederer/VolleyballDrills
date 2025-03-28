@@ -1,9 +1,13 @@
 ### Zwischenspiel
 
-Jeder Spieler spielt sich den Ball einmal selbst zu. Dabei gibt es verschiedene Varianten:
+Jeder Spieler spielt sich den Ball einmal selbst zu.
 
-* Einmal kurzes oberes Zuspiel und lang zurück
-* unteres Zuspiel und und oberes zurück
-* kurzes oberes Zuspiel und um 180° drehen und über Kopf zurück
-* unteres Zuspiel um 180° drehen und über Kopf im oberen Zuspiel zurück
-* Viele weitere Varianten denkbar
+:::{.callout-tip}
+## Varianten
+- Einmal kurzes oberes Zuspiel und lang zurück
+- unteres Zuspiel und und oberes Zuspiel zurück
+- kurzes oberes Zuspiel und um 180° drehen und über Kopf zurück
+- unteres Zuspiel um 180° drehen und über Kopf im oberen Zuspiel zurück
+- Viele weitere Varianten denkbar
+:::
+

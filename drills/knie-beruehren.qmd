@@ -1,8 +1,8 @@
 ### Knie Berühren
 
-Zwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Partner*in wechseln.
+Zwei Spielende stehen sich paarweise gegenüber und versuche jeweils eines der Knie des Gegenübers zu berühren und gleichzeitig ihre eigenen Knie zu verteidigen. Nach 30 Sekunden Teams wechseln.
 
 :::{.callout-tip}
 ## Varianten
-* geht auch in Liegestützposition und die Ellenbogen berühren
+- geht auch in Liegestützposition und die Ellenbogen berühren
 :::

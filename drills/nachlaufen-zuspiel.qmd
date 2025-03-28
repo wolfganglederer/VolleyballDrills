@@ -1,10 +1,11 @@
 ### Spielen mit Nachlaufen und Zuspiel
 
-Mindestens vier Spielende sind auf einer Feldseite. Positionen **2**,**4**,**6** sind besetzt. Es gibt eine Warteposition hinter Position **2**. Position **2** spielt den Ball auf **4** zu, die ihn auf **6** in einem simulierten Angriff spielt. Von **6**  wird auf Position **2** angenommen. Alle Spielenden laufen dem Ball hinterher.
+Mindestens vier Spielende sind auf einer Feldseite. Positionen **2**,**4**,**6** sind besetzt. Es gibt eine Warteposition hinter Position **2**. Position **2** spielt den Ball auf **4** zu, die den Ball auf **6** in einem simulierten Angriff spielt. Von **6**  wird auf Position **2** angenommen. Alle Spielenden laufen dem Ball hinterher.
 
 :::{.callout-tip}
 ## Varianten
-- Der Ball wird von Position **4** leicht (!) angegriffen
+
+- Der Ball wird von Position **4** leicht(!) angegriffen
 - Position **4** zeigt sehr deutlich mit der Körperachse wohin der Ball gespielt wird. Position **6** bewegt sich entsprechend.
 - Position **4** legt den Ball hin und wieder. Deutliches signalisieren mit z.B. gestrecktem Arm.
 :::

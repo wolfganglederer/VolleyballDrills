@@ -1,6 +1,6 @@
 ### Ball am Netz übergeben
 
-Um das Übergreifen über das Netz zu üben, ohne eine Schlagbewegung auszuführen, wird ein Blocksprung an der Antenne ausgeführt und ein Tennisball hinter der Antenne von einer Hand zur anderen übergeben.
+Um das Übergreifen über das Netz ohne eine Schlagbewegung zu üben, wird ein Blocksprung an der Antenne ausgeführt und ein Tennisball hinter der Antenne von einer Hand zur anderen übergeben.
 
 :::{.callout-tip}
 ## Varianten

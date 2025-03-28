@@ -4,18 +4,18 @@ Die Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespi
 
 :::{.callout-tip}
 ## Varianten
-* Richtungswechsel (auf Zuruf)
-* Oberes Zuspiel im Sprung
-* Oberes und unteres Zuspiel abwechseln
+- Richtungswechsel (auf Zuruf)
+- Oberes Zuspiel im Sprung
+- Oberes und unteres Zuspiel abwechseln
 :::
 
 :::{.callout-important}
 ## Übungsziele
-* Position zum Ball
-* Ausrichtung zum Ziel
+- Position zum Ball
+- Ausrichtung zum Ziel
 :::
 
-![](img/3eck.gif)
+![](/img/3eck.gif)
 
 ```{r}
 #| include: false

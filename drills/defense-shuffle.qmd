@@ -1,11 +1,11 @@
-### Ball aus der Mitte werfen
+### Ball aus der Mitte werfen  
 
-Werfer am Netz, Annahmespieler im Feld. Der Ball wird wird links und rechts geworfen um die richtige Bewegung vom Ball weg zu lernen. Annahmespieler zieht sich 2-3 Schritte zurück und baggert den Ball nach vorne. Jeweils ca. 10 Würfe auf jede Seite.
+Eine **werfende Person** steht am Netz, eine **annahmende Person** im Feld. Der Ball wird abwechselnd nach links und rechts geworfen, um die richtige Bewegung vom Ball weg zu üben. Die **annahmende Person** zieht sich 2–3 Schritte zurück und baggert den Ball zurück. Es werden jeweils ca. 10 Würfe pro Seite ausgeführt.  
 
-:::{.callout-important}
-## Übungsschwerpunkte
-* auf die richtige Grundstellung achten
-* auf die richtige Bewegung zum und weg vom Ball achten
+:::{.callout-important}  
+## Übungsschwerpunkte  
+* Auf die richtige [Grundstellung](/tech/defense-ready.qmd) achten 
+* Auf die richtige [Bewegung](/tech/defense-move.qmd) zum Ball und weg vom Ball achten  
 :::
 
 {{< video https://www.youtube.com/embed/qb_4NcksLq8 >}}

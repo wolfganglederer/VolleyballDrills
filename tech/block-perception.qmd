@@ -1,6 +1,6 @@
 ### Blickreihenfolge
 
 1. Ball (Annahme und Position des Zuspielers und möglicher Angreifer)
-2. Zuspieler (erkennen der Richtung des Zuspiels)
+2. ZuspielerIn (erkennen der Richtung des Zuspiels)
 3. Ball (Korrektes Abschätzen der Weite)
-4. Angreifer (Erkennen der Hauptschlagrichtung)
+4. AngreiferIn (Erkennen der Hauptschlagrichtung)

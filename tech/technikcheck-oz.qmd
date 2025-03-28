@@ -13,4 +13,4 @@
 - [ ] Füße parallel bzw. in leichter schrittstellung (rechts vorne)
 - [ ] Hände werden frühzeitig zum Körbchen hochgenommen in Erwartung des Balles
 - [ ] Neutrale Haltung, alles ruhig
-- [ ] Spieler springt nicht nach Abspiel
+- [ ] SpielerIn springt nicht nach Abspiel
