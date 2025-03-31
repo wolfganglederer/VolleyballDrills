@@ -3,7 +3,6 @@ title: Training Abwehr
 lang: de
 ---
 
-
 ## Theorie
 
 ### Technik
@@ -42,7 +41,7 @@ Welchen Ball muss man zuerst verteidigen?
   5. Angriff von Aussen/Diagonal
   7. Dankeball
 
-Die Aufstellung an den "Angriff" anpassen.
+Die position auf dem Feld an die Art des Angriff anpassen.
 
 #### 1. Overpass für den Block
 
@@ -62,7 +61,7 @@ Sehr kurze Bälle nehmen die Netzspieler (Einen Schritt vom Netz wegbewegen). Zu
 - Blockspielende Blocken **(!!immer!!)**.
 - **5** und **1** decken die harten Bälle ab. Die **6** alles was lange ist. **2** und **4** sichern den Block oder blocken.
 
-Immer an den Angreifer und den Block anpassen. (Absprechen!) Am Besten schon nach dem Einschlagen über Prioritäten bei Block und Abwehr sprechen.
+Immer an die angreifende Person und den Block anpassen. (Absprechen!) Am Besten schon nach dem Einschlagen über Prioritäten bei Block und Abwehr sprechen.
 
 #### 5. Ball von Aussen (oder über Kopf)
 
@@ -165,21 +164,21 @@ In der Mannschaft absprechen!
 
 ## Fazit
 
-* Saubere Technik
-  * kann jeder für sich alleine üben
-  * einfach immer vor dem Einspielen etwas vornehmen was man üben will.
-* grundsätzliche Absprache im Team (System, Trainer)
-* Alles was man individuell schon vorher machen kann auch schon vorher machen! (Das Spiel ist schnell genug)
-  * Angriffsszenarien durchgehen (z.B. Zuspieler legt oder MB und Zuspieler diskutieren lange, Rückraum etc.)
-  * den Gegner beobachten
-  * individuelle Absprachen treffen (z.B. "Du kurz!")
-  * Allgemeine Anweisungen ("Achtung kurzer Aufschlag!", "Vorsicht legt!")
-* immer konzentriert und in Bewegung bleiben.
-  * es ist nichts frustrierender als Spieler die erschrecken, wenn der Ball zu ihnen kommt und sie dann zu spät reagieren.
-  * Fehler von Kolleg:innen ausgleichen (Wir sind ein Team)
-  * mal auch was für die Galerie machen (jeder muss sehen, dass man sich anstrengt)
-  * nie aufgeben
-* Verteidigung ist eine mentale Angelegenheit
-  * man muss den Ball wollen
-  * immer wach bleiben
-  * beweglich bleiben
+- Saubere Technik
+  - kann jeder für sich alleine üben
+  - einfach immer vor dem Einspielen etwas vornehmen was man üben will.
+- grundsätzliche Absprache im Team (System, Trainer)
+- Alles was man individuell schon vorher machen kann auch schon vorher machen! (Das Spiel ist schnell genug)
+  - Angriffsszenarien durchgehen (z.B. Zuspieler legt oder MB und Zuspieler diskutieren lange, Rückraum etc.)
+  - den Gegner beobachten
+  - individuelle Absprachen treffen (z.B. "Du kurz!")
+  - Allgemeine Anweisungen ("Achtung kurzer Aufschlag!", "Vorsicht legt!")
+- immer konzentriert und in Bewegung bleiben.
+  - es ist nichts frustrierender als Spieler die erschrecken, wenn der Ball zu ihnen kommt und sie dann zu spät reagieren.
+  - Fehler von Kolleg:innen ausgleichen (Wir sind ein Team)
+  - mal auch was für die Galerie machen (jeder muss sehen, dass man sich anstrengt)
+  - nie aufgeben
+- Verteidigung ist eine mentale Angelegenheit
+  - man muss den Ball wollen!
+  - immer wach bleiben
+  - beweglich bleiben

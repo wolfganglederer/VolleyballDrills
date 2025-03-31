@@ -1,16 +1,16 @@
-### Zuspieler reagiert auf Block
+### Reaktion im Zuspiel auf Blockbewegung
 
 **Vorbereitung**
 
-- Zwei Fänger*innen am Netz und dazwischen ein Zuspieler.
-- Eine Person zum Blocken auf der anderen Seite des Netzes.
-- Ein bis zwei Anspieler*innen.
+- Zwei **fangende Personen (F1, F2)** und eine **zuspielende Person (Z)** positionieren sich am Netz. **Z** steht dabei zwischen **F1** und **F2**.
+- Eine **blockende Person (B)** steht auf der anderen Seite des Netzes, gegenüber von **Z**.
+- Ein bis zwei **anspielende Personen (A)** stehen im Feld bereit, den Ball ins Spiel zu bringen.
 
 **Ablauf:**
 
-1. Anspieler spielt zum Zuspieler
-2. Blockspieler bewegt sich
-3. Zuspieler spielt zum freien Fänger
-4. Fänger spielt zum Anspieler
-5. Anspieler wieder zum Zuspieler.
-6. usw.
+1.  Person **A** spielt den Ball zu Person **Z**.
+2.  Person **B** bewegt sich am Netz nach links oder rechts (simuliert einen Block).
+3.  Person **Z** beobachtet die Bewegung von **B** und spielt den Ball zu der **fangenden Person (F1 oder F2)**, die sich in der *nicht* von **B** abgedeckten Richtung befindet (zur "freien" Person).
+4.  Die **fangende Person (F1 oder F2)**, die den Ball erhalten hat, fängt diesen und spielt ihn zurück zu Person **A**.
+5.  Person **A** spielt den Ball erneut zu Person **Z**.
+6.  Die Übung wird mit Schritt 2 fortgesetzt.

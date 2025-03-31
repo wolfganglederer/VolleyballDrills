@@ -31,6 +31,7 @@ website:
       - section: "Trainings"
         contents:
         - reception-training.qmd
+        - setting-trainig-1.qmd
       - section: "Sonstiges"
         contents:
         - links.qmd
@@ -46,6 +47,4 @@ format:
       light: flatly
       dark: darkly
     toc: true
-
-
 

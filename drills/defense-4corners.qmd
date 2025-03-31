@@ -1,4 +1,4 @@
-### Vier Ecken
+## Vier Ecken
 
 Eine zuspielende Person, eine angreifende Person und drei abwehrende Personen. In jeder Ecke des Feldes steht eine Person, die entweder angreift oder abwehrt. Die zuspielende Person beginnt das Spiel, indem sie aus der Mitte des Feldes den Ball hoch zur angreifenden Person spielt. Diese greift diagonal an. Die übrigen abwehrenden Personen schließen zur Person in der diagonalen Ecke auf und wehren den Ball gemeinsam zur zuspielenden Person in der Feldmitte ab. Die abwehrende Person (die den Ball berührt hat) wird zur neuen angreifenden Person (in ihrer ursprünglichen Ecke), und die verbleibenden Personen bilden in der diagonalen Ecke wieder einen Abwehrriegel. Dieser Ablauf wiederholt sich kontinuierlich.
 

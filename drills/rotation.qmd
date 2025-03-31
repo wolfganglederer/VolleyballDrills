@@ -1,13 +1,16 @@
 ### Aufstellung  
 
-Das Team stellt sich zur Annahme auf. Die übrigen Spielenden versammeln sich in der anderen Hälfte. Diese schlagen auf, und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen:  
+Das Team stellt sich zur Annahme auf. Die übrigen Spielenden versammeln sich in der anderen Hälfte. Diese schlagen auf, und der Ball wird ausgespielt. Danach können verschiedene Varianten folgen.  
 
+:::{.callout-tip}
+## Varianten für den nachgeworfenen Ball.
 - Einen Dankeball hinterherwerfen.  
 - Einen Ball einschlagen.  
 - Einen Ball gezielt in die Lücken werfen (z. B. auf die **6** oder lang in die Ecken).  
 - Einen Ball zum restlichen Team werfen, das ihn abwehrt und angreift.  
 - Direkt einen Ball für einen Rückraumangriff des restlichen Teams anwerfen.  
 - Nach einem Angriff einen Block simulieren und sofort einen Ball nachwerfen.  
+:::
 
 Weiter rotiert wird nach:  
 
@@ -15,7 +18,7 @@ Weiter rotiert wird nach:
 - 5 Versuchen.  
 
 :::{.callout-tip}  
-## Varianten  
+## Varianten für den Aufschlag
 - Den Aufschlag von einem niedrigen Kasten ausführen, um härtere Aufschläge zu simulieren.  
 - Zwei aufschlagende Personen: Die erste schlägt mit vollem Risiko auf, die zweite mit einem sicheren Aufschlag, falls der erste ins Netz geht.  
 :::  

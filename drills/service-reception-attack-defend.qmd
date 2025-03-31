@@ -19,8 +19,8 @@ Der Ablauf ist wie folgt:
 
 1. Aufschlag über das Netz in Feldhälfte **A** (auf die Annahmepositionen)
 2. Annahme zum Zuspiel
-3. Zuspiel auf den Angreifer (Position und Art des Zuspiels vorher festlegen)
-4. Angriff auf den Abwehrspieler
+3. Zuspiel auf die angreifende Person (Position und Art des Zuspiels vorher festlegen)
+4. Angriff auf die abwehrende Person
 5. Abwehr zu sich selbst und den Ball fangen
 6. Alle rotieren eine Position weiter und wieder Aufschlag
 
@@ -31,18 +31,18 @@ Es können bei dieser Übung diverse Sachen geübt werden:
 - Zuspiel (mit laufen)
 - Technik Angriff
 - Annahme und Abstimmung zu zweit
-- Abwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angreifer)
+- Abwehr (frühzeitiges erkennen der Schlagrichtung und Positionierung zum Angriff)
 - Abwehrtechnik
 :::
 
 :::{.callout-tip}
 ## Varianten
 - Verschiedene Angriffsoptionen (Aussen Mitte über Kopf)
-- Der Zuspieler läuft von Position 1, oder 4/5
-- Annahme Spieler gehen zur Angriffssicherung
-- Zusätzliche Spieler können noch z.B. 
+- Die zuspielende Person läuft von Position 1, oder 4/5
+- Annehmende Spieler:innen gehen zur Angriffssicherung
+- Zusätzliche Spielende können noch z.B. 
   - einen Block stellen (1-2 Spieler)
-  - zusätzliche Abwehrspieler
-  - zusätzlicher Annahme Spieler
+  - zusätzliche Abwehrspielende
+  - zusätzlicher Annahmespielende
   - etc..
 :::
