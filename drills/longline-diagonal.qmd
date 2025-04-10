@@ -4,7 +4,8 @@ Alle vier Ecken eines Feldes werden besetzt. In den Ecken am Netz stehen jeweils
 
 :::{.callout-tip}
 ## Varianten
-* Oberes Zuspiel im Sprung
+- Oberes Zuspiel im Sprung
+- Der Ball am Netz wird sich selbst zugespielt und dann longline angegriffen.
 :::
 
 

@@ -5,6 +5,8 @@ lang: de
 
 {{< include drills/diagonal-game.qmd >}}
 
+{{< include drills/longline-diagonal.qmd >}}
+
 {{< include drills/kreisel-4.qmd >}}
 
 {{< include drills/kreisel-5.qmd >}}
