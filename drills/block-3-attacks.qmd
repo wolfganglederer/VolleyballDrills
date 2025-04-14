@@ -1,0 +1,11 @@
+### Block gegen drei Angreifer
+
+Eine zuspielende Person und drei Reihen von angreifenden Personen. Zwei bis drei blockende Personen auf der anderen Seite des Netzes. Ball wird eingeworfen und zufällig zu einer der angreifenden Person zugespiel, die einen Angriff ausführt. Die Blockenden versuchen den Ball zu Blocken am besten mit einem Doppelblock.
+
+:::{.callout-tip}
+## Varianten
+- Ball wird eingeworfen statt angeworfen um das Zuspiel zu erscheweren.
+- Klare Prioritäten setzen wo geblockt werden soll.
+- Versuchen den Ball zu verteidigen und anschließend auspielen.
+:::
+

@@ -1,0 +1,15 @@
+### Angriff in den Block
+
+Um die Handhaltung und das Timing zu üben werden Angriffe in den Block ausgeführt. Auf der Angriffsseite kann mit Kästen ein kleines Podest gebaut werden.
+
+:::{.callout-tip}
+## Varianten
+- Block aus dem Stand
+- Block nach einem Shuffelschritt
+- Swingblock
+- Doppelblock (mit und ohne Bewegung)
+- Angriff von weit ausserhalb der Antenne (An die Antenne anschließen und weniger übergreifen)
+:::
+
+{{< video https://www.youtube.com/embed/9X5RSvrObB8 >}}
+

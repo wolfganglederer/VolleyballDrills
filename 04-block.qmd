@@ -23,9 +23,7 @@ lang: de
 
 ### Einschlagen mit Block
 
-### Angriff in den Block
+{{< include drills/block-attack.qmd >}}
 
-{{< video https://www.youtube.com/embed/9X5RSvrObB8 >}}
-
-### Block gegen drei Angreifer
+{{< include drills/block-3-attacks.qmd >}}
 

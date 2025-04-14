@@ -5,6 +5,7 @@ Um das Übergreifen über das Netz ohne eine Schlagbewegung zu üben, wird ein B
 :::{.callout-tip}
 ## Varianten
 - Verschiedene Arten des Blocks nutzen. Shuffle-Shritte, Swing-Block oder aus dem Stand.
+- Mit einer zweiten Klettantenne kann der Doppelblock geübt werden, in dem die Antenne nebeneinander angebracht werden.
 :::
 
 
@@ -12,4 +13,5 @@ Um das Übergreifen über das Netz ohne eine Schlagbewegung zu üben, wird ein B
 ## Übungsziel
 - Darauf achten, dass die Hände über das Netz **geschoben** werden und dabei keine Schlagbewegung ausgeführt wird.
 - Netzberührungen sollten verhindert werden.
+- Den Ball von der äusseren zur inneren Hand übergeben um zu üben auf die Feldmitte zu zielen.
 :::
