@@ -5,15 +5,16 @@ Drei Spielende, zwei Bälle. Die Spielenden stehen auf einer Linie und die äuss
 ```{r}
 #| include: false
 
+recalculate <- FALSE
+
+if(recalculate){
+
 library(tidyverse)
 library(gganimate)
 library(ggforce)
 library(knitr)
 library(tweenr)
 
-recalculate <- FALSE
-
-if(recalculate){
 russian_drill <- tribble(~time, ~x_ball1, ~y_ball1,~x_ball2, ~y_ball2,~x2, ~y2,
   1, 0.03, 0, 0.38, 0, 0.35, 0,
   2, 0.62, 0, 0.97, 0, 0.65, 0,

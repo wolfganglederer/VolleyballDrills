@@ -1,3 +1,15 @@
 ### Spielen im Viereckeck mit Laufen
 
-Drei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nachdem dem Ballkontakt, läuft die Person in die freie Ecke.
+Drei Spielende bilden ein Viereck, bei dem eine Ecke frei bleibt. Der Ball wird diagonal ins Spiel gebracht und danach immer zu der Person gespielt, die sich nicht bewegt hat. Nach dem Ballkontakt, läuft die spielende Person in die freie Ecke.
+
+:::{.callout-tip}
+## Varianten
+
+Die Übung kann auch genutzt werden um die Ballkontrolle zu verbessern. Dazu dienen die folgenden Varitanten als Inspitation:
+
+- untere Annahme und im oberen Zuspiel weiter
+- obere Annahme und über Kopf weiter im unteren Zuspiel
+- 3 Kontakte Annahme, Zuspiel, Angriff
+- untere Annahme und über Kopf im oberen Zuspiel zurück
+:::
+

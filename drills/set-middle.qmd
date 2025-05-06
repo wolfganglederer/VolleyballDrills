@@ -2,14 +2,14 @@
 
 ```{r}
 #| include: false
+recalculate <- FALSE
+if(recalculate){
 library(tidyverse)
 library(gganimate)
 library(ggforce)
 library(knitr)
 library(tweenr)
 
-recalculate <- FALSE
-if(recalculate){
 set_middle <- tribble(~time,~x_ball1, ~y_ball1,
                       1,0.47, 0.19,
                       2,0.03, 0.1, 

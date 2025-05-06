@@ -15,15 +15,15 @@ Je zwei Spielende mit Ball stehen parallel zueinander und spielen den Ball gleic
 #| include: false
 ```{r}
 #| include: false
+
+recalculate <- FALSE
+
+if(recalculate){
 library(tidyverse)
 library(gganimate)
 library(ggforce)
 library(knitr)
 library(tweenr)
-
-recalculate <- FALSE
-
-if(recalculate){
 par_change <- tribble(~time, ~x_ball1, ~y_ball1, ~x_ball2, ~y_ball2, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3, ~x4, ~y4,
         1, 0.03, 0, 0.03, 1, 0, 0, 0, 1, 1, 0, 1, 1,
         2, 0.97, 0, 0.97, 1, 0, 1, 0, 0, 1, 0, 1, 1,

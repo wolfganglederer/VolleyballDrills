@@ -1,5 +1,5 @@
-#import "@preview/cetz:0.3.2"
-#import "@preview/ccicons:1.0.0":*
+#import "@preview/cetz:0.3.4"
+#import "@preview/ccicons:1.0.1":*
 
 #set text(font: "FreeSans")
 
@@ -126,7 +126,7 @@ rect(stroke: (dash: "dashed"), inset: 25pt)[#field_half(66.5%, 66.5%, positions:
 
 #set page(margin:(x: 2mm, y:30pt))
 
-#let pat_grids = pattern(size: (5mm, 5mm))[
+#let pat_grids = tiling(size: (5mm, 5mm))[
   #place(
       dx:0mm, 
       dy:0mm,
@@ -138,7 +138,7 @@ rect(stroke: (dash: "dashed"), inset: 25pt)[#field_half(66.5%, 66.5%, positions:
 //      end: (0%, 100%)))
       ] 
 
-#let pat_lines = pattern(size: (10mm, 10mm))[
+#let pat_lines = tiling(size: (10mm, 10mm))[
   #place(
       dx:0mm, 
       dy:9mm,
@@ -147,7 +147,7 @@ rect(stroke: (dash: "dashed"), inset: 25pt)[#field_half(66.5%, 66.5%, positions:
 
 
 
-#let pat_dots = pattern(size: (5mm, 5mm))[
+#let pat_dots = tiling(size: (5mm, 5mm))[
   #place(
       dx: 2.5mm, 
       dy: 2.5mm,
@@ -173,16 +173,16 @@ rect(stroke: (dash: "dashed"), inset: 25pt)[#field_half(66.5%, 66.5%, positions:
 
 #pagebreak()
 
-#page(margin: (top: 10pt, bottom: 25pt))[
+// #page(margin: (top: 20pt, bottom: 20pt, left: 20pt, right: 20pt))[
 #rect()[
 #grid(columns: (1fr,5fr,1fr),
 gutter: 12pt,
 stroke: 0pt,
-[Zuspieler:], [],grid.cell(rowspan: 4)[#circle(radius: 40pt, stroke: 4pt)],
+[Zuspieler:], [],grid.cell(rowspan: 4)[#circle(radius: 35pt, stroke: 4pt)],
 [Aussen:], [],
 [Mittelblocker:], [],
 [Diagonal:], [])
 ]
 
 #rect(width: 100%, height: 87%, fill: pat_dots, stroke: 1pt)
-]
+// ]

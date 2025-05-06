@@ -4,15 +4,17 @@ Drei Spielende bilden ein Viereck, wobei eine Ecke frei bleibt.
 
 ```{r}
 #| include: false
+
+recalculate <- FALSE
+
+if(recalculate){
+
 library(tidyverse)
 library(gganimate)
 library(ggforce)
 library(knitr)
 library(tweenr)
 
-recalculate <- FALSE
-
-if(recalculate){
 par_square_by3 <- 
   tribble(~time,~ball_x, ~ball_y, ~p1_x, ~p1_y,
           1, 0.02, 0.02, 0.5, 0.5,
@@ -47,5 +49,5 @@ anim_save("img/square_by3.gif", par_square_by3_plot, bg = "transparent")
 - Ausrichtung des Spielers zum Ziel
 :::
 
-![square by three](img/square_by3.gif)
+![square by three](/img/square_by3.gif)
 

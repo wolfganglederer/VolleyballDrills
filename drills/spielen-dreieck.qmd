@@ -19,15 +19,15 @@ Die Spielenden stellen sich im Dreieck auf. Der Ball wird in eine Richtung gespi
 
 ```{r}
 #| include: false
+recalculate <- FALSE
+
+if(recalculate){
 library(tidyverse)
 library(gganimate)
 library(ggforce)
 library(knitr)
 library(tweenr)
 
-recalculate <- FALSE
-
-if(recalculate){
 tri_play <- tribble(~time, ~x_ball, ~y_ball, ~x1, ~y1, ~x2, ~y2, ~x3, ~y3,
         1, 0.05, 0.05, 0, 0, 1, 1, 2, 0,
         2, 1, 0.95, 2.05, -0.05, 1, 1, 2, 0,
