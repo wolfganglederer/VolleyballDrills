@@ -173,7 +173,7 @@ rect(stroke: (dash: "dashed"), inset: 25pt)[#field_half(66.5%, 66.5%, positions:
 
 #pagebreak()
 
-// #page(margin: (top: 20pt, bottom: 20pt, left: 20pt, right: 20pt))[
+#page(margin: (top: 20pt, bottom: 40pt, left: 20pt, right: 20pt))[
 #rect()[
 #grid(columns: (1fr,5fr,1fr),
 gutter: 12pt,
@@ -185,4 +185,5 @@ stroke: 0pt,
 ]
 
 #rect(width: 100%, height: 87%, fill: pat_dots, stroke: 1pt)
+]
 // ]

@@ -9,6 +9,8 @@ lang: de
 
 {{< include drills/3-vs-3-2balls.qmd >}}
 
+{{< include drills/spikeball.qmd >}}
+
 ## Übungen
 
 {{< include drills/spielen-mit-nachlaufen.qmd >}}

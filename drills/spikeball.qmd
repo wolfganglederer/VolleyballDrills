@@ -1,0 +1,9 @@
+### Spikeball
+
+2 vs.2 oder 3 vs. 3. Ein Team auf jeder Feldhälfte der Ball muss drei mal gespielt werden und unter der Netzkante in den Mittelkreis auf die gegnerische Seite gespielt werden. Der Ball muss im gegnerischen Feld aufkommen.
+
+:::{.callout-tip}
+## Varianten
+- bei meher als v Spielern King/Queen of the Hill
+:::
+
