@@ -23,6 +23,7 @@ lang: de
 
 {{< include drills/reception-action.qmd >}}
 
+{{< include drills/dankeball.qmd >}}
 ## Abwehr
 
 {{< video https://www.youtube.com/embed/U2fTX-e-B6c?si=B8LkeYCoGldu2LGC >}}

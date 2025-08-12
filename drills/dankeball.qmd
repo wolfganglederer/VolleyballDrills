@@ -1,0 +1,21 @@
+### Annahme Dankeball
+
+Zwei Werfende am Netz (**2** und **4**) eine fangende Person **2,5**, der Rest der Mannschaft als Annehmende hinter der Grundlinie.
+
+Eine Person betritt das Feld und erhält vier Bälle in Folge zugeworfen die hoch zum zu **2,5** abgewehrt werden. Danach wieder hinten anstellen und es geht mit der nächsten Person weiter.
+
+:::{.callout-tip}
+## Varianten
+- Bälle werden longline geworfen
+- Bälle werden diagonal geworfen
+- es wird auf eine Technik eingeschränkt (unteres Zuspiel)
+:::
+
+:::{.callout-important}
+## Übungsziel
+- saubere Technik
+- richtige Positionierung zum Ball
+- zielgenaune Annahme/Abwehr
+:::
+
+{{< video https://www.youtube.com/embed/yDFlTyA45lA?si=PWRuZ6NiBeQxRAPW >}}
