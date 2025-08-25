@@ -5,6 +5,7 @@ Jeder Spieler spielt sich den Ball einmal selbst zu.
 :::{.callout-tip}
 ## Varianten
 - Einmal kurzes oberes Zuspiel und lang zurück
+- oberes Zuspiel leicht zur Seite und dann die Position nachkorrigieren
 - unteres Zuspiel und und oberes Zuspiel zurück
 - kurzes oberes Zuspiel und um 180° drehen und über Kopf zurück
 - unteres Zuspiel um 180° drehen und über Kopf im oberen Zuspiel zurück

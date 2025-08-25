@@ -7,7 +7,7 @@ Die Übung beginnt mit einem Angriff von **4** auf **1**. Der Angriff wird abgew
 Der zugespielte Ball wird von **2** angegriffen und von **5** abgewehrt. Die Person auf **2** wird nun die neue **zuspielende Person** und spielt von **2,5** auf **4** zu. Die **abwehrende Person** von **5** stellt sich wieder hinten an, und eine neue **abwehrende Person** läuft auf Position **1**, um zu verteidigen. Ab hier beginnt die Abfolge von vorn.  
 
 Drei **Spielende** wechseln sich auf der Netzposition ab und greifen diagonal an.  
-Drei **Spielende** wechseln sich in der Abwehr ab (auf Positon **1** und **5**).  
+Drei **Spielende** wechseln sich in der Abwehr ab (auf Position **1** und **5**).  
 
 :::{.callout-important}  
 ## Übungsziele  
