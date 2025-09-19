@@ -1,0 +1,10 @@
+### Vier Hütchen
+
+Ein Quadrat wird aus vier Hütchen wird aufgestellt. Es gibt verschiedene Übungen die paarweise ausgeführt werden.
+
+- Ball innerhalb des Quadrats mit unterem Zuspiel abwechselnd hochhalten und nach jeder Ballberührung die Wand oder ein 5. Hütchen berühren. Zuerst kooperativ, danach auch gegeneinander. Eine definierte Mindesthöhe sorgt für ein faires Spiel.
+- Je eine Person an gegenüberliegenden Hütchen. Der Ball wird gespielt und danach wird sich bewegt.
+  - Eine Person wirft immer gerade/diagonal, die andere Person bewegt sich mit Shuffelschritten zum freien Hütchen und wieder zurück.
+  - Der Ball wird auch von der werfenden Person gespielt und nicht gefangen und geworfen.
+  - Beide Personen bewegen sich. Eine Person spielt immer gerade, die andere immer diagonal.
+  - Die Person die den Ball gespielt hat bewegt sich zu einem der freien Hütchen und die spielende Person muss darauf reagieren.

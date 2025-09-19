@@ -25,6 +25,8 @@ lang: de
 
 {{< include drills/viereck-laufen.qmd >}}
 
+{{< include drills/four-cones.qmd >}}
+
 ## Ohne Ball
 
 {{< include drills/knie-beruehren.qmd >}}
