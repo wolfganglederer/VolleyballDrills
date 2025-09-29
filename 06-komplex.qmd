@@ -15,6 +15,8 @@ lang: de
 
 {{< include drills/kreisel-8.qmd >}}
 
+{{< include drills/set-backrow.qmd >}}
+
 {{< include drills/defense-perception.qmd >}}
 
 {{< include drills/defense-situational.qmd >}}

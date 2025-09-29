@@ -41,11 +41,15 @@ Die folgenden Übungen werden immer paarweise ausgeführt und eignen sich deshal
 
 {{< include drills/defense-set-attack.qmd >}}
 
+{{< include drills/backrow-three.qmd >}}
+
 ## Koordination
 
 Koordinative Übungen können sowohl ins Einspielen als auch im Training integriert werden. Die Übungen sollten immer fordernd sein, sonst haben sie keinen Trainingseffekt.
 
 {{< video https://www.youtube.com/embed/9dzgovUkOsw?si=P6wkeEDCE0XlgJE- >}}
+
+{{< include drills/setting-nose.qmd >}}
 
 {{< include drills/play-parallel.qmd >}}
 

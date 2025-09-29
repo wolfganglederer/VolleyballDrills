@@ -1,0 +1,12 @@
+### Oberes Zuspiel mit Zusatzaufgabe
+
+Der Ball wird im oberen Zuspiel zu sich selbst zugespielt. Durch Zusatzaufgabe wird es erschwert.
+
+:::{.callout-tip}
+## Varianten
+- Ohren berühren (links-rechts)
+- zusätzlich die Nase
+- zusätzlich den Rechten Fuß
+- zusätzlich den Linken Fuß
+:::
+ 
